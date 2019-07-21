@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["CQq46"]); }
+
+__d("adsMgmtCampaignGroupSelectedIdsSelector",["requireCond","AdsMgmtCampaignGroupSelectionProvider","adsCreateSelector"],(function(a,b,c,d,e,f){"use strict";a=b("AdsMgmtCampaignGroupSelectionProvider").toFluxSelector();c=b("adsCreateSelector")([a],function(a){a=a.cachedSelectedIDs;return a},{name:e.id+".adsMgmtCampaignGroupSelectedIdsSelector"});e.exports=c}),null);

@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Yffvn"]); }
+
+__d("AdsMgmtGlobalTreeRootLevelSelector",["AdsMgmtGlobalTreeRootLevelProvider","adsCreateSelector"],(function(a,b,c,d,e,f){"use strict";a=b("adsCreateSelector")([b("AdsMgmtGlobalTreeRootLevelProvider").toFluxSelector()],function(a){return a.rootLevel},{name:e.id+".AdsMgmtGlobalTreeRootLevelSelector"});e.exports=a}),null);

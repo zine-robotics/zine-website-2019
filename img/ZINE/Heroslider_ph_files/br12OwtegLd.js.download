@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["HyImB"]); }
+
+__d("adsMgmtCampaignSelectedIdsByLevelSelector",["AdObjectLevels","AdsSelectionLevelSelectors","adsCreateSelector","adsMgmtCampaignIDsFromSelectedParentIDsByLevelSelector","adsMgmtCampaignSelectedIdsSelector"],(function(a,b,c,d,e,f){a=b("adsCreateSelector")([b("adsMgmtCampaignSelectedIdsSelector"),b("adsMgmtCampaignIDsFromSelectedParentIDsByLevelSelector"),b("AdsSelectionLevelSelectors").adsSelectionLevelSelector],function(a,c,d){if(d===b("AdObjectLevels").ADGROUP)return[];else return a.concat(c)},{name:e.id+".selector"});e.exports=a}),null);

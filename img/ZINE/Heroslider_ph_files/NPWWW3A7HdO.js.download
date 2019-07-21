@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["mQV5g"]); }
+
+__d("adsMgmtCampaignSelectionSelector",["requireCond","AdsMgmtCampaignSelectionProvider","adsCreateSelector","immutable"],(function(a,b,c,d,e,f){"use strict";a=b("AdsMgmtCampaignSelectionProvider").toFluxSelector();c=b("adsCreateSelector")([a],function(a){a=a.selection;return a},{name:e.id+".adsMgmtCampaignSelectionSelector"});e.exports=c}),null);
