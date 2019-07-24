@@ -104,12 +104,10 @@
 				</nav>
 	</div>
 	<div class="main-container">
-		<section class="section-header overlay preserve3d lazy-section">
-
+	<section class="section-header overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
 				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
-
 			<div class="container vertical-align">
 				<div class="row">
 					<div class="col-sm-offset- col-sm-12"> 

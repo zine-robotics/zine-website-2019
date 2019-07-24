@@ -20,10 +20,16 @@ $(document).ready(function() {
             setTimeout(function(){
                 $('nav').css('top', '-100px');
             },400)
+            setTimeout(function(){
+                $('.mobile-menu-toggle').css('top', '-100px');
+            }, 610)
         } else if(prevScrollpos - currentScrollPos > 3){
             setTimeout(function(){
                 $('nav').css('top', '0px');
             }, 400);
+            setTimeout(function(){
+                $('.mobile-menu-toggle').css('top', '17px');
+            }, 610);
         }
         prevScrollpos = currentScrollPos ;
         $('nav').clearQueue();

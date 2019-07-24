@@ -56,7 +56,7 @@
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
+									<div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
                                 </ul>
 							</div>
 						</div>
@@ -91,7 +91,7 @@
 				</nav>
     </div>
 	<div class="main-container">
-		<section class="section-header overlay preserve3d lazy-section" style="height: 300px">
+		<section class="section-header1 overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
 				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>

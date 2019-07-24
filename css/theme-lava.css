@@ -669,7 +669,6 @@ nav .container {
 }
 .sidebar-menu-toggle,
 .mobile-menu-toggle {
-  position: absolute;
   color: #fff;
   font-size: 32px;
   right: 0px;
@@ -1088,19 +1087,40 @@ nav .container {
 .section-header {
   position: relative;
   overflow: hidden;
-  height: 450px;
+  height: 550px;
+  top: 68px;
+}
+.section-header1 {
+  position: relative;
+  overflow: hidden;
+  height: 300px;
 }
 .section-header h1 {
   font-size: 32px;
 }
+.section-header1 h1 {
+  font-size: 32px;
+}
+.section-header1.overlay:before {
+  opacity: 0.2;
+}
 .section-header.overlay:before {
   opacity: 0.2;
+}
+.section-header1 i {
+  font-size: 40px;
+  color: #fff;
+  margin: 0px 24px 12px 0px;
 }
 .section-header i {
   font-size: 40px;
   color: #fff;
   margin: 0px 24px 12px 0px;
 }
+.section-header1 i:last-of-type {
+  margin-right: 0px;
+}
+
 .section-header i:last-of-type {
   margin-right: 0px;
 }

@@ -781,7 +781,7 @@ BKIT, Kota Rajasthan.
 								<li><a target="_self" href="about.php">About</a></li>
 								<li><a target="_self" href="">Projects</a></li>
 								<li><a target="_self" href="team.php">Team</a></li>
-								li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
+								<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
                             </ul>
 						</div>
 						<div class="col-sm-7">
