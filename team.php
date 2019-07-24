@@ -11,17 +11,17 @@
     <meta property="og:title" content="ZINE" />
     <meta property="og:type" content="website" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
-	<link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/pe-icon-7-stroke.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/theme-lava.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/custom-blog.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="shortcut icon" href="fossasia.ico" type="image/x-icon" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/pe-icon-7-stroke.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/theme-lava.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom-blog.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" media="all" />
 
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
 </head>
@@ -55,16 +55,16 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="#top"><img alt="ZINE" class="logo logo-light" src="../img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="../img/ZINE/zine1.png"></a>
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_self" href="#founder">Team</a></li>
+									<li><a target="_self" href="team.php">Team</a></li>
 									<li><a target="_self" href="Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="../about/index.html">About</a></li>
+                                    <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
@@ -78,12 +78,12 @@
 					<div class="bottom-border"></div>
 
 					<div class="sidebar-menu">
-						<img alt="Logo" class="logo" src="../img/ZINE/zine1.png">
+						<img alt="Logo" class="logo" src="img/ZINE/zine1.png">
 						<div class="bottom-border"></div>
 						<div class="widget">
 							<ul class="menu">
 								<li><a class="inner-link" href="#top">Home</a></li>
-								<li><a href="../about/index.html" target="_self">About</a></li>
+								<li><a href="about/index.html" target="_self">About</a></li>
 								<li><a href="tutorials.php" target="_self">Projects</a></li>
 								<li><a href="contacts.php" target="_self">Contact</a></li>
 							</ul>
@@ -107,7 +107,7 @@
 		<section class="section-header overlay preserve3d lazy-section">
 
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/ZINE/hero7.jpg">
+				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
 
 			<div class="container vertical-align">
@@ -140,7 +140,7 @@
                         <div class="speaker-with-bio">
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="avatar" alt="Dr Rajesh Kumar" src="../img/ZINE/Founder/rajeshsir.jpg">
+									<img class="avatar" alt="Dr Rajesh Kumar" src="img/ZINE/Founder/rajeshsir.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://drrajeshkumar.wordpress.com/" target="default"><i class="icon social_wordpress"></i></a>
@@ -166,7 +166,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Himanshu Gothwal" src="../img/ZINE/Founder/himanshu.jpg">
+									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/Founder/himanshu.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
@@ -185,7 +185,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Arpit" src="../img/ZINE/Founder/arpit.jpg">
+									<img class="background-image avatar" alt="Arpit" src="img/ZINE/Founder/arpit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
@@ -203,7 +203,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Anupam Kumar" src="../img/ZINE/Founder/anupam.jpg">
+									<img class="background-image avatar" alt="Anupam Kumar" src="img/ZINE/Founder/anupam.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
@@ -220,7 +220,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Soniya Jain" src="../img/ZINE/Founder/soniya.jpg">
+									<img class="background-image avatar" alt="Soniya Jain" src="img/ZINE/Founder/soniya.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
@@ -252,7 +252,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Himanshu Gothwal" src="../img/ZINE/FinalYear/devnath.jpg">
+									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/FinalYear/devnath.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
@@ -271,7 +271,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Nimesh" src="../img/ZINE/FinalYear/nimesh.jpg">
+									<img class="background-image avatar" alt="Nimesh" src="img/ZINE/FinalYear/nimesh.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
@@ -289,7 +289,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image" alt="Vikalp" src="../img/ZINE/FinalYear/vikalp.jpg">
+									<img class="background-image" alt="Vikalp" src="img/ZINE/FinalYear/vikalp.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
@@ -323,7 +323,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Tanmay" src="../img/ZINE/thirdyear/tanmay.jpg">
+									<img class="background-image avatar" alt="Tanmay" src="img/ZINE/thirdyear/tanmay.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
@@ -342,7 +342,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Paarth" src="../img/ZINE/thirdyear/paarth.jpg">
+									<img class="background-image avatar" alt="Paarth" src="img/ZINE/thirdyear/paarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
@@ -360,7 +360,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Vibhor" src="../img/ZINE/thirdyear/vibhor.jpg">
+									<img class="background-image avatar" alt="Vibhor" src="img/ZINE/thirdyear/vibhor.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
@@ -377,7 +377,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Vishal" src="../img/ZINE/thirdyear/vish.jpg">
+									<img class="background-image avatar" alt="Vishal" src="img/ZINE/thirdyear/vish.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
@@ -397,7 +397,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Tanishk" src="../img/ZINE/thirdyear/ta.png">
+									<img class="background-image avatar" alt="Tanishk" src="img/ZINE/thirdyear/ta.png">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
@@ -416,7 +416,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="pranav" src="../img/ZINE/thirdyear/pranav.jpg">
+									<img class="background-image avatar" alt="pranav" src="img/ZINE/thirdyear/pranav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
@@ -434,7 +434,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Sumit" src="../img/ZINE/thirdyear/Sumit.jpg">
+									<img class="background-image avatar" alt="Sumit" src="img/ZINE/thirdyear/Sumit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
@@ -451,7 +451,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
-									<img class="background-image avatar" alt="Keshav" src="../img/ZINE/thirdyear/keshav.jpg">
+									<img class="background-image avatar" alt="Keshav" src="img/ZINE/thirdyear/keshav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
@@ -471,7 +471,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Akarth" src="../img/ZINE/thirdyear/akarth.jpg">
+									<img class="background-image avatar" alt="Akarth" src="img/ZINE/thirdyear/akarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
@@ -498,10 +498,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 							<div class="row ui-sortable">
 								<div class="col-sm-2">
 									<ul class="menu">
-										<li><a target="_self" href="">Home</a></li>
-										<li><a target="_self" href="">About</a></li>
-										<li><a target="_self" href="">Projects</a></li>
-										<li><a target="_self" href="">Contact</a></li>
+										<li><a target="_self" href="index.php">Home</a></li>
+										<li><a target="_self" href="about.php">About</a></li>
+                                        <li><a target="_self" href="">Projects</a></li>
+                                        <li><a target="_self" href="achievements.php">Achievements</a></li>
 										<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
 									</ul>
 								</div>
@@ -521,11 +521,11 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 							<div class="row ui-sortable">
 								<div class="col-sm-12 text-center">
 									<ul class="social-profiles">
-										<li><a target="_self" href=""><i class="icon social_facebook"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_linkedin icon-large"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_youtube icon-large"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_instagram"></i></a></li>
-										<li><a target="_self" href=""><i class="fa fa-github fa-lg"></i></a></li>
+										<li><a target="_self" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
+                                        <li><a target="_self" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>                                        
+										<li><a target="_self" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
+										<li><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+										<li><a target="_self" href="https://github.com/zine-robotics"><i class="fa fa-github fa-lg"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -535,18 +535,18 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="../js/feednami.js"></script>
-<script src="../js/bootstrap.min.js"></script>
-<script src="../js/skrollr.min.js"></script>
-<script src="../js/spectragram.min.js"></script>
-<script src="../js/flexslider.min.js"></script>
-<script src="../js/jquery.plugin.min.js"></script>
-<script src="../js/jquery.countdown.min.js"></script>
-<script src="../js/lightbox.min.js"></script>
-<script src="../js/smooth-scroll.min.js"></script>
-<script src="../js/placeholders.min.js"></script>
-<script src="../js/scripts.js"></script>
-<script src="../js/tweets.js"></script>
-<script src="../js/blog.js"></script>
+<script src="js/feednami.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/skrollr.min.js"></script>
+<script src="js/spectragram.min.js"></script>
+<script src="js/flexslider.min.js"></script>
+<script src="js/jquery.plugin.min.js"></script>
+<script src="js/jquery.countdown.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+<script src="js/smooth-scroll.min.js"></script>
+<script src="js/placeholders.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/tweets.js"></script>
+<script src="js/blog.js"></script>
 </body>
 </html>

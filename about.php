@@ -11,16 +11,16 @@
     <meta property="og:title" content="ZINE" />
     <meta property="og:type" content="website" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
-	<link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/pe-icon-7-stroke.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/theme-lava.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../css/custom-blog.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="shortcut icon" href="fossasia.ico" type="image/x-icon" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/pe-icon-7-stroke.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/theme-lava.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom-blog.css" rel="stylesheet" type="text/css" media="all" />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
 </head>
 
@@ -42,16 +42,16 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="#top"><img alt="ZINE" class="logo logo-light" src="../img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="../img/ZINE/zine1.png"></a>
+								<a  target="_self" class="inner-link" href="index.html"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_self" href="../team/index.html">Team</a></li>
+									<li><a target="_self" href="team.php">Team</a></li>
 									<li><a target="_self" href="Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="../about/index.html">About</a></li>
+                                    <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
@@ -65,14 +65,14 @@
 					<div class="bottom-border"></div>
 
 					<div class="sidebar-menu">
-						<img alt="Logo" class="logo" src="../img/ZINE/zine1.png">
+						<img alt="Logo" class="logo" src="img/ZINE/zine1.png">
 						<div class="bottom-border"></div>
 						<div class="widget">
 							<ul class="menu">
-								<li><a class="inner-link" href="#top">Home</a></li>
-								<li><a href="" target="_self">About</a></li>
+								<li><a class="inner-link" href="index.php">Home</a></li>
+								<li><a href="about.php" target="_self">About</a></li>
 								<li><a href="" target="_self">Projects</a></li>
-								<li><a href="" target="_self">Contact</a></li>
+								<li><a href="#contact" target="_self">Contact</a></li>
 							</ul>
 						</div>
 						<div class="widget">
@@ -91,16 +91,15 @@
 				</nav>
     </div>
 	<div class="main-container">
-		<section class="section-header overlay preserve3d lazy-section">
+		<section class="section-header overlay preserve3d lazy-section" style="height: 300px">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/ZINE/hero7.jpg">
+				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
 			<div class="container vertical-align">
 				<div class="row">
 					<div class="col-sm-offset- col-sm-12">
-                        <h1 class="text-white" style="">About ZINE</h1>
-						<p class="lead text-white" style="font-size: 13px;">
-                            Content
+                        <h1 class="text-white">About ZINE</h1>
+						
 					</div>
 				</div>
 			</div>
@@ -150,84 +149,86 @@
 			<div class="gallery-holder">
 				<ul>
 					<li>
-						<a href="../img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/check1.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/check1.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/check1.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/check1.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/research.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/research.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/research.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/research.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="../img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="backgrond-image" alt="Lightbox Image" data-src="../img/ZINE/gallery/38898986_2205067399503792_4455784658407260160_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/check1.jpg">
 							</div>
 						</a>
 					</li>
+
+                    
 				</ul>
 			</div>
 
@@ -251,10 +252,10 @@
 							<div class="row ui-sortable">
 								<div class="col-sm-2">
 									<ul class="menu">
-										<li><a target="_self" href="">Home</a></li>
-										<li><a target="_self" href="">About</a></li>
-										<li><a target="_self" href="">Projects</a></li>
-										<li><a target="_self" href="">Contact</a></li>
+										<li><a target="_self" href="index.php">Home</a></li>
+                                        <li><a target="_self" href="">Projects</a></li>
+                                        <li><a target="_self" href="team.php">Team</a></li>
+                                        <li><a target="_self" href="achievements.php">Achievements</a></li>
 										<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
 									</ul>
 								</div>
@@ -274,11 +275,11 @@
 							<div class="row ui-sortable">
 								<div class="col-sm-12 text-center">
 									<ul class="social-profiles">
-										<li><a target="_self" href=""><i class="icon social_facebook"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_linkedin icon-large"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_youtube icon-large"></i></a></li>
-										<li><a target="_self" href=""><i class="icon social_instagram"></i></a></li>
-										<li><a target="_self" href=""><i class="fa fa-github fa-lg"></i></a></li>
+										<li><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE/"><i class="icon social_facebook"></i></a></li>
+										<li><a target="_self" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>
+										<li><a target="_self" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
+										<li><a target="_self" href="https://www.instagram.com/zine.robotics/"><i class="icon social_instagram"></i></a></li>
+										<li><a target="_self" href="https://github.com/zine-robotics/zine-website-2019"><i class="fa fa-github fa-lg"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -286,18 +287,18 @@
 					</footer>
 				</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="../js/bootstrap.min.js"></script>
-	<script src="../js/skrollr.min.js"></script>
-	<script src="../js/spectragram.min.js"></script>
-	<script src="../js/flexslider.min.js"></script>
-	<script src="../js/jquery.plugin.min.js"></script>
-	<script src="../js/jquery.countdown.min.js"></script>
-	<script src="../js/lightbox.min.js"></script>
-	<script src="../js/smooth-scroll.min.js"></script>
-	<script src="../js/placeholders.min.js"></script>
-	<script src="../js/scripts.js"></script>
-	<script src="../js/tweets.js"></script>
-	<script src="../js/blog.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/skrollr.min.js"></script>
+	<script src="js/spectragram.min.js"></script>
+	<script src="js/flexslider.min.js"></script>
+	<script src="js/jquery.plugin.min.js"></script>
+	<script src="js/jquery.countdown.min.js"></script>
+	<script src="js/lightbox.min.js"></script>
+	<script src="js/smooth-scroll.min.js"></script>
+	<script src="js/placeholders.min.js"></script>
+	<script src="js/scripts.js"></script>
+	<script src="js/tweets.js"></script>
+	<script src="js/blog.js"></script>
 </body>
 
 </html>
