@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["jpj\/v"]); }
+
+__d("adsMgmtAdgroupIDsFromSelectedParentIDsByLevelSelector",["AdsAccountStore","AdsAdgroupCombinedListStore","AdsStoreUtils","adsCreateStoreSelector","adsMgmtCampaignSelectedIdsByLevelSelector"],(function(a,b,c,d,e,f){a=b("adsCreateStoreSelector")([b("AdsAdgroupCombinedListStore"),b("AdsAccountStore")].concat(b("adsMgmtCampaignSelectedIdsByLevelSelector").getStores()),function(){var a=b("adsMgmtCampaignSelectedIdsByLevelSelector")();a=b("AdsAdgroupCombinedListStore").getForCampaigns(b("AdsAccountStore").getSelectedAccountIDX(),a);return b("AdsStoreUtils").flattenLists(a)},e.id+".selector");e.exports=a}),null);

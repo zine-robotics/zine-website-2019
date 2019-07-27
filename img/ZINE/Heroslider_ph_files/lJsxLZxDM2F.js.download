@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ttpj2"]); }
+
+__d("adsMgmtAdgroupSelectedIdsSelector",["requireCond","AdsMgmtAdgroupSelectionProvider","adsCreateSelector"],(function(a,b,c,d,e,f){"use strict";a=b("AdsMgmtAdgroupSelectionProvider").toFluxSelector();c=b("adsCreateSelector")([a],function(a){a=a.cachedSelectedIDs;return a},{name:e.id+".adsMgmtAdgroupSelectedIdsSelector"});e.exports=c}),null);

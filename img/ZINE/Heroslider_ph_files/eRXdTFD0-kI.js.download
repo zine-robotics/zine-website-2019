@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["3f98o"]); }
+
+__d("adsMgmtAdgroupSelectionSelector",["requireCond","AdsMgmtAdgroupSelectionProvider","adsCreateSelector","immutable"],(function(a,b,c,d,e,f){"use strict";a=b("AdsMgmtAdgroupSelectionProvider").toFluxSelector();c=b("adsCreateSelector")([a],function(a){a=a.selection;return a},{name:e.id+".adsMgmtAdgroupSelectionSelector"});e.exports=c}),null);

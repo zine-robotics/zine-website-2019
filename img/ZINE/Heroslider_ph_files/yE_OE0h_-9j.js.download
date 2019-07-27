@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["00IOd"]); }
+
+__d("adsMgmtAdgroupSelectedIdsByLevelSelector",["adsCreateSelector","adsMgmtAdgroupIDsFromSelectedParentIDsByLevelSelector","adsMgmtAdgroupSelectedIdsSelector"],(function(a,b,c,d,e,f){a=b("adsCreateSelector")([b("adsMgmtAdgroupSelectedIdsSelector"),b("adsMgmtAdgroupIDsFromSelectedParentIDsByLevelSelector")],function(a,b){return a.concat(b)},{name:e.id+".selector"});e.exports=a}),null);

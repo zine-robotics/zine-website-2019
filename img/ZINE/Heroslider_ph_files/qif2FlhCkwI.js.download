@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["g4dW7"]); }
+
+__d("adsMgmtIsDraftIDSelector",["AdObjectLevels","AdsPEFilteredDraftFragmentStore","adsCreateSelector","adsCreateStoreSelector","immutable"],(function(a,b,c,d,e,f){"use strict";a=b("adsCreateStoreSelector")([],function(a){return a},e.id+".getIDAndObjectLevel");c=b("adsCreateSelector")([a,b("AdsPEFilteredDraftFragmentStore").getFilteredDraftIDs],function(a,c){var d=a.id;a=a.objectLevel;return a===b("AdObjectLevels").CAMPAIGN_GROUP&&c.campaignGroup.includes(d)||a===b("AdObjectLevels").CAMPAIGN&&c.campaign.includes(d)||a===b("AdObjectLevels").ADGROUP&&c.adgroup.includes(d)},{name:e.id+".adsMgmtIsDraftIDSelector"});e.exports=c}),null);
