@@ -1,0 +1,553 @@
+@font-face {
+    font-family: 'megatronregular';
+    src: url('Fonts/megatron-webfont.woff2') format('woff2'),
+         url('Fonts/megatron-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (max-width: 850px) {
+   
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__content{
+    margin-left: 80px !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 240px !important;
+    }
+    
+    h1{
+    margin-left: 115px !important;
+    }
+    
+    .index_2{
+    margin-left: 160px !important;
+    }
+    
+    .index_3{
+    margin-left: 170px !important;
+    }
+    
+    .btn--form{
+    margin-left: 240px !important;
+    }
+    
+}
+
+@media screen and (max-width: 750px) {
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__content{
+    margin-left: 40px !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 215px !important;
+    }
+    
+    h1{
+    margin-left: 115px !important;
+    }
+    
+    .index_2{
+    margin-left: 160px !important;
+    }
+    
+    .index_3{
+    margin-left: 170px !important;
+    }
+    
+    .btn--form{
+    margin-left: 215px !important;
+    }
+}
+
+
+
+@media screen and (max-width: 680px) {
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 185px !important;
+    }
+    
+    h1{
+    margin-left: 75px !important;
+    }
+    
+    .index_2{
+    margin-left: 120px !important;
+    }
+    
+    .index_3{
+    margin-left: 130px !important;
+    }
+    
+    .btn--form{
+    margin-left: 185px !important;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    
+    .signup__container {
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 140px !important;
+    }
+    
+    .thumbnail__content{
+    margin-left: 40px !important;
+    }
+    
+    h1{
+    margin-left: 50px !important;
+    }
+    
+    .index_2{
+    margin-left: 90px !important;
+    }
+    
+    .index_3{
+    margin-left: 100px !important;
+    }
+    
+    .btn--form{
+    margin-left: 135px !important;
+    }
+}
+@media screen and (max-width: 450px) {
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 55px !important;
+    }
+    
+    .thumbnail__content{
+    margin-left: 3px !important;
+    }
+    
+    .btn--form{
+    margin-left: 60px !important;
+    }
+        
+    h1{
+    font-size: 1.8rem  !important;
+    margin-left: 10px !important;
+    }
+    
+    h2{
+    font-size: 1.6rem  !important;
+    }
+    
+    .index_2{
+    margin-left: 20px !important;
+    }
+    
+    .index_3{
+    margin-left: 35px !important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 45px !important;
+    }
+    
+    .thumbnail__content{
+    margin-left: 30px !important;
+    }
+   
+    
+    .btn--form{
+    margin-left: 45px !important;
+    }
+    
+    h1{
+    font-size: 1.5rem  !important;
+    margin-left: -8px !important;
+    }
+    
+    h2{
+    font-size: 1.4rem  !important;
+    }
+    
+    .index_2{
+    margin-left: 0px !important;
+    }
+    
+    .index_3{
+    margin-left: 8px !important;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    
+    .signup__container {
+    width: 90% !important;
+    height: 90% !important;
+    display: unset !important;
+    float: left !important;
+    overflow: auto !important;
+    }
+    
+    .container__child
+    {
+    width: 100% !important;
+    }
+    
+    .thumbnail__logo{
+    margin-left: 27px !important;
+    }
+    
+    .btn--form{
+    margin-left: 27px !important;
+    }
+    
+    h1{
+    font-size: 1.2rem  !important;
+    margin-left: -10px  !important;
+    }
+    
+    h2{
+    font-size: 1.1rem  !important;
+    }
+    
+    .index_2{
+    margin-left: 0px !important;
+    }
+    
+    .index_3{
+    margin-left: 10px !important;
+    }
+    
+}
+
+
+@media screen and (max-height: 450px) {
+    
+    .signup__container {
+    height: 100% !important;
+    overflow: auto !important;
+    }
+    
+    .signup__form
+    {
+    overflow: scroll !important;
+    }
+}
+
+@media screen and (max-height: 570px) {
+    
+    .signup__container {
+    height: 90% !important;
+    overflow: auto !important;
+    }
+   
+}
+
+
+body {
+  font: 100% / 1.414 "Open Sans", "Roboto", arial, sans-serif;
+  background: #e9e9e9;
+}
+
+
+
+
+a,
+[type="submit"] {
+  transition: all .25s ease-in;
+}
+
+.signup__container {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50rem;
+  height: 38rem;
+  border-radius: 0.1875rem;
+  box-shadow: 0px 0.1875rem 0.4375rem rgba(0, 0, 0, 0.25);
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+
+.signup__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.76);
+}
+
+.container__child {
+  width: 50%;
+  height: 100%;
+  color: #fff;
+}
+
+.signup__thumbnail {
+  position: relative;
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background: url(https://i.imgur.com/viUgdrb.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+.thumbnail__logo,
+.thumbnail__content,
+.thumbnail__links {
+  position: relative;
+  z-index: 2;
+}
+
+.thumbnail__logo {
+  align-self: flex-start;
+  margin-left: 80px;
+}
+
+.logo__shape {
+  fill: #fff;
+}
+
+.logo__text {
+  display: inline-block;
+  font-size: .8rem;
+  font-weight: 700;
+  vertical-align: bottom;
+}
+
+.thumbnail__content {
+  align-self: flex-start;
+}
+
+h1,
+h2 {
+  font-weight: 250;
+  font-family: megatronregular;
+  color: white; 
+}
+
+h1 {
+  margin-left: 10px;
+}
+
+.heading--primary {
+  font-size: 1.999rem;
+}
+
+.heading--secondary {
+  font-size: 1.414rem;
+}
+
+.thumbnail__links {
+  align-self: flex-end;
+  width: 100%;
+}
+
+.thumbnail__links a {
+  font-size: 1rem;
+  color: #fff;
+}
+.thumbnail__links a:focus, .thumbnail__links a:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.signup__form {
+  padding: 2.5rem;
+  background: #fafafa;
+}
+
+label {
+  font-size: .85rem;
+  text-transform: uppercase;
+  color: #3c3c3c;
+  font-weight: bold;
+  
+}
+
+.form-control {
+  background-color: transparent;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-radius: 0;
+}
+.form-control:focus {
+  border-color: #111;
+}
+
+[type="text"] {
+  color: #111;
+}
+
+[type="password"] {
+  color: #111;
+}
+
+.btn--form {
+  padding: .5rem 2.5rem;
+  font-size: .95rem;
+  text-transform: uppercase;
+  color: #fff;
+  background: #111;
+  border-radius: 2.1875rem;
+  margin-left: 80px;
+  font-weight: bold;
+}
+.btn--form:focus, .btn--form:hover {
+  background: #323232;
+}
+
+.signup__link {
+  font-size: .8rem;
+  font-weight: 600;
+  text-decoration: underline;
+  color: #999;
+}
+.signup__link:focus, .signup__link:hover {
+  color: #787878;
+}
+
+/* ---- stats.js ---- */
+
+.count-particles{
+  background: #000022;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 80px;
+  color: #13E8E9;
+  font-size: .8em;
+  text-align: left;
+  text-indent: 4px;
+  line-height: 14px;
+  padding-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.js-count-particles{
+  font-size: 1.1em;
+}
+
+#stats,
+.count-particles{
+  -webkit-user-select: none;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#stats{
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+
+.count-particles{
+  border-radius: 0 0 3px 3px;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+
+z-index: -10;
+	position: fixed;
+	top: 0;
+	left: 0;
+
+}
+
+
