@@ -104,17 +104,16 @@
 				</nav>
 	</div>
 	<div class="main-container">
-	<section class="section-header overlay preserve3d lazy-section">
+	<section class="section-header1 overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
 				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
-			<div class="container vertical-align">
+			<div class="container">
 				<div class="row">
 					<div class="col-sm-offset- col-sm-12"> 
 						<h1 class="text-white">ZINE Team</h1>
 						<p class="lead text-white">
-							Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It was
-							established 2008. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Presently our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and communication engineering and Computer engineering. Meet our Team.
+							Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems.Our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and communication engineering and Computer engineering.
 						</p>
 					</div>
 				</div>

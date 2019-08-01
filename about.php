@@ -91,15 +91,17 @@
 				</nav>
     </div>
 	<div class="main-container">
-		<section class="section-header1 overlay preserve3d lazy-section">
+		<section class="section-overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
 				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
-			<div class="container vertical-align">
+			<div class="container">
 				<div class="row">
-					<div class="col-sm-offset- col-sm-12">
-                        <h1 class="text-white">About ZINE</h1>
-						
+					<div class="col-sm-12">
+                        <h2 class="text-white">About ZINE</h2>
+                        <br>
+                        <p class="lead text-white">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 11 years, since its foundation.</p>
+                        <br>
 					</div>
 				</div>
 			</div>

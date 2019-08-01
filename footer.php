@@ -5,8 +5,8 @@
 					<div class="row ui-sortable">
 						<div class="col-sm-2">
 							<ul class="menu">
-								<li><a target="_self" href="abot.php">About</a></li>
-								<li><a target="_self" href="">Projects</a></li>
+								<li><a target="_self" href="about.php">About</a></li>
+								<li><a target="_self" href="projects.php">Projects</a></li>
 								<li><a target="_self" href="achievements.php">Achievements</a></li>
 								<li><a target="_self" href="team.php">Team</a></li>
 								<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
