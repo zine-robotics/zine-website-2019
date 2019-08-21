@@ -395,6 +395,8 @@ p a,
   font-weight: 600;
   line-height: 1;
 }
+
+
 .btn:hover {
   color: #fff;
   background: #c82600;
@@ -456,8 +458,8 @@ p a,
 // 7. Navigation
 // --------------------------------------------------*/
 nav .logo {
-  max-height: 45px;
-  max-width: 110px;
+  max-height: 300px;
+  max-width: 51px;
   position: absolute;
   top: 0px;
   opacity: 1;

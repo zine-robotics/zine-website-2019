@@ -30,7 +30,10 @@
     
     <style>
         
-
+        .dev {
+            text-transform: uppercase;
+            font-weight: 400;
+        }
     .avatar {
         margin: auto;
   vertical-align: middle;
@@ -113,7 +116,7 @@
 					<div class="col-sm-offset- col-sm-12"> 
 						<h1 class="text-white">ZINE Team</h1>
 						<p class="lead text-white">
-							Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems.Our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and communication engineering and Computer engineering.
+							Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology, Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. Our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and Communication Engineering and Computer Engineering.
 						</p>
 					</div>
 				</div>
@@ -128,7 +131,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-12">
-						<h1>Our Founders:The Roots of our Tree</h1>
+						<h1 style="font-weight:500;">Our Founders:The Roots of our Tree</h1>
 					</div>
 				</div>
 
@@ -149,15 +152,13 @@
                         </div>
                                 <div class="speaker-description">
                                     <br><br>
-								<h2>Dr. Rajesh Kumar</h2>
-								<span class="sub">Dr. Rajesh Kumar
-Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head of Department of Elec. Engg.</span>
+								<h3 class="dev">Dr. Rajesh Kumar</h3>
+								<span class="sub">Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head of Department of Elec. Engg.</span>
 							</div>
                         </div>
 
                 </div>
                 </div>
-                
                 <div class="row">
 					<div class="col-md-3 col-sm-12">
                         <div>
@@ -168,14 +169,13 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
                                             <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
-                                            
 										</div>
 									</div>
 								</div>
-							</div>
-				    <div class="speaker-description text-center">
-								<h4>Himanshu Gothwal</h4>
+                                   <div class="speaker-description text-center">
+								<h3 class="dev">HIMANSHU GOTHWAL</h3>
 								<span class="sub">Softare Developer<br>Epic</span>
+							</div>
 							</div>
                     </div>
                     </div>
@@ -189,11 +189,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
+                                 <div class="speaker-description text-center">
+								<h3 class="dev">ARPIT JAIN</h3>
+								<span class="sub">Co-Founder<br>Engineers Garage</span>
 							</div>
-						
-                        <div class="speaker-description text-center">
-								<h3>Arpit Jain</h3>
-								<span class="sub">Cofounder<br>Engineers Garage</span>
 							</div>
 					</div>
 
@@ -207,11 +206,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-						
-                        	<div class="speaker-description text-center">
-								<h3>Anupam Kumar</h3>
+                                                        	<div class="speaker-description text-center">
+								<h3 class="dev">Anupam Kumar</h3>
 								<span class="sub">Signal Engineer<br>Indian Railway Services</span>
+							</div>
 							</div>
                     </div>
 					<div class="col-md-3 col-sm-12">
@@ -224,11 +222,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-
-							<div class="speaker-description text-center">
-								<h3>Soniya Jain</h3>
+                                							<div class="speaker-description text-center">
+								<h3 class="dev">Soniya Jain</h3>
 								<span class="sub">Works at DRDO</span>
+							</div>
 							</div>
 						</div>
                     </div>
@@ -237,11 +234,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
         
 		<a id="Final_year" class="in-page-link"></a>
 		<section class="speakers duplicatable-content">
-
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-12">
-						<h1>Final year</h1>
+						<h1 style="font-weight:400;">Final year</h1>
 					</div>
 				</div>
                                 <div class="row">
@@ -252,17 +248,17 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/FinalYear/devnath.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+                                            <a href="https://www.facebook.com/devnath.devonic" target="_self"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
 								</div>
-							</div>
-				    <div class="speaker-description text-center">
-								<h4>Devnath Nair</h4>
+                                	    <div class="speaker-description text-center">
+								<h3 class="dev">Devnath Nair</h3>
 								<span class="sub">Mechanical Engineering</span>
 							</div>
+							</div>
+			
                     </div>
                     </div>
 					<div class="col-md-3 col-sm-12">
@@ -271,16 +267,19 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 									<img class="background-image avatar" alt="Nimesh" src="img/ZINE/FinalYear/nimesh.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/profile.php?id=100008125336343" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/nimesh00" target="_blank"><i class="fa fa-github"></i></a>
+                                            
 										</div>
 									</div>
 								</div>
-							</div>
-						
-                        <div class="speaker-description text-center">
-								<h3>Nimesh Khandelwal</h3>
+                                     <div class="speaker-description text-center">
+								<h3 class="dev">Nimesh Khandelwal</h3>
 								<span class="sub">Mechanical Engineering</span>
 							</div>
+							</div>
+						
+                   
 					</div>
 
 					<div class="col-md-3 col-sm-12">
@@ -289,15 +288,15 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 									<img class="background-image" alt="Vikalp" src="img/ZINE/FinalYear/vikalp.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/vikalpcoolsaini" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
-							</div>
-						
+                                	
                         	<div class="speaker-description text-center">
-								<h3>Vikalp Saini</h3>
+								<h3 class="dev">Vikalp Saini</h3>
 								<span class="sub">Mechanical Engineering</span>
+							</div>
 							</div>
                     </div>
                     </div>
@@ -312,7 +311,7 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-12">
-						<h1>Third Year</h1>
+						<h1 style="font-weight:400;">Third Year</h1>
 					</div>
 				</div>
                 <div class="row">
@@ -329,10 +328,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-				    <div class="speaker-description text-center">
-								<h4>Tanmay Agarwal</h4>
+                            <div class="speaker-description text-center">
+								<h3 class="dev">Tanmay Agarwal</h3>
 								<span class="sub">Electronics and Communication Engneering</span>
+							</div>
 							</div>
                     </div>
                     </div>
@@ -346,14 +345,14 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-						
-                        <div class="speaker-description text-center">
-								<h3>Paarth Bir</h3>
+                                 <div class="speaker-description text-center">
+								<h3 class="dev">Paarth Bir</h3>
 								<span class="sub">Electronics and Communication Engneering</span>
 							</div>
-					</div>
-
+							</div>
+						
+                       
+                    </div>
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
 								<div class="image-holder avatar">
@@ -364,11 +363,10 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-						
-                        	<div class="speaker-description text-center">
-								<h3>Vibhor Rawal</h3>
+                            <div class="speaker-description text-center">
+								<h3 class="dev">Vibhor Rawal</h3>
 								<span class="sub">Computer Science Engineering</span>
+							</div>
 							</div>
                     </div>
 					<div class="col-md-3 col-sm-12">
@@ -381,12 +379,13 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-
-							<div class="speaker-description text-center">
-								<h3>Vishal Kothari</h3>
+                                							<div class="speaker-description text-center">
+								<h3 class="dev">Vishal Kothari</h3>
 								<span class="sub">Electronics and Communication Engneering</span>
 							</div>
+							</div>
+
+
 						</div>
                     </div>
                                 <div class="row">
@@ -403,11 +402,12 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-				    <div class="speaker-description text-center">
-								<h4>Tanishk Dudi</h4>
+                                				    <div class="speaker-description text-center">
+								<h3 class="dev">Tanishk Dudi</h3>
 								<span class="sub">Mechanical Engneering</span>
 							</div>
+							</div>
+
                     </div>
                     </div>
 					<div class="col-md-3 col-sm-12">
@@ -419,13 +419,15 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
-								</div>
-							</div>
-						
+
+                            </div>
+                                
                         <div class="speaker-description text-center">
-								<h3>Pranav Kulshesthra</h3>
+								<h3 class="dev">Pranav Kulshesthra</h3>
 								<span class="sub">Electrical Engneering</span>
 							</div>
+							</div>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
@@ -438,12 +440,13 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-						
-                        	<div class="speaker-description text-center">
-								<h3>Sumit Soni</h3>
+                                             	<div class="speaker-description text-center">
+								<h3 class="dev">Sumit Soni</h3>
 								<span class="sub">Computer Science Engineering</span>
 							</div>
+							</div>
+						
+           
                     </div>
 					<div class="col-md-3 col-sm-12">
 							<div class="speaker">
@@ -455,12 +458,13 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-
+                                
 							<div class="speaker-description text-center">
-								<h3>Keshav</h3>
+								<h3 class="dev">Keshav</h3>
 								<span class="sub">Electronics and Communication Engneering</span>
 							</div>
+							</div>
+
 						</div>
                     </div>
                                 <div class="row">
@@ -477,12 +481,14 @@ Ph.D., PDF(NUS, Singapore) SMIEEE, FIETE, MIE (I),SMIACSIT, LMISTE, MIAENG,Head 
 										</div>
 									</div>
 								</div>
-							</div>
-                        </div>
-				    <div class="speaker-description text-center">
-								<h4>Akarth Gupta</h4>
+                                          			    <div class="speaker-description text-center">
+								<h3 class="dev">Akarth Gupta</h3>
 								<span class="sub">Electronics and Communication Engneering</span>
 							</div>
+							</div>
+                  
+                        </div>
+	
                     </div>
                 </div>
 
