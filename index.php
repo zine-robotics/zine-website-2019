@@ -107,7 +107,7 @@
 									<h3>Reseach and Development<br></h3>
 									<p> Our research falls in many domains including Artifical Intelligence, Controls and System, Gait Analysis, Human Robot Interaction, Algorithm Development and many more. Spanning all domains, ZINE Robotics has 9 patents and multiple papers in reputed IEEE Journals. ZINE has also collaborated with several hospitals for research and development.</p><br><div><br></div><div><br></div>
 									<div class="text-link">
-									<a href="projects.php" target="_blank">Find Out About our projects</a>
+									<a href="./project/Projects.php" target="_blank">Find Out About our projects</a>
 									</div>
 								</div>
 							</div>
