@@ -58,20 +58,21 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<a  target="_blank" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
 								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="project/Projects.php">Projects</a></li>
-									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="about.php">About</a></li>
-                                    <li><a target="_self" href="#contact">Contact</a></li>	
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
-      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+                                    <li><a target="_blank" href="index.php">Home</a></li>
+									<li><a target="_blank" href="team.php">Team</a></li>
+									<li><a target="_blank" href="project/Projects.php">Projects</a></li>
+									<li><a target="_blank" href="achievements.php">Achievements</a></li>
+                                    <li><a target="_blank" href="about.php">About</a></li>
+                                    <li><a target="_blank" href="#contact">Contact</a></li>	
+									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
+      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+                                    <li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
                                 </ul>
 							</div>
@@ -86,16 +87,16 @@
 						<div class="widget">
 							<ul class="menu">
 								<li><a class="inner-link" href="#top">Home</a></li>
-								<li><a href="about/index.html" target="_self">About</a></li>
-								<li><a href="project/Projects.php" target="_self">Projects</a></li>
-								<li><a href="contacts.php" target="_self">Contact</a></li>
+								<li><a href="about/index.html" target="_blank">About</a></li>
+								<li><a href="project/Projects.php" target="_blank">Projects</a></li>
+								<li><a href="contacts.php" target="_blank">Contact</a></li>
 							</ul>
 						</div>
 						<div class="widget">
 							<ul class="social-profiles">
-								<li><a href="http://facebook.com/ROBOTICS.ZINE" target="_self"><i class="icon social_facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/zine.robotics" target="_self"><i class="icon social_instagram"></i></a></li>
-								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+								<li><a href="http://facebook.com/ROBOTICS.ZINE" target="_blank"><i class="icon social_facebook"></i></a></li>
+								<li><a href="https://www.instagram.com/zine.robotics" target="_blank"><i class="icon social_instagram"></i></a></li>
+								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 							</ul>
 						</div>
 						<div class="copy-text-box">
@@ -145,7 +146,7 @@
 										<div class="social-links vertical-align">
 											<a href="https://drrajeshkumar.wordpress.com/" target="default"><i class="icon social_wordpress"></i></a>
                                             <a href="https://www.facebook.com/rkumar.ee" target="default"><i class="icon social_facebook"></i></a>
-											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="_self"><i class="icon social_linkedin"></i></a>
+											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="_blank"><i class="icon social_linkedin"></i></a>
 										</div>
 									</div>
 								</div>
@@ -167,8 +168,8 @@
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/Founder/himanshu.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -185,7 +186,7 @@
 									<img class="background-image avatar" alt="Arpit" src="img/ZINE/Founder/arpit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/arpit.jain.37604" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -202,7 +203,7 @@
 									<img class="background-image avatar" alt="Anupam Kumar" src="img/ZINE/Founder/anupam.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/anupamkrmeena" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -218,7 +219,7 @@
 									<img class="background-image avatar" alt="Soniya Jain" src="img/ZINE/Founder/soniya.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/soniya.jain.583671" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -248,7 +249,7 @@
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/FinalYear/devnath.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-                                            <a href="https://www.facebook.com/devnath.devonic" target="_self"><i class="icon social_facebook"></i></a>
+                                            <a href="https://www.facebook.com/devnath.devonic" target="_blank"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
@@ -322,8 +323,9 @@
 									<img class="background-image avatar" alt="Tanmay" src="img/ZINE/thirdyear/tanmay.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/tanmay-agarwal-219182184/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/tanmayagarwal30" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/7anmay" target="_blank"><i class="fa fa-github"></i></a>
                                             
 										</div>
 									</div>
@@ -341,7 +343,9 @@
 									<img class="background-image avatar" alt="Paarth" src="img/ZINE/thirdyear/paarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/paarth-b-226b1a136/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/paarth.bir" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/paarthbir77" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -359,7 +363,9 @@
 									<img class="background-image avatar" alt="Vibhor" src="img/ZINE/thirdyear/vibhor.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/vibhorrawal/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/vibhor.rawal.583" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/vibhorrawal" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -375,7 +381,9 @@
 									<img class="background-image avatar" alt="Vishal" src="img/ZINE/thirdyear/vish.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/vishal81/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/vishal.kothari.142" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/th3skyfox" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -393,11 +401,11 @@
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Tanishk" src="img/ZINE/thirdyear/ta.png">
+									<img class="background-image avatar" alt="Tanishk" src="img/ZINE/thirdyear/tanisk.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+										<a href="https://www.linkedin.com/in/tanishkdudi/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/tanishk.dudi" target="_blank"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
@@ -416,7 +424,9 @@
 									<img class="background-image avatar" alt="pranav" src="img/ZINE/thirdyear/pranav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/pranav-kulshrestha-a7ba47145/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/pranav.kulshrestha.73" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/pranav1698" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 
@@ -436,7 +446,9 @@
 									<img class="background-image avatar" alt="Sumit" src="img/ZINE/thirdyear/Sumit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/isumit19/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/isumit19" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/isumit19" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -454,7 +466,9 @@
 									<img class="background-image avatar" alt="Keshav" src="img/ZINE/thirdyear/keshav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/keshav-sarraf-0a0176132/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/keshav.sarraf.5" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/imkesh" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -475,8 +489,8 @@
 									<img class="background-image avatar" alt="Akarth" src="img/ZINE/thirdyear/akarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/akarth-gupta-221723184/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/akarth.gupta.3" target="_blank"><i class="icon social_f
                                             
 										</div>
 									</div>
@@ -501,10 +515,10 @@
 							<div class="row ui-sortable">
 								<div class="col-sm-2">
 									<ul class="menu">
-										<li><a target="_self" href="index.php">Home</a></li>
-										<li><a target="_self" href="about.php">About</a></li>
-                                        <li><a target="_self" href="">Projects</a></li>
-                                        <li><a target="_self" href="achievements.php">Achievements</a></li>
+										<li><a target="_blank" href="index.php">Home</a></li>
+										<li><a target="_blank" href="about.php">About</a></li>
+                                        <li><a target="_blank" href="">Projects</a></li>
+                                        <li><a target="_blank" href="achievements.php">Achievements</a></li>
 										<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
 									</ul>
 								</div>
@@ -514,7 +528,7 @@
 								</div>
 								<div class="col-sm-3">
 									<ul id="contact" class="contact-methods">
-										<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="" target="_self" style="color:#777777"><span class="__cf_email__" data-cfemail="92f4fde1e1f3e1fbf3d2f5fdfdf5fef7f5e0fde7e2e1bcf1fdff">zine@zine.co.in</span></a></span></li>
+										<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="" target="_blank" style="color:#777777"><span class="__cf_email__" data-cfemail="92f4fde1e1f3e1fbf3d2f5fdfdf5fef7f5e0fde7e2e1bcf1fdff">zine@zine.co.in</span></a></span></li>
 										<li><i class="icon pe-7s-phone"></i><span>+91 123456789</span></li>
 										<li><i class="icon pe-7s-map-marker"></i><span>ZINE</span></li>
 										<li><span><a href="" style="color:#777777" id="mailAdd">Raman Lab</a></span></li>
@@ -524,11 +538,11 @@
 							<div class="row ui-sortable">
 								<div class="col-sm-12 text-center">
 									<ul class="social-profiles">
-										<li><a target="_self" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
-                                        <li><a target="_self" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>                                        
-										<li><a target="_self" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
-										<li><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-										<li><a target="_self" href="https://github.com/zine-robotics"><i class="fa fa-github fa-lg"></i></a></li>
+										<li><a target="_blank" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
+                                        <li><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>                                        
+										<li><a target="_blank" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
+										<li><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+										<li><a target="_blank" href="https://github.com/zine-robotics"><i class="fa fa-github fa-lg"></i></a></li>
 									</ul>
 								</div>
 							</div>

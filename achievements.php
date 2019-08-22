@@ -53,20 +53,20 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<a  target="_blank" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
 								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="project/Projects.php">Projects</a></li>
-									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="about.php">About</a></li>
-                                    <li><a target="_self" href="#contact">Contact</a></li>	
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
-      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+									<li><a target="_blank" href="team.php">Team</a></li>
+									<li><a target="_blank" href="project/Projects.php">Projects</a></li>
+									<li><a target="_blank" href="achievements.php">Achievements</a></li>
+                                    <li><a target="_blank" href="about.php">About</a></li>
+                                    <li><a target="_blank" href="#contact">Contact</a></li>	
+									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
+      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
 								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
                                 </ul>
 							</div>
@@ -81,16 +81,16 @@
 						<div class="widget">
 							<ul class="menu">
 								<li><a class="inner-link" href="#top">Home</a></li>
-								<li><a href="" target="_self">About</a></li>
-								<li><a href="" target="_self">Projects</a></li>
-								<li><a href="" target="_self">Contact</a></li>
+								<li><a href="" target="_blank">About</a></li>
+								<li><a href="" target="_blank">Projects</a></li>
+								<li><a href="" target="_blank">Contact</a></li>
 							</ul>
 						</div>
 						<div class="widget">
 							<ul class="social-profiles">
-								<li><a href="http://facebook.com/ROBOTICS.ZINE" target="_self"><i class="icon social_facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/zine.robotics" target="_self"><i class="icon social_instagram"></i></a></li>
-								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+								<li><a href="http://facebook.com/ROBOTICS.ZINE" target="_blank"><i class="icon social_facebook"></i></a></li>
+								<li><a href="https://www.instagram.com/zine.robotics" target="_blank"><i class="icon social_instagram"></i></a></li>
+								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 							</ul>
 						</div>
 						<div class="copy-text-box">
@@ -777,10 +777,10 @@ BKIT, Kota Rajasthan.
 					<div class="row ui-sortable">
 						<div class="col-sm-2">
 							<ul class="menu">
-								<li><a target="_self" href="index.php">Home</a></li>
-								<li><a target="_self" href="about.php">About</a></li>
-								<li><a target="_self" href="">Projects</a></li>
-								<li><a target="_self" href="team.php">Team</a></li>
+								<li><a target="_blank" href="index.php">Home</a></li>
+								<li><a target="_blank" href="about.php">About</a></li>
+								<li><a target="_blank" href="">Projects</a></li>
+								<li><a target="_blank" href="team.php">Team</a></li>
 								<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
                             </ul>
 						</div>
@@ -790,7 +790,7 @@ BKIT, Kota Rajasthan.
                                 </p></div>
 						<div class="col-sm-3">
 							<ul id="contact" class="contact-methods">
-								<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="mailto:zinereserachandrobotics@zine.co.in" target="_self" style="color:#777777">zinerobotics@zine.co.in</a></span></li>
+								<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="mailto:zinereserachandrobotics@zine.co.in" target="_blank" style="color:#777777">zinerobotics@zine.co.in</a></span></li>
 								<li><i class="icon pe-7s-phone"></i><span>+91-1234567890</span></li>
 								<li><i class="icon pe-7s-map-marker"></i><span>ZINE</span></li>
 								<li><span><a href="" style="color:#777777" id="mailAdd">RAMAN LAB</a></span></li>
@@ -801,11 +801,11 @@ BKIT, Kota Rajasthan.
 					<div class="row ui-sortable">
 						<div class="col-sm-12 text-center">
 							<ul class="social-profiles">
-								<li><a target="_self" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
-								<li><a target="_self" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>								
-								<li><a target="_self" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
-								<li><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-								<li><a target="_self" href="https://github.com/fossasia"><i class="fa fa-github fa-lg"></i></a></li>
+								<li><a target="_blank" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
+								<li><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>								
+								<li><a target="_blank" href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q"><i class="icon social_youtube icon-large"></i></a></li>
+								<li><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+								<li><a target="_blank" href="https://github.com/fossasia"><i class="fa fa-github fa-lg"></i></a></li>
 							</ul>
 						</div>
 					</div>

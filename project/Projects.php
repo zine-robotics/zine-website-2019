@@ -73,10 +73,12 @@
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
+                                    <li><a target="_blank" href="../team.php">Home</a></li>
 									<li><a target="_blank" href="../team.php">Team</a></li>
 									<li><a target="_blank" href="Projects.php">Projects</a></li>
 									<li><a target="_blank" href="../achievements.php">Achievements</a></li>
                                     <li><a target="_blank" href="../about.php">About</a></li>
+                                    <li><a target="_blank" href="#contact">Contact</a></li>
                                     <li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
