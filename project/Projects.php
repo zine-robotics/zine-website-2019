@@ -51,15 +51,16 @@
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
 </head>
 
-<body style="no-loader">
+<body class="no-loader">
+        <div class="loader">
+    		<div class="strip-holder">
+				<div class="strip-1"></div>
+				<div class="strip-2"></div>
+				<div class="strip-3"></div>
+    		</div>
+    	</div>
 
-		<div class="loader">
-		<div class="strip-holder">
-			<div class="strip-1"></div>
-			<div class="strip-2"></div>
-			<div class="strip-3"></div>
-		</div>
-	</div>
+    	<a id="top"></a>
 
 		<div class="nav-container">
 
@@ -67,53 +68,31 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a target="_blank" class="inner-link" href="../index.php"><img alt="ZINE" class="logo logo-light" src="../img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="../img/ZINE/zine1.png">
+								<img alt="ZINE" class="logo logo-dark" src="../img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_blank" href="../team.php">Team</a></li>
-									<li><a target="_blank" href="Projects.php">Projects</a></li>
-									<li><a target="_blank" href="../achievements.php">Achievements</a></li>
-                                    <li><a target="_blank" href="../about.php">About</a></li>
-                                    <li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+                                    <li><a target="_self" href="../index.php">Home</a></li>
+									<li><a target="_self" href="../team.php">Team</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
+									<li><a target="_self" href="../achievements.php">Achievements</a></li>
+                                    <li><a target="_self" href="../about.php">About</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-									<div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
-                                </ul>
+                                    		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+								    
+								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
+								</ul>
 							</div>
 						</div>
 					</div>
 					
 					<div class="bottom-border"></div>
-
-					<div class="sidebar-menu">
-						<img alt="Logo" class="logo" src="img/ZINE/zine1.png">
-						<div class="bottom-border"></div>
-						<div class="widget">
-							<ul class="menu">
-								<li><a class="inner-link" href="index.php">Home</a></li>
-								<li><a href="about.php" target="_blank">About</a></li>
-								<li><a href="" target="_blank">Projects</a></li>
-								<li><a href="#contact" target="_blank">Contact</a></li>
-							</ul>
-						</div>
-						<div class="widget">
-							<ul class="social-profiles">
-								<li><a href="http://facebook.com/ROBOTICS.ZINE" target="_blank"><i class="icon social_facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/zine.robotics" target="_blank"><i class="icon social_instagram"></i></a></li>
-								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
-							</ul>
-						</div>
-						<div class="copy-text-box">
-							<div class="copy-text-bottom">
-								<span>© Copyright 2019 ZINE, All Rights Reserved</span>
-							</div>
-						</div>
-					</div>
 				</nav>
-    </div>
+        </div>
+    </head>
 	
 	<main class="cd-main">
 		<ul class="cd-gallery">
