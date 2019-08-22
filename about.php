@@ -91,15 +91,17 @@
 				</nav>
     </div>
 	<div class="main-container">
-		<section class="section-header1 overlay preserve3d lazy-section">
+		<section class="section-overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
 				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
 			</div>
-			<div class="container vertical-align">
+			<div class="container">
 				<div class="row">
-					<div class="col-sm-offset- col-sm-12">
-                        <h1 class="text-white">About ZINE</h1>
-						
+					<div class="col-sm-12">
+                        <h2 class="text-white">About ZINE</h2>
+                        <br>
+                        <p class="lead text-white">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology, Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 11 years, since its foundation.</p>
+                        <br>
 					</div>
 				</div>
 			</div>
@@ -121,7 +123,9 @@
 							<div class="topic">
 								<i class="pe-7s-loop icon-large"></i>
 								<h3>What We Do<br></h3>
-								<p class="lead"> We have participated in various national and international events related to a multitude of fields, have done the core research with publishing research articles in reputed publications like IEEE journals etc and provides services to industry like consultancy related to automation through embedded system based solution for Micro, Small, Medium scale enterprises(MSME). </p>
+								<p class="lead">
+                                We regularly participate in various national and international events related to a multitude of fields, publish research articles in reputed publications like IEEE Journals and provide services to industries like consultacy related to automation through embedded system based solution for Micro, Small, Medium scale enterprises(MSME).
+                                </p>
 							</div>
 						</div>
 
@@ -129,7 +133,7 @@
 							<div class="topic">
 								<i class="pe-7s-share icon-large"></i>
 								<h3>Why We Do It<br></h3>
-								<p class="lead"> We believe in using our knowledge for the betterment of the society and the student community by providing ambitious people a platform to develop their ideas in the fields of Product development, Machine Learning, software Development and Robotics.</p>
+								<p class="lead"> We believe in using our knowledge for the betterment of the society and the student community by providing ambitious people a platform to develop their ideas in the fields of Product development, Machine Learning, Software Development and Robotics.</p>
 							</div>
 						</div>
 
@@ -137,7 +141,7 @@
 							<div class="topic">
 								<i class="pe-7s-users icon-large"></i>
 								<h3>Who We Are<br></h3>
-								<p class="lead">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology ,Jaipur.Presently our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and communication engineering and Computer engineering.</p>
+								<p class="lead">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology, Jaipur. Presently our team comprises of around 30 undergraduates from Electrical Engineering, Mechanical Engineering, Electronics and Communication Engineering and Computer Engineering.</p>
 							</div>
 						</div>
 
@@ -261,7 +265,7 @@
 								</div>
 								<div class="col-sm-7">
 									<span class="lead color-heading">About ZINE</span>
-									<p>Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 11 years, since its foundation. </p>
+									<p>Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology, Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under the guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in esteemed universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 12 years, since its foundation. </p>
 								</div>
 								<div class="col-sm-3">
 									<ul id="contact" class="contact-methods">

@@ -106,19 +106,21 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zlogo.png">
+								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zlogo.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
+                                    <li><a target="_self" href="index.php">Home</a></li>
 									<li><a target="_self" href="team.php">Team</a></li>
 									<li><a target="_self" href="Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
                                     <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
-      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_self" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
+      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+                                    		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 								    
 								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
 								</ul>
@@ -154,8 +156,8 @@
 						<div class="container">   
 							<div class="row">
 								<div class="col-md-6 col-sm-6">
-									<h1 class="large-h1 text-white">Organizing Workshop every year</h1>
-									<a href="" class="btn" style="background: None; border: 2px solid #fff;" target="_self">Register</a>
+									<h1 class="large-h1 text-white">Conducts Robotics Workshop annually</h1>
+									<a href="register2k18/index.php" class="btn" style="background: None; border: 2px solid #fff;" target="_self">Register</a>
 								</div>
 
 							</div>
@@ -169,8 +171,8 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 col-sm-6">
-									<h1 class="large-h1 text-white">Participating in various national and international events </h1>
-									<a href="achievements.php" class="btn additional" style="background: None; border: 2px solid #fff" target="_self">More Achievements</a>
+									<h1 class="large-h1 text-white">Participates in various national and international events </h1>
+									<a href="achievements.php" class="btn additional" style="background: None; border: 2px solid #fff" target="_self">Achievements</a>
 								</div>
 							</div>
 						</div>
@@ -181,8 +183,8 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-sm-6 col-md-7">
-									<h1 class="large-h1 text-white">Work on various research problems and innovative projects that extend the state of the art in robotics</h1>
-									<a href="" class="btn" target="_self" style="background: None; border: 2px solid #fff">Read our Projects</a>
+									<h1 class="large-h1 text-white">Works on various research problems and innovative projects</h1>
+									<a href="projects.php" class="btn" target="_self" style="background: None; border: 2px solid #fff">Projects</a>
 								</div>
 							</div>
 						</div>
@@ -190,6 +192,24 @@
 				</ul>
 			</section>
             
+            		<section class="section">
+                        <div class="background-image-holder parallax-background">
+				<img class="background-image" alt="Background Image" data-src="img/ZINE/hero7.jpg">
+			</div>
+                        <div class="container">
+						<div class="row">
+							<div class="col-sm-12 text-center">
+								<h1 class="large-h1">About ZINE</h1>
+                            </div>
+                                <div class="col-sm-12">
+                                    <div class="info-box">
+                                    </div>
+                                    <p style="justify-content: center;font-size:16px;">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology, Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 11 years, since its foundation. 
+                                </p>
+                                </div>
+                            </div>
+						</div>
+				</section>
             <a id="activities" class="in-page-link"></a>
 			<section class="duplicatable-content visitor-info lazy-section">
 					<div class="container">
@@ -203,21 +223,21 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ZINE/COMP.jpg">
-									<h3>Participated in Various Competitions </h3>
+									<h3>Participates in Various Competitions</h3>
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="" target="_self">Find Out About Achievements</a>
+									<a href="achievements.php" target="_self">Find Out About Achievements</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6">
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ZINE/gallery/research.jpg">
-									<h3>Reseach Development<br></h3>
-									<p> Our research fall in many domains such as controls and system, Gait Analysis, Human Robot Interaction , Algorithm Developments and many more.Cutting across all domains and research themes ZINE robotics promotes an emphasis on responsible research and innovation aligned with our mission to ensure that the transformative impacts of Robotics and Autonomous Systems are properly anticipated and managed.</p><div><br></div><div><br></div>
+									<h3>Reseach and Development<br></h3>
+									<p> Our research falls in many domains including Controls and System, Gait Analysis, Human Robot Interaction, Algorithm Development and many more. Spanning all domains, ZINE Robotics has .</p><div><br></div><div><br></div>
 									<div class="text-link">
-									<a href="" target="_self">Find Out About our projects</a>
+									<a href="projects.php" target="_self">Find Out About our projects</a>
 									</div>
 								</div>
 							</div>
@@ -225,9 +245,9 @@
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ZINE/workshop.jpg">
 									<h3>Workshop<br></h3>
-                                    <div><p>Our team conducts a 9 day workshop that guides the incoming freshers into the field of robotics, along with lectures on various other engineering skills such as Android app development, Website Development, Ethical hacking and many basic lectures which are required to enhance your skills in Robotics.Every year our team had successfully delivered the impactful lectures and practicals to more than 300 freshers.</p><div><br></div><div><br></div>
+                                    <div><p>Our team conducts a 9 day workshop that guides the incoming freshers into the field of robotics, along with lectures on various other engineering skills such as Android app development, Website Development, Ethical hacking and many basic lectures which are required to enhance your skills in Robotics. Every year our team had successfully delivered the impactful lectures and practicals to more than 300 freshers.</p><div><br></div><div><br></div>
 									<div class="text-link">
-										<a href="" target="_self">Register yourself for Workshop 2019</a>
+										<a href="register2k18/index.php" target="_self">Register for Workshop 2019</a>
 									</div>
 								</div>
 							</div>
@@ -235,29 +255,6 @@
 					</div>
                 </div>
 				</section>
-
-			<section class="strip-divider call-to-action lazy-section">
-					<div class="background-image-holder parallax-background">
-						<img class="background-image" alt="BG Image" data-src="img/grey-bg.jpg">
-					</div>
-
-					<div class="container">
-						<div class="row">
-							<div class="text-center col-sm-12">
-								<h1>Connect with ZINE!</h1>
-								<span class="uppercase">Meet us at our Worskhop</span>
-								<a target="_self" class="btn btn-lg" href="">Register</a>
-								<span class="uppercase">Oh, invite your friends too</span>
-								<ul class="social-icons icon-circle icon-zoom list-unstyled list-inline"> 
-                            	      <li><a href="https://facebook.com/ZINE.ROBOTICS"><i class="fa fa-facebook"></i></a> </li> 
-                                      <li><a href=""><i class="fa fa-android"></i></a> </li>   
-	                                 <li> <a href="https://www.instagram.com/zine.robotics/"><i class="fa fa-instagram"></i></a> </li>
-                                </ul>
-							</div>
-						</div>
-					</div>
-			</section>
-         
             
 			<section class="strip-divider primary-overlay lazy-section">
 					<div class="background-image-holder parallax-background">
@@ -273,7 +270,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<h1 class="text-white">Interested in to be part of ZINE?<div><a class="text-white" href="" target="_self">Register</a> on our page for workshop </div></h1>
+								<h1 class="text-white">Interested to be a part of ZINE?<div><a class="text-white" href="register2k18/index.php" target="_self">Register</a> on our page for workshop </div></h1>
 							</div>
 						</div>
 					</div>

@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^piyush\.zine\.co\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.piyush\.zine\.co\.in$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/piyush\.codecx\.in" [R=301,L]
+
