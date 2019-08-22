@@ -106,18 +106,17 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zlogo.png">
-								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zlogo.png"></a>
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
                                     <li><a target="_self" href="index.php">Home</a></li>
 									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="Projects.php">Projects</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="about.php">About</a></li>
-                                    <li><a target="_self" href="#contact">Contact</a></li>	
+                                    <li><a target="_self" href="about.php">About</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
                                     		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
@@ -222,7 +221,7 @@
 						<div class="row">
 							<div class="col-md-4 col-sm-6">
 								<div class="info-box">
-									<img alt="Venue" data-src="img/ZINE/COMP.jpg">
+									<img alt="Venue" data-src="img/ZINE/compet.jpg">
 									<h3>Participates in Various Competitions</h3>
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
@@ -235,7 +234,7 @@
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ZINE/gallery/research.jpg">
 									<h3>Reseach and Development<br></h3>
-									<p> Our research falls in many domains including Controls and System, Gait Analysis, Human Robot Interaction, Algorithm Development and many more. Spanning all domains, ZINE Robotics has .</p><div><br></div><div><br></div>
+									<p> Our research falls in many domains including Artifical Intelligence, Controls and System, Gait Analysis, Human Robot Interaction, Algorithm Development and many more. Spanning all domains, ZINE Robotics has 9 patents and multiple papers in reputed IEEE Journals. ZINE has also collaborated with several hospitals for research and development.</p><br><div><br></div><div><br></div>
 									<div class="text-link">
 									<a href="projects.php" target="_self">Find Out About our projects</a>
 									</div>

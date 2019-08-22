@@ -60,7 +60,7 @@
 							<div class="col-md-10 text-right">
 								<ul class="menu">
 									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="Projects.php">Projects</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
                                     <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
@@ -105,23 +105,23 @@
 				<ul class="slides">
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/slider5.jpg">
+							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/1.JPG">
 						</div>
 					</li>
 
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/slider3.jpeg">
+							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/2.jpeg">
 						</div>
 					</li>
 
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/events.png">
+							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/3.jpeg">
                         </div>
 					</li><li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/slider4.jpg">
+							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/4.JPG">
 						</div>
 					</li>
 				</ul>

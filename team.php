@@ -65,7 +65,7 @@
 							<div class="col-md-10 text-right">
 								<ul class="menu">
 									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="Projects.php">Projects</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
                                     <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
@@ -87,7 +87,7 @@
 							<ul class="menu">
 								<li><a class="inner-link" href="#top">Home</a></li>
 								<li><a href="about/index.html" target="_self">About</a></li>
-								<li><a href="tutorials.php" target="_self">Projects</a></li>
+								<li><a href="project/Projects.php" target="_self">Projects</a></li>
 								<li><a href="contacts.php" target="_self">Contact</a></li>
 							</ul>
 						</div>

@@ -42,14 +42,14 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.html"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
 								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
 									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="Projects.php">Projects</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
                                     <li><a target="_self" href="about.php">About</a></li>
                                     <li><a target="_self" href="#contact">Contact</a></li>	
@@ -201,33 +201,33 @@
 					</li>
 
 					<li>
-						<a href="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/1.JPG" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38849797_2205067419503790_8123229100425871360_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/1.JPG">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/2.jpg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38862554_2205067389503793_1868610901779677184_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/2.jpg">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/3.JPG" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/3.JPG">
 							</div>
 						</a>
 					</li>
 
 					<li>
-						<a href="img/ZINE/gallery/38891294_2205067969503735_6796937877956591616_o.jpg" data-lightbox="true" data-title="Lightbox Image">
+						<a href="img/ZINE/gallery/4.jpeg" data-lightbox="true" data-title="Lightbox Image">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/check1.jpg">
+								<img class="background-image" alt="Lightbox Image" data-src="img/ZINE/gallery/4.jpeg">
 							</div>
 						</a>
 					</li>
