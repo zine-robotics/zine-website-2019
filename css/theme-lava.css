@@ -461,15 +461,10 @@ p a,
 // 7. Navigation
 // --------------------------------------------------*/
 nav .logo {
-<<<<<<< HEAD
   max-height: 45px;
   max-width: 110px;
-=======
-  max-height: 300px;
-  max-width: 51px;
->>>>>>> 8dd7913742aa9d33e85e72c9bbbbdbea44179507
   position: absolute;
-  top: 0px;
+  top: -11px;
   opacity: 1;
 }
 nav .text-right {
