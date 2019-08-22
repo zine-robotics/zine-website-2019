@@ -24,7 +24,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-12">
-						<h1 style="font-weight:500;">Our Founders:The Roots of our Tree</h1>
+						<h1 style="font-weight:500;">Our Founders: The Roots Of Our Tree</h1>
 					</div>
 				</div>
 
@@ -38,7 +38,7 @@
 										<div class="social-links vertical-align">
 											<a href="https://drrajeshkumar.wordpress.com/" target="default"><i class="icon social_wordpress"></i></a>
                                             <a href="https://www.facebook.com/rkumar.ee" target="default"><i class="icon social_facebook"></i></a>
-											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="_blank"><i class="icon social_linkedin"></i></a>
+											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="blank"><i class="icon social_linkedin"></i></a>
 										</div>
 									</div>
 								</div>
@@ -60,8 +60,8 @@
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/Founder/himanshu.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_blank"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -78,7 +78,7 @@
 									<img class="background-image avatar" alt="Arpit" src="img/ZINE/Founder/arpit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/arpit.jain.37604" target="blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -95,7 +95,7 @@
 									<img class="background-image avatar" alt="Anupam Kumar" src="img/ZINE/Founder/anupam.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/anupamkrmeena" target="blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -111,7 +111,7 @@
 									<img class="background-image avatar" alt="Soniya Jain" src="img/ZINE/Founder/soniya.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/soniya.jain.583671" target="blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -124,25 +124,24 @@
                     </div>
 			</div>
 		</section>
-        
 		<a id="Final_year" class="in-page-link"></a>
 		<section class="speakers duplicatable-content">
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-12">
-						<h1 style="font-weight:400;">Final year</h1>
+						<h1 style="font-family:'Raleway', sans-serif; text-transform: uppercase">Final year</h1>
 					</div>
 				</div>
-                                <div class="row">
+                                <div class="row finalyeardiv">
 					<div class="col-md-3 col-sm-12">
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/FinalYear/devnath.jpg">
+									<img class="background-image avatar" alt="Devnath" src="img/ZINE/FinalYear/devnath.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-                                            <a href="https://www.facebook.com/devnath.devonic" target="_blank"><i class="icon social_facebook"></i></a>
-                                            
+                                            <a href="https://www.instagram.com/devnath.nair" target="blank"><i class="icon social_instagram"></i></a>
+                                            <a href="https://github.com/DevnathNair" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -154,13 +153,13 @@
 			
                     </div>
                     </div>
-					<div class="col-md-3 col-sm-12">
+					<div class="col-md-3 col-sm-12 nimeshdiv">
 							<div class="speaker">
 								<div class="image-holder avatar">
 									<img class="background-image avatar" alt="Nimesh" src="img/ZINE/FinalYear/nimesh.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/profile.php?id=100008125336343" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/profile.php?id=100008125336343" target="blank"><i class="icon social_facebook"></i></a>
                                             <a href="https://github.com/nimesh00" target="_blank"><i class="fa fa-github"></i></a>
                                             
 										</div>
@@ -181,7 +180,7 @@
 									<img class="background-image" alt="Vikalp" src="img/ZINE/FinalYear/vikalp.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/vikalpcoolsaini" target="_blank"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/vikalpcoolsaini" target="blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -196,6 +195,7 @@
 			</div>
 
 		</section>
+
 
 		<a id="projectlead" class="in-page-link"></a>
 
@@ -373,7 +373,6 @@
 
 						</div>
                     </div>
-                                <div class="row">
 					<div class="col-md-3 col-sm-12">
                         <div>
 							<div class="speaker">
@@ -382,7 +381,7 @@
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
 											<a href="https://www.linkedin.com/in/akarth-gupta-221723184/" target="_blank"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/akarth.gupta.3" target="_blank"><i class="icon social_f
+                                            <a href="https://www.facebook.com/akarth.gupta.3" target="_blank"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
@@ -400,6 +399,276 @@
 
             </div>
             
+		</section>
+		<section class="speakers duplicatable-content">
+
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-sm-12">
+						<h1 style="font-family:'Raleway', sans-serif; text-transform: uppercase">Second Year</h1>
+					</div>
+				</div>
+                <div class="row">
+					<div class="col-md-3 col-sm-12">
+                        <div>
+							<div class="speaker">
+								<div class="image-holder avatar proper">
+									<img class="background-image avatar" alt="Akash Sharma" src="img/ZINE/second_year/aakash.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+                                            
+										</div>
+									</div>
+								</div>
+                            <div class="speaker-description text-center">
+								<h3 class="dev">Akash Sharma</h3>
+								<span class="sub">Computer Science</span>
+							</div>
+							</div>
+                    </div>
+                    </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="Bhanu" src="img/ZINE/second_year/bhanu.jpeg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                 <div class="speaker-description text-center">
+								<h3 class="dev">Bhanu Mohindra</h3>
+								<span class="sub">Mechanical Engineering</span>
+							</div>
+							</div>
+						
+                       
+                    </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="Brijraj" src="img/ZINE/second_year/brijraj.jpeg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                            <div class="speaker-description text-center">
+								<h3 class="dev">Brijraj</h3>
+								<span class="sub">Mechanical Engineering</span>
+							</div>
+							</div>
+                    </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="Charu" src="img/ZINE/second_year/charu.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                							<div class="speaker-description text-center">
+								<h3 class="dev">Charu</h3>
+								<span class="sub">Chemical Engineering</span>
+							</div>
+							</div>
+
+
+						</div>
+                    </div>
+                                <div class="row">
+					<div class="col-md-3 col-sm-12">
+                        <div>
+							<div class="speaker">
+								<div class="image-holder avatar proper">
+									<img class="background-image avatar" alt="Dhruv" src="img/ZINE/second_year/dhruv.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+                                            
+										</div>
+									</div>
+								</div>
+                                				    <div class="speaker-description text-center">
+								<h3 class="dev">Dhruv Goyal</h3>
+								<span class="sub">Computer Science</span>
+							</div>
+							</div>
+
+                    </div>
+                    </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="harsh" src="img/ZINE/second_year/harsh.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+
+                            </div>
+                                
+                        <div class="speaker-description text-center">
+								<h3 class="dev">Harsh Chaudary</h3>
+								<span class="sub">Mechanical Engineering</span>
+							</div>
+							</div>
+						
+					</div>
+
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="kshitiz" src="img/ZINE/second_year/kshitiz.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                             	<div class="speaker-description text-center">
+								<h3 class="dev">Kshitiz Kamal</h3>
+								<span class="sub">Civil Engineering</span>
+							</div>
+							</div>
+						
+           
+                   </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="nikita" src="img/ZINE/second_year/nikita.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                
+							<div class="speaker-description text-center">
+								<h3 class="dev">Nikita Rautela</h3>
+								<span class="sub">Mechanical Engineering</span>
+							</div>
+							</div>
+
+						</div>
+                    </div>
+                                
+<div class="row">
+					<div class="col-md-3 col-sm-12">
+                        <div>
+							<div class="speaker">
+								<div class="image-holder avatar proper">
+									<img class="background-image avatar" alt="pravesh" src="img/ZINE/second_year/pravesh.JPG">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+                                            
+										</div>
+									</div>
+								</div>
+                                				    <div class="speaker-description text-center">
+								<h3 class="dev">Pravesh Sandhu</h3>
+								<span class="sub">Computer Science</span>
+							</div>
+							</div>
+
+                    </div>
+                    </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="rajat" src="img/ZINE/second_year/rajat.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+
+                            </div>
+                                
+                        <div class="speaker-description text-center">
+								<h3 class="dev">Rajat Agarwal</h3>
+								<span class="sub">Electrical Engineering</span>
+							</div>
+							</div>
+						
+					</div>
+
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="saransh tayal" src="img/ZINE/second_year/saransh.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                             	<div class="speaker-description text-center">
+								<h3 class="dev">Saransh Tayal</h3>
+								<span class="sub">Chemical Engineering</span>
+							</div>
+							</div>
+						
+           
+                   </div>
+					<div class="col-md-3 col-sm-12">
+							<div class="speaker">
+								<div class="image-holder avatar">
+									<img class="background-image avatar" alt="sneha" src="img/ZINE/second_year/sneha.jpg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+										</div>
+									</div>
+								</div>
+                                
+							<div class="speaker-description text-center">
+								<h3 class="dev">Sneha Yadav</h3>
+								<span class="sub">Electrical Engineering</span>
+							</div>
+							</div>
+
+						</div>
+                    </div>
+                
+                <div class="row">
+					<div class="col-md-3 col-sm-12">
+                        <div>
+							<div class="speaker">
+								<div class="image-holder avatar proper">
+									<img class="background-image avatar" alt="vaibhav" src="img/ZINE/second_year/vaibhav.jpeg">
+									<div class="hover-state text-center preserve3d">
+										<div class="social-links vertical-align">
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+                                            
+										</div>
+									</div>
+								</div>
+                                				    <div class="speaker-description text-center">
+								<h3 class="dev">Vaibhav Agarwal</h3>
+								<span class="sub">Computer Science</span>
+							</div>
+							</div>
+
+                   
+
+						</div>
+                    </div>
+            </div>
+            
         </section>
+	
 <?php include('footer-1.php') ?>
 </html>
