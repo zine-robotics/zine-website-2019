@@ -1,5 +1,4 @@
 	<?php include('header.php') ?>
-	
 	<div class="main-container">
 	<section class="section-header1 overlay preserve3d lazy-section">
 			<div class="background-image-holder parallax-background">
@@ -39,7 +38,7 @@
 										<div class="social-links vertical-align">
 											<a href="https://drrajeshkumar.wordpress.com/" target="default"><i class="icon social_wordpress"></i></a>
                                             <a href="https://www.facebook.com/rkumar.ee" target="default"><i class="icon social_facebook"></i></a>
-											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="_self"><i class="icon social_linkedin"></i></a>
+											<a href="https://www.linkedin.com/in/drrajeshkumar/" target="_blank"><i class="icon social_linkedin"></i></a>
 										</div>
 									</div>
 								</div>
@@ -61,8 +60,8 @@
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/Founder/himanshu.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/hims333" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -79,7 +78,7 @@
 									<img class="background-image avatar" alt="Arpit" src="img/ZINE/Founder/arpit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/arpit.jain.37604" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -96,7 +95,7 @@
 									<img class="background-image avatar" alt="Anupam Kumar" src="img/ZINE/Founder/anupam.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/anupamkrmeena" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -112,7 +111,7 @@
 									<img class="background-image avatar" alt="Soniya Jain" src="img/ZINE/Founder/soniya.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.facebook.com/soniya.jain.583671" target="_blank"><i class="icon social_facebook"></i></a>
 										</div>
 									</div>
 								</div>
@@ -142,7 +141,7 @@
 									<img class="background-image avatar" alt="Himanshu Gothwal" src="img/ZINE/FinalYear/devnath.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-                                            <a href="https://www.facebook.com/devnath.devonic" target="_self"><i class="icon social_facebook"></i></a>
+                                            <a href="https://www.facebook.com/devnath.devonic" target="_blank"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
@@ -216,8 +215,9 @@
 									<img class="background-image avatar" alt="Tanmay" src="img/ZINE/thirdyear/tanmay.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/tanmay-agarwal-219182184/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/tanmayagarwal30" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/7anmay" target="_blank"><i class="fa fa-github"></i></a>
                                             
 										</div>
 									</div>
@@ -235,7 +235,9 @@
 									<img class="background-image avatar" alt="Paarth" src="img/ZINE/thirdyear/paarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/paarth-b-226b1a136/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/paarth.bir" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/paarthbir77" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -253,7 +255,9 @@
 									<img class="background-image avatar" alt="Vibhor" src="img/ZINE/thirdyear/vibhor.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/vibhorrawal/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/vibhor.rawal.583" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/vibhorrawal" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -269,7 +273,9 @@
 									<img class="background-image avatar" alt="Vishal" src="img/ZINE/thirdyear/vish.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/vishal81/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/vishal.kothari.142" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/th3skyfox" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -287,11 +293,11 @@
                         <div>
 							<div class="speaker">
 								<div class="image-holder avatar proper">
-									<img class="background-image avatar" alt="Tanishk" src="img/ZINE/thirdyear/ta.png">
+									<img class="background-image avatar" alt="Tanishk" src="img/ZINE/thirdyear/tanisk.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+										<a href="https://www.linkedin.com/in/tanishkdudi/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/tanishk.dudi" target="_blank"><i class="icon social_facebook"></i></a>
                                             
 										</div>
 									</div>
@@ -310,7 +316,9 @@
 									<img class="background-image avatar" alt="pranav" src="img/ZINE/thirdyear/pranav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/arpit.jain.37604" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/pranav-kulshrestha-a7ba47145/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/pranav.kulshrestha.73" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/pranav1698" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 
@@ -330,7 +338,9 @@
 									<img class="background-image avatar" alt="Sumit" src="img/ZINE/thirdyear/Sumit.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/anupamkrmeena" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/isumit19/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/isumit19" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/isumit19" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -348,7 +358,9 @@
 									<img class="background-image avatar" alt="Keshav" src="img/ZINE/thirdyear/keshav.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.facebook.com/soniya.jain.583671" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/keshav-sarraf-0a0176132/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/keshav.sarraf.5" target="_blank"><i class="icon social_facebook"></i></a>
+                                            <a href="https://github.com/imkesh" target="_blank"><i class="fa fa-github"></i></a>
 										</div>
 									</div>
 								</div>
@@ -369,8 +381,8 @@
 									<img class="background-image avatar" alt="Akarth" src="img/ZINE/thirdyear/akarth.jpg">
 									<div class="hover-state text-center preserve3d">
 										<div class="social-links vertical-align">
-											<a href="https://www.linkedin.com/in/himanshu-gothwal-8a61a816/" target="_self"><i class="icon social_linkedin"></i></a>
-                                            <a href="https://www.facebook.com/hims333" target="_self"><i class="icon social_facebook"></i></a>
+											<a href="https://www.linkedin.com/in/akarth-gupta-221723184/" target="_blank"><i class="icon social_linkedin"></i></a>
+                                            <a href="https://www.facebook.com/akarth.gupta.3" target="_blank"><i class="icon social_f
                                             
 										</div>
 									</div>
@@ -390,3 +402,4 @@
             
         </section>
 <?php include('footer-1.php') ?>
+</html>

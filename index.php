@@ -27,7 +27,7 @@
 							<div class="row">
 								<div class="col-md-6 col-sm-6">
 									<h1 class="large-h1 text-white">Conducts Robotics Workshop annually</h1>
-									<a href="register2k18/index.php" class="btn" style="background: None; border: 2px solid #fff;" target="_self">Register</a>
+									<a href="register2k18/index.php" class="btn" style="background: None; border: 2px solid #fff;" target="_blank">Register</a>
 								</div>
 
 							</div>
@@ -42,7 +42,7 @@
 							<div class="row">
 								<div class="col-md-6 col-sm-6">
 									<h1 class="large-h1 text-white">Participates in various national and international events </h1>
-									<a href="achievements.php" class="btn additional" style="background: None; border: 2px solid #fff" target="_self">Achievements</a>
+									<a href="achievements.php" class="btn additional" style="background: None; border: 2px solid #fff" target="_blank">Achievements</a>
 								</div>
 							</div>
 						</div>
@@ -54,7 +54,7 @@
 							<div class="row">
 								<div class="col-sm-6 col-md-7">
 									<h1 class="large-h1 text-white">Works on various research problems and innovative projects</h1>
-									<a href="projects.php" class="btn" target="_self" style="background: None; border: 2px solid #fff">Projects</a>
+									<a href="projects.php" class="btn" target="_blank" style="background: None; border: 2px solid #fff">Projects</a>
 								</div>
 							</div>
 						</div>
@@ -97,7 +97,7 @@
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="achievements.php" target="_self">Find Out About Achievements</a>
+									<a href="achievements.php" target="_blank">Find Out About Achievements</a>
 									</div>
 								</div>
 							</div>
@@ -107,7 +107,7 @@
 									<h3>Reseach and Development<br></h3>
 									<p> Our research falls in many domains including Artifical Intelligence, Controls and System, Gait Analysis, Human Robot Interaction, Algorithm Development and many more. Spanning all domains, ZINE Robotics has 9 patents and multiple papers in reputed IEEE Journals. ZINE has also collaborated with several hospitals for research and development.</p><br><div><br></div><div><br></div>
 									<div class="text-link">
-									<a href="projects.php" target="_self">Find Out About our projects</a>
+									<a href="projects.php" target="_blank">Find Out About our projects</a>
 									</div>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 									<h3>Workshop<br></h3>
                                     <div><p>Our team conducts a 9 day workshop that guides the incoming freshers into the field of robotics, along with lectures on various other engineering skills such as Android app development, Website Development, Ethical hacking and many basic lectures which are required to enhance your skills in Robotics. Every year our team had successfully delivered the impactful lectures and practicals to more than 300 freshers.</p><div><br></div><div><br></div>
 									<div class="text-link">
-										<a href="register2k18/index.php" target="_self">Register for Workshop 2019</a>
+										<a href="register2k18/index.php" target="_blank">Register for Workshop 2019</a>
 									</div>
 								</div>
 							</div>
@@ -140,7 +140,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<h1 class="text-white">Interested to be a part of ZINE?<div><a class="text-white" href="register2k18/index.php" target="_self">Register</a> on our page for workshop </div></h1>
+								<h1 class="text-white">Interested to be a part of ZINE?<div><a class="text-white" href="register2k18/index.php" target="_blank">Register</a> on our page for workshop </div></h1>
 							</div>
 						</div>
 					</div>

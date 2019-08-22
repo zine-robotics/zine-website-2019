@@ -1101,6 +1101,7 @@ nav .container {
   height: 350px;
 }
 .section-header h1 {
+  margin-top: 32px;
   font-size: 32px;
 }
 .section-header1 h1 {
