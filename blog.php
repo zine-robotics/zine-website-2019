@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="timeline/css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="timeline/css/style_timeline.css"> <!-- Resource style -->
         <link rel="stylesheet" href="css/slider.css">
+        <link href="css/blogs.css" rel="stylesheet"/>
         
 	<script src="timeline/js/modernizr.js"></script> <!-- Modernizr -->
     </head>
@@ -64,7 +65,7 @@
 									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
                                     <li><a target="_self" href="about.php">About</a></li>	
-                                    <li><a target="_self" href="blogs.php">Blogs</a></li>	
+                                    <li><a target="_self" href="blog.php">Blogs</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
                                     		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
@@ -199,19 +200,19 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<h1 class="large-h1">ZINE Activities</h1>
+								<h1 class="large-h1">BLOGS</h1>
 								<br>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col-md-4 col-sm-6">
+						<div >
+							<div class="col-md-4 col-sm-6" class="card1">
 								<div class="info-box">
-									<img alt="Venue" data-src="img/ZINE/compet.jpg">
-									<h3>Participates in Various Competitions</h3>
+									<img alt="Venue" data-src="img/ee.jpg">
+									<h3>Basic Electrical And Electronics</h3>
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="BEE.php" target="_blank">Find Out About Achievements</a>
+									<a href="./Index.php" target="_blank">Go to blog</a>
 									</div>
 								</div>
 							</div>
