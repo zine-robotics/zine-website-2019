@@ -26,13 +26,17 @@
       <ol class="c17 lst-kix_rcl50rwrr5s8-0 start" start="1">
          <li class="c0 c10 c25 li-bullet-0"><span class="c6 c3 c9">Required equipment:</span></li>
       </ol>
-      <p class="c0"><span style="overflow: hidden; display: block; margin-left: auto;margin-right: auto; width:50%;border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 647.63px; height: 311.72px;"><img alt="" src="images/image12.png" style="width: 647.63px; height: 311.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); " title=""></span></p>
-      <p class="c0 c10"><span class="c6 c3 c9">In case you have your real-world LED, switch, battery, and wires, they will work better, but if you don&rsquo;t have them, you can take these hypothetical ones. Assume them to be similar to the real-world ones. </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 117.00px; height: 185.45px;"><img alt="" src="images/image16.png" style="width: 117.00px; height: 205.00px; margin-left: 0.00px; margin-top: -19.55px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c0"><span style="overflow: hidden; display: block; margin-left: auto;margin-right: auto; width: 50%;border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 647.63px; height: 311.72px;">
+      <img alt="" src="images/image12.png" class="img-responsive floating-image" style="width: 647.63px; height: 311.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); " title=""></span></p>
+      <p class="c0 c10"><span class="c6 c3 c9">In case you have your real-world LED, switch, battery, and wires, they will work better, but if you don&rsquo;t have them, you can take these hypothetical ones. Assume them to be similar to the real-world ones. </span>
+      <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 117.00px; height: 185.45px;">
+      <img alt="" src="images/image16.png" class="img-responsive floating-image right" title=""></span></p>
       <ol class="c17 lst-kix_rcl50rwrr5s8-0" start="2">
          <li class="c0 c10 c25 li-bullet-0"><span class="c6 c3 c9">Now, you need to connect a piece of wire to each terminal of LED and analyze whether it is a circuit according to the definition. </span></li>
       </ol>
       <p class="c0 c10"><span class="c6 c3 c9">Is it a circuit? No, it&rsquo;s not because it does not make a closed path. (The one in red is the positive terminal and the one in black is negative)</span></p>
-      <p class="c19"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 122.00px; height: 192.49px;"><img alt="" src="images/image11.png" style="width: 122.00px; height: 205.00px; margin-left: 0.00px; margin-top: -12.51px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c19"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 122.00px; height: 192.49px;">
+      <img alt="" src="images/image11.png" style="width: 122.00px; height: 205.00px; margin-left: 0.00px; margin-top: -12.51px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
       <p class="c0 c1"><span class="c6 c3 c9"></span></p>
       <ol class="c17 lst-kix_rcl50rwrr5s8-0" start="3">
          <li class="c0 c10 c25 li-bullet-0"><span class="c6 c3 c9">Now, connect the end terminals of wire extending from the terminals of LED and connect them. </span></li>
@@ -51,7 +55,8 @@
       <p class="c0"><span class="c6 c3 c9">demonstrate about circuits, we don&rsquo;t really. Our elementary electric circuit is now complete. But we need a switch to illustrate some more concepts.</span></p>
       <p class="c0 c1"><span class="c6 c3 c9"></span></p>
       <p class="c0"><span class="c6 c3 c9">Suppose you connect a switch in series with your circuit, but the simple on/off switch can only have two states, on or off, and takes only one of them at once.</span></p>
-      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 685.40px; height: 444.26px;"><img alt="" src="images/image25.png" style="width: 685.40px; height: 444.26px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 685.40px; height: 444.26px;">
+      <img alt="" src="images/image25.png" style="width: 685.40px; height: 444.26px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
       <p class="c0 c1"><span class="c6 c3 c9"></span></p>
       <a id="t.a7310af5c5238e3e73ab1e87630ff367b74833b6"></a><a id="t.0"></a>
       <table class="c14">
@@ -66,14 +71,19 @@
       </table>
       <p class="c2 c1"><span class="c6 c3"></span></p>
       <p class="c0"><span class="c6 c3">Now that you know what exactly is a circuit, let&rsquo;s study the types of circuit elements.</span></p>
-      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 210.20px; height: 210.20px;"><img alt="" src="images/image21.jpg" style="width: 210.20px; height: 210.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 210.20px; height: 210.20px;">
+      <img alt="" src="images/image21.jpg" style="width: 210.20px; height: 210.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
       <p class="c0"><span class="c16 c15">Active Circuit Element</span></p>
       <p class="c0"><span class="c6 c3">The elements that supply energy to the circuit are called active elements.</span></p>
       <p class="c0 c1"><span class="c18 c3"></span></p>
       <p class="c0"><span class="c15 c20">Passive Circuit Element</span></p>
-      <p class="c0"><span class="c6 c3">A passive component is an electronic component that cannot introduce net energy to the circuit. The definition is really simple. In the above circuit, Battery is an Active element and Bulbs are Passive. What are some other passive circuit elements that we use? Yeah! Resistors, Capacitors, Inductors, Transformers, Diodes&#x1f644; all are passive components.</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 328.00px; height: 411.57px;"><img alt="" src="images/image9.png" style="width: 399.01px; height: 411.57px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c0"><span class="c6 c3">A passive component is an electronic component that cannot introduce net energy to the circuit. The definition is really simple. In the above circuit, Battery is an Active element and Bulbs are Passive. 
+         What are some other passive circuit elements that we use? Yeah! Resistors, Capacitors, Inductors, Transformers, Diodes&#x1f644; all are passive components.</span>
+         <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 328.00px; height: 411.57px;">
+         <img alt="" src="images/image9.png" style="width: 399.01px; height: 411.57px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
       <p class="c0 c1"><span class="c6 c3"></span></p>
-      <p class="c2"><span class="c6 c3">Now try to think of some active components.&#x1f914; Battery&hellip;uh...um...battery.&#x1f92b; I&rsquo;m not playing this. Wait, you&#39;re here to learn, so, &nbsp;let us tell you. Other than batteries we have...ah&hellip; it&rsquo;s hard really...&#x1f612;...yes...generators? Yes, they supply energy to the circuit...or we say generally, all voltage and current sources are active circuit elements. </span></p>
+      <p class="c2"><span class="c6 c3">Now try to think of some active components.&#x1f914; Battery&hellip;uh...um...battery.&#x1f92b; I&rsquo;m not playing this. Wait, you&#39;re here to learn, so, &nbsp;let us tell you. Other than batteries we have...ah&hellip; 
+         it&rsquo;s hard really...&#x1f612;...yes...generators? Yes, they supply energy to the circuit...or we say generally, all voltage and current sources are active circuit elements. </span></p>
       <p class="c0 c1"><span class="c6 c3"></span></p>
       <sup><a href="#cmnt1" id="cmnt_ref1">[a]</a></sup>
       <p class="c0 c1"><span class="c6 c3"></span></p>
@@ -81,7 +91,8 @@
       <p class="c0 c1"><span class="c8 c3"></span></p>
       <p class="c0 c1"><span class="c8 c3"></span></p>
       <p class="c2"><span class="c15 c20">Resistors</span></p>
-      <p class="c2"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 291.00px; height: 253.00px;"><img alt="" src="images/image26.jpg" style="width: 291.00px; height: 288.76px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+      <p class="c2"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 291.00px; height: 253.00px;">
+      <img alt="" src="images/image26.jpg" style="width: 291.00px; height: 288.76px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
       <p class="c0"><span class="c3">Resistors are electronic components that have specific, never-changing (given physical conditions are constant) electrical resistance. They play a significant role in Ohm&rsquo;s law. That&rsquo;s why the resistance&#39;s SI unit is Ohmmmmm&#x1f600;&hellip;</span></p>
       <p class="c0 c1"><span class="c6 c3"></span></p>
       <p class="c0 c1"><span class="c6 c3"></span></p>

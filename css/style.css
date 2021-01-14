@@ -8,6 +8,10 @@ body {
 	font-size:100%;line-height:1.25em;color:#4e4e4e
 }
 
+a{
+	text-decoration: none !important;
+}
+
 html {min-width:920px}
 img {border:0;vertical-align:top;text-align:left}
 object {vertical-align:top;outline:none}
