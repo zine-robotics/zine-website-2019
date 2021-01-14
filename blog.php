@@ -107,7 +107,9 @@
 				</ul>
 			</section>
                   
-            
+     
+           
+
     <section id="cd-timeline" class="cd-container">
 
     <div class="cd-timeline-block">
@@ -200,7 +202,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<h1 class="large-h1">BLOGS</h1>
+								<h1  class="blogHeading">BLOGS</h1>
 								<br>
 							</div>
 						</div>
@@ -208,11 +210,11 @@
 							<div class="col-md-4 col-sm-6" class="card1">
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ee.jpg">
-									<h3>Basic Electrical And Electronics</h3>
-									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
+									<h3 style="color:black; font-size:22px;">Basic Electrical And Electronics</h3>
+									<p style="font-family:Arial; color:black; line-height:24px;">Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="./BeeIndex.php" target="_blank">Go to blog</a>
+									<a href="./BeeIndex.php">Go to blog</a>
 									</div>
 								</div>
 							</div>
