@@ -12,11 +12,22 @@
 .blog-page{
    
     background-color: white;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 20%;
+    margin-right: 20%;
     
 }
 
 .card1{
     align-self:center !important;
+}
+.heading{
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 110px;
 }
