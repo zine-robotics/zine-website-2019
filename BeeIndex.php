@@ -25,7 +25,7 @@
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="./Index.php">Go to blog</a>
+									<a href="./Intro.php">Go to blog</a>
 									</div>
 								</div>
                             </div>
