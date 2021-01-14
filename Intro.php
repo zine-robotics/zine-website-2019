@@ -46,4 +46,3 @@ We’ll work this out with an activity. Consider a bulb and a television screen.
 </div>
 
 <?php include('footer-1.php') ?>
-</html>    
