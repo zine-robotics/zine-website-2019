@@ -21,27 +21,23 @@ a{
     max-width: 1000px; 
     font-size: 18px; 
 }
-/* .blog-page .floating-image{
-    max-width:400px;
-} */
+.blog-page .floating-image{
+    margin-bottom: 10px;
+    margin-top: 10px;
+} 
 .blog-page .floating-image.right{
     float: right;
     margin-left: 30px;
-    margin-bottom: 10px;
-    margin-top: 10px;
+   
 }
 .blog-page .floating-image.left{
     float: left;
     margin-right: 30px;
-    margin-bottom: 10px;
-    margin-top: 10px;
 }
 .blog-page .floating-image.center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 10px;
-    margin-top: 10px;
 }
 
 
@@ -65,6 +61,14 @@ a{
     font-weight: 500;
     font-size: 38px;
     line-height: 3;
+}
+.blogPageHeading{
+    font-size: 24px;
+    font-weight: 800;
+}
+.blogPageSubHeading{
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .description-container {
