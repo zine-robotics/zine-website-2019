@@ -15,13 +15,13 @@
          <div class="description-container">
             <br> <br> <br>
             <div>
-            And the journey starts😀. Let’s start with some conceptual things. So in this blog, we will study circuit
-            elements. What are these and where do we see them in daily life and robotics?🤔
+               And the journey starts😀. Let’s start with some conceptual things. So in this blog, we will study circuit
+               elements. What are these and where do we see them in daily life and robotics?🤔
 
-            But before starting with circuit elements, do you know what a circuit is?
-            A circuit is an arrangement of individual electronic components, such as resistors, transistors,
-            capacitors, inductors, and diodes, connected by conductive wires or traces through which electric current
-            can flow.</div>
+               But before starting with circuit elements, do you know what a circuit is?
+               A circuit is an arrangement of individual electronic components, such as resistors, transistors,
+               capacitors, inductors, and diodes, connected by conductive wires or traces through which electric current
+               can flow.</div>
             Now let’s understand this with a hypothetical activity. <br> <br>
             <ol>
                <li>
@@ -107,6 +107,9 @@
 
 
 
-   <?php include('footer-1.php') ?>
+</div>
+</body>
+</div>
+</div>
 
-   </html>
+<?php include('footer-1.php') ?>
