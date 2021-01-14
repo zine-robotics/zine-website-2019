@@ -17,28 +17,31 @@ a{
     /* margin-left:20%;
     margin-right:20%; */
     margin: 0 auto 0 auto;
-    padding: 20px 0 20px 0;
+    padding: 20px;
     max-width: 1000px; 
-    
+    font-size: 18px; 
 }
-.blog-page .floating-image{
-    /* max-width:400px; */
-}
+/* .blog-page .floating-image{
+    max-width:400px;
+} */
 .blog-page .floating-image.right{
-    float: right !important;
-    margin-left: 30px !important;
-    margin-bottom: 10px !important;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 .blog-page .floating-image.left{
     float: left;
     margin-right: 30px;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 .blog-page .floating-image.center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 
