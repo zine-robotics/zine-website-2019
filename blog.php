@@ -82,29 +82,11 @@
     
 
 <section class="hero-slider lazy-section">
-				<ul class="slides">
-					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/1.JPG">
+							<img class="background-image" alt="Background Image" data-src="img/blog.jpg">
 						</div>
-					</li>
 
-					<li class="hero-slide">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/2.jpeg">
-						</div>
-					</li>
-
-					<li class="hero-slide">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/3.jpeg">
-                        </div>
-					</li><li class="hero-slide">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/ZINE/achie/4.JPG">
-						</div>
-					</li>
-				</ul>
+				
 			</section>
                   
      
