@@ -1139,23 +1139,25 @@
         }
     </style> 
     </head>-->
-<?php include('header.php') ?>
+    <?php include('header.php') ?>
 
 
 <div class="headImage">
 
-    <div class="heading">
-        Circuit Elements
-    </div>
+   <div class="heading">
+      Diodes
+   </div>
 </div>
 <div class="page">
-    <div class="blog-page">
+   <div class="blog-page">
 
-        <body class="c9 c12">
-            <div style="padding: 0 30px 0 30px;">
-                <div>
-                    <p class="c2 c1"><span class="c4"></span></p>
-                </div>
+   <body class="c9 c12" >
+   <div style="padding: 0 30px 0 30px;">
+      <div>
+         <p class="c2 c1"><span class="c4"></span></p>
+      </div>
+      
+      <p class="c27 c1"><span class="c6 c15"></span></p>
                 <p class="c0"><span class="c6">Look at the picture of a house and try to decode the basic structural unit of it.&#x1f914;</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 453.50px; height: 227.47px;"><img alt="" src="images/diodes/image35.png" style="width: 453.50px; height: 227.47px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
                 <p class="c0 c14"><span class="c6"></span></p>
                 <p class="c0"><span class="c6">Yeah, guys! we know all of you know it&#39;s a brick. But what about these? Can you tell their smallest electronic component?</span></p>
