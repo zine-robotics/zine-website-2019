@@ -25,7 +25,7 @@
 									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
-									<a href="./Index.php">Go to blog</a>
+									<a href="./BeeIndex.php">Go to blog</a>
 									</div>
 								</div>
                             </div>
@@ -37,6 +37,17 @@
                                     <div><br></div><div><br></div>
                                     <div class="text-link">
 									<a href="./circuitElements.php">Go to blog</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6" class="card1">
+								<div class="info-box">
+									<img alt="Venue" data-src="img/ee.jpg">
+									<h3>Diodes</h3>
+									<p>Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
+                                    <div><br></div><div><br></div>
+                                    <div class="text-link">
+									<a href="./diodes.php">Go to blog</a>
 									</div>
 								</div>
 							</div>
