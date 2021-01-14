@@ -195,7 +195,7 @@
 	</section> <!-- cd-timeline -->
         </div>
 
-        <a id="activities" class="in-page-link"></a>
+       
         <section class="duplicatable-content visitor-info lazy-section">
 					<div class="container">
 						<div class="row">
@@ -204,7 +204,7 @@
 								<br>
 							</div>
 						</div>
-						<div >
+						<div class="row">
 							<div class="col-md-4 col-sm-6" class="card1">
 								<div class="info-box">
 									<img alt="Venue" data-src="img/ee.jpg">
