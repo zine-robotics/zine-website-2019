@@ -64,3 +64,19 @@ a{
     line-height: 3;
 }
 
+.description-container {
+	max-width: 800px;
+	margin: 40px auto 20px;
+}
+
+.right {
+	float:right;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
+.left {
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 10px;
+}
