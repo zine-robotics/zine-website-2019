@@ -24,6 +24,7 @@
         <link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="css/blogs.css" rel="stylesheet"/>
+        <link href="css/_blogs.scss" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
         <meta content="text/html; charset=UTF-8" http-equiv="content-type">

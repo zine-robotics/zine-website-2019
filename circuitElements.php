@@ -238,6 +238,11 @@
       <br><br>
       Huh!🤕 A lot of components for one blog. Ok...ok...let’s end this blog here and see you in the next blog with some
       more parts of “heart”.
+<br><br>
+<ul class="pager">
+  <li class="previous"><a href="./circuitElements.php">Previous</a></li>
+  <li class="next"><a href="./diodes.php">Next</a></li>
+</ul>
 
    </div>
 </div>

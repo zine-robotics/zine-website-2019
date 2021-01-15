@@ -160,7 +160,11 @@
                 <br></li> <br><br>
         </ul>
         With this we have reached the end of this section. See you in the next one!
-
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./transistor.php">Previous</a></li>
+  <li class="next"><a href="./wires.php">Next</a></li>
+</ul>
     </div>
 </div>
 
