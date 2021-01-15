@@ -1,12 +1,12 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
-
-   <div class="heading">
+<div class="headImage">  
+</div>
+<div class="heading">
       Introduction
    </div>
-</div>
+
 <div class="page">
    <div class="blog-page">
 
@@ -21,13 +21,13 @@
       substitute for (or replicate) human actions. Simple isn't it. Earlier, it was meant to be used in the
       manufacturing sector only. Now, people are using robots at home, in hospitals, airports, and many more. So, let's
       begin our journey. But before that Beep Beep Boop Boop Beep...<br />
-      <img src="./images/Intro/1.gif" class="img-responsive floating-image center">
+      <img src="./img/images/Intro/1.gif" class="img-responsive floating-image center">
       <br />Yeah, those above are robots!😃<br />
-      <img src="./images/Intro/2.gif" class="img-responsive floating-image left">
-      <img src="./images/Intro/3.gif" class="img-responsive floating-image right"
+      <img src="./img/images/Intro/2.gif" class="img-responsive floating-image left">
+      <img src="./img/images/Intro/3.gif" class="img-responsive floating-image right"
          style="width: 500px; height: 300px;"><br />
       And those too! 😅 The one on left is an obstacle-avoiding bot and the right one is a line follower bot.<br />
-      <img src="./images/Intro/4.jpg" class="img-responsive floating-image right"
+      <img src="./img/images/Intro/4.jpg" class="img-responsive floating-image right"
          style="width: 400px; height:600px;"><br />
       Now you all must be curious to know how we build them? How is a robot able to do things automatically? Does it go
       through the same thought process as a person would in the same situation? Does it even have a thought process of
@@ -46,7 +46,7 @@
       necessary for working of different parts of the robot, e.g motors, sensors, and other electric and electronic
       elements all connected using wires.
       <br />
-      <img src="./images/Intro/5.gif" class="img-responsive floating-image right"><br />
+      <img src="./img/images/Intro/5.gif" class="img-responsive floating-image right"><br />
       Yes, yes, WiFi and Bluetooth don’t use wires at all but they aren’t exceptions guys, it’s just electronics doing
       telepathy. 😉 <br />
       <br />
@@ -57,8 +57,8 @@
       <br />
       We’ll work this out with an activity. Consider a bulb and a television screen.
       <br />
-      <img src="./images/Intro/6.gif" class="img-responsive floating-image left" style="width: 450px; height: 280px;">
-      <img src="./images/Intro/7.gif" class="img-responsive floating-image" style="width: 300px; height:280px;">
+      <img src="./img/images/Intro/6.gif" class="img-responsive floating-image left" style="width: 450px; height: 280px;">
+      <img src="./img/images/Intro/7.gif" class="img-responsive floating-image" style="width: 300px; height:280px;">
       <br />
       Both bulbs and television do similar tasks of emitting light. But still, they are different. Right? You can’t
       address a bulb as television.
@@ -101,22 +101,22 @@
       which most electrical and electronic devices work? Yes! We are talking about ohm’s law.
       <br /><br />
       <div class="blogPageHeading">Ohm’s Law</div>
-      <img src="./images/Intro/8.jpg" class="img-responsive floating-image right" style="width: 300px; height:200px;">
+      <img src="./img/images/Intro/8.jpg" class="img-responsive floating-image right" style="width: 300px; height:200px;">
       <br />
       Ohm’s Law provides a mathematical relationship between <strong>Voltage, Current,</strong> and
       <strong>Resistance</strong> in a circuit.
       <br />
-      <img src="./images/Intro/9.png" class="img-responsive floating-image center" style="width: 150px; height:50px;">
+      <img src="./img/images/Intro/9.png" class="img-responsive floating-image center" style="width: 150px; height:50px;">
       But we hope you know about another form of Ohm’s law too. It tells the relation between <strong>Current Density,
          Electric Field,</strong> and <strong>Conductivity</strong> of the material. We call that microscopic Ohm’s Law.
       <br /><br />
       <div class="blogPageHeading">Microscopic Ohm’s Law-</div>
 
-      <img src="./images/Intro/10.jpg" class="img-responsive floating-image center"
+      <img src="./img/images/Intro/10.jpg" class="img-responsive floating-image center"
          style="width: 160px; height:70px;"><br />
       But do you know that Ohm’s Law is not always valid? 🤔 Yes, there are non-Ohmic devices too, and they are pretty
       important in robotics too. How? You’ll find about them during your journey into robotics.
-      <img src="./images/Intro/11.png" class="img-responsive floating-image right" style=" height:200px;">
+      <img src="./img/images/Intro/11.png" class="img-responsive floating-image right" style=" height:200px;">
       <br /><br />
       Now that you know about the importance of electrical and electronics, it's time to find more about “The Power
       Stone of Robotics” and get it in our hands. So let’s go.

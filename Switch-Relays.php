@@ -1,27 +1,26 @@
 <?php include('header.php') ?>
 
 <div class="headImage"  >
-    
-   <div class="heading">
+</div>  
+<div class="heading">
    Switch and Relays
-</div>
-</div>   
+</div> 
 <div class="page">
 <div class="blog-page">
 
-<img src="./images/Switch and Relays/1.gif" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/1.gif" class="img-responsive floating-image center">
 <br />
 Yes! Switches! It seems such a normal thing. We use a switch to turn on or off any electrical device. Look at that power board in front of you. 
 <br />
-<img src="./images/Switch and Relays/2.png" class="img-responsive floating-image center" style="width: 300px; height: 300px;">
+<img src="./img/images/Switch and Relays/2.png" class="img-responsive floating-image center" style="width: 300px; height: 300px;">
 <br />
 Yes, It is a switch. But is this it?🙄Pffff….No, obviously. 
-<img src="./images/Switch and Relays/3.png" class="img-responsive floating-image center" style="width: 250px; height: 200px;" >
-<img src="./images/Switch and Relays/4.png" class="img-responsive floating-image center" style="width: 350px; height: 200px;">
+<img src="./img/images/Switch and Relays/3.png" class="img-responsive floating-image center" style="width: 250px; height: 200px;" >
+<img src="./img/images/Switch and Relays/4.png" class="img-responsive floating-image center" style="width: 350px; height: 200px;">
 <br />
 But, these are switches too.😕
 <br />
-<img src="./images/Switch and Relays/image1.jpg" class="img-responsive floating-image center"><br />
+<img src="./img/images/Switch and Relays/image1.jpg" class="img-responsive floating-image center"><br />
 And these are too.
 <br/><br/>
 There’s much more to it. Let’s start scratching this simple topic and see what all magic it can do.
@@ -37,7 +36,7 @@ Fun Fact: There used to be no switches back when the bulb was invented...what pe
      <strong> What is a Switch? </strong>
      <br /> <br /> 
 A <strong>Switch</strong> is a device that breaks(sometimes diverts🙄) the flow of current in a circuit. Simple enough?
-<img src="./images/Switch and Relays/image14.png" class="img-responsive floating-image center"><br />
+<img src="./img/images/Switch and Relays/image14.png" class="img-responsive floating-image center"><br />
 
 This is how we typically represent a switch. But wait. What are these <strong>1P</strong> and <strong>1T</strong> representing here?🤔 Told you already that switch is an interesting topic too.😀
 <strong>P</strong> represents <strong>Pole</strong> and <strong>T</strong> represents <strong>Throw</strong>. What are these? Let’s see.
@@ -66,11 +65,11 @@ They can be further classified on basis of the number of contacts they make:
 <div class="blogPageSubHeading">Single Pole Single Throw(SPST):</div>
 These switches contain only one input and one output contact. It performs basic ON or OFF operations. And yes, the switch in your power board is SPST only.
 <!-- <div style="display:flex;"> -->
-<img src="./images/Switch and Relays/image3.jpg" class="img-responsive floating-image left" style="width: 200px; height: 200px;">
-<img src="./images/Switch and Relays/image16.jpg" class="img-responsive floating-image right" style="width: 520px; height: 180px;">
+<img src="./img/images/Switch and Relays/image3.jpg" class="img-responsive floating-image left" style="width: 200px; height: 200px;">
+<img src="./img/images/Switch and Relays/image16.jpg" class="img-responsive floating-image right" style="width: 520px; height: 180px;">
 <!-- </div> -->
 <br />
-<img src="./images/Switch and Relays/image24.png" class="img-responsive floating-image center" style="width: 450px; height: 300px;"><br />
+<img src="./img/images/Switch and Relays/image24.png" class="img-responsive floating-image center" style="width: 450px; height: 300px;"><br />
 <br />
 
 
@@ -82,12 +81,12 @@ These switches contain only one input and one output contact. It performs basic 
 
 <div class="blogPageSubHeading">Single Pole Double Throw(SPDT)</div>
 It has one input contact and two output contacts. It has two ON states and one OFF state.
-<img src="./images/Switch and Relays/image27.jpg" class="img-responsive floating-image center" style="width: 700px; height: 300px;">
+<img src="./img/images/Switch and Relays/image27.jpg" class="img-responsive floating-image center" style="width: 700px; height: 300px;">
 <br />
 <!-- <div style="display:flex; display-flex:column;"> -->
-<img src="./images/Switch and Relays/image10.gif" class="img-responsive floating-image left" style="width: 150px; height: 200px;" >
-<img src="./images/Switch and Relays/image15.jpg" class="img-responsive floating-image right" style="width: 200px; height: 200px;">
-<img src="./images/Switch and Relays/image9.png" class="img-responsive floating-image center" >
+<img src="./img/images/Switch and Relays/image10.gif" class="img-responsive floating-image left" style="width: 150px; height: 200px;" >
+<img src="./img/images/Switch and Relays/image15.jpg" class="img-responsive floating-image right" style="width: 200px; height: 200px;">
+<img src="./img/images/Switch and Relays/image9.png" class="img-responsive floating-image center" >
 <!-- </div> -->
 <br />
 
@@ -105,11 +104,11 @@ This switch consists of four terminals, two input contacts, and two output conta
 It behaves like two separate SPST configurations, operating at the same time. It has only one ON position, but it can actuate the two contacts simultaneously, such that each input contact will be connected to its corresponding output contact. 
 <br />In the OFF position, both switches are at an open state. This type of switch is used for controlling two different circuits at a time.
 <div style="display:flex;">
-<img src="./images/Switch and Relays/image6.png" class="img-responsive floating-image center" style="width: 230px; height: 200px;" >
-<img src="./images/Switch and Relays/image26.png" class="img-responsive floating-image center" style="width: 200px; height: 200px;">
+<img src="./img/images/Switch and Relays/image6.png" class="img-responsive floating-image center" style="width: 230px; height: 200px;" >
+<img src="./img/images/Switch and Relays/image26.png" class="img-responsive floating-image center" style="width: 200px; height: 200px;">
 </div>
 <br />
-<img src="./images/Switch and Relays/image23.jpg" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image23.jpg" class="img-responsive floating-image center">
 <br />
 
 
@@ -119,17 +118,17 @@ It has six terminals, two are input contacts and the remaining four are the outp
 Two input contacts are connected to one set of output contacts in one position and another position, input contacts are connected to the other set of output contacts.
 <br />
 <div style="display:flex;">
-<img src="./images/Switch and Relays/image8.png" class="img-responsive floating-image center" style="width: 230px; height: 180px;" >
-<img src="./images/Switch and Relays/image5.png" class="img-responsive floating-image center" style="width: 200px; height: 190px;">
+<img src="./img/images/Switch and Relays/image8.png" class="img-responsive floating-image center" style="width: 230px; height: 180px;" >
+<img src="./img/images/Switch and Relays/image5.png" class="img-responsive floating-image center" style="width: 200px; height: 190px;">
 </div>
 <br />
-<img src="./images/Switch and Relays/image17.png" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image17.png" class="img-responsive floating-image center">
 <br />
 <br /><br />
 <table style="border: 2px solid black; padding:5px;">
          <tr>
             <td style="padding:10px;">
-            <img src="./images/Switch and Relays/image22.jpg" class="img-responsive floating-image right" style="width: 250px; height: 250px;">
+            <img src="./img/images/Switch and Relays/image22.jpg" class="img-responsive floating-image right" style="width: 250px; height: 250px;">
             DPDT can also be used to design controllers for differential drive robots. What are differential drives? Be with us and pay attention to blogs, You’ll study them in the future. Just to give you a hint- It consists of 2 drive wheels mounted on a common axis, and each wheel can independently be driven either forward or backward.
             Try to implement it on a pen-paper or with hardware if you can arrange it after you study differential drives. Don’t worry if you get stuck. We’ll surely help you out.
             </td>
@@ -146,7 +145,7 @@ Two input contacts are connected to one set of output contacts in one position a
       <div class="blogPageSubHeading">Staircase Switching</div>
       <br />
 Staircase switching is a very popular and interesting switching arrangement in which one device can be controlled by two different switches generally placed at two different places. But how does this happen?🙄 Here’s how.
-<img src="./images/Switch and Relays/image7.gif" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image7.gif" class="img-responsive floating-image center">
 <br />
 
 We use two SPDT switches to get this arrangement. 
@@ -162,7 +161,7 @@ We use two SPDT switches to get this arrangement.
 
 We have one more switching arrangement which is called H-bridge. The H-bridge circuit is used to drive motors. There are two sets of two switches. One set of switches when closed allows electricity to flow one way. The other set of switches allows electricity to flow in the opposite direction. This is what the switching arrangement for H-Bridge looks like.
 </br>
-<img src="./images/Switch and Relays/image12.png" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image12.png" class="img-responsive floating-image center">
 
 Could you figure out how this particular arrangement is able to drive motors? If not, here is the explanation-
 </br>In the second and third images, opposite pairs of switches are closed, because of the arrangement of switches both have an opposite polarity which causes the motor to spin in the opposite directions.
@@ -172,10 +171,10 @@ Could you figure out how this particular arrangement is able to drive motors? If
 <div class="blogPageHeading">
 Relays
 </div></br>
-<img src="./images/Switch and Relays/image4.png" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image4.png" class="img-responsive floating-image center">
 I know! Not these. But these😁
 </br>
-<img src="./images/Switch and Relays/image13.png" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image13.png" class="img-responsive floating-image center">
 </br>
 </br>
 What are relays?
@@ -192,7 +191,7 @@ What are relays?
 </br>     Mechanically movable contact
 </br>     Switching points and
 </br>     Spring
-<img src="./images/Switch and Relays/image21.png" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image21.png" class="img-responsive floating-image center">
 
 
 
@@ -208,7 +207,7 @@ Generally, two more contacts will be present, called switching points to connect
 Working of relays:
 </div>
 
-<img src="./images/Switch and Relays/image11.gif" class="img-responsive floating-image center">
+<img src="./img/images/Switch and Relays/image11.gif" class="img-responsive floating-image center">
 
 </br># Relay works on the principle of electromagnetic induction.
 </br># When the electromagnet is applied with some current it induces a magnetic field around it.

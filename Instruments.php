@@ -15,11 +15,11 @@
       Now we are towards the end of our blogs on the heart of robotics. In this blog you are going to learn about
       various instruments which you are going to use to make your little robots ready for a fight in the arena.
       <br />
-      <img src="./images/Instruments/image5.gif" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image5.gif" class="img-responsive floating-image center">
       <br />
       Let's start with how to make joints.
       <br />
-      <img src="./images/Instruments/image9.gif" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image9.gif" class="img-responsive floating-image center">
       <br />
       In electronics, joints are made with the help of a process called soldering. Let’s dive to make joints, soldering
       joints 😏.
@@ -29,7 +29,7 @@
       competition they participated in. The controlling unit of our robots consists of various electronic components and
       combining them magically requires an elder wand and a magical fuel which is known as “Soldering Iron” and “solder”
       respectively in the Geek circle.
-      <br /><img src="./images/Instruments/image24.gif" class="img-responsive floating-image right"> <br />Various
+      <br /><img src="./img/images/Instruments/image24.gif" class="img-responsive floating-image right"> <br />Various
       components have to be joined via a conductive link and in our case, the solder does the job, it is a highly
       conductive material with a low melting point.
       <br />The process in which two or more items are joined together (electronic components and boards) by melting and
@@ -38,19 +38,19 @@
       <br /><br />Ok, moving to what soldering iron is and what it can do?<br /><br />
       <div class="blogPageSubHeading">Soldering iron</div>
       <br />
-      <img src="./images/Instruments/image10.jpg" class="img-responsive floating-image right"> <br />
+      <img src="./img/images/Instruments/image10.jpg" class="img-responsive floating-image right"> <br />
       A soldering iron is a hand tool used in soldering. It supplies heat to melt solder so that it can flow into the
       joint between two workpieces. A soldering iron is composed of a heated metal tip and an insulated handle. Heating
       is often achieved electrically, by passing an electric current (supplied through an electrical cord or battery
       cables) through a resistive heating element.
       <br /><br />There are other types of solder irons available in the market rather than a simple one :<br /><br />
-      <img src="./images/Instruments/image4.png" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image4.png" class="img-responsive floating-image center">
       <div style="text-align:center">Cordless solder iron </div>
-      <img src="./images/Instruments/image22.png" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image22.png" class="img-responsive floating-image center">
       <div style="text-align:center">Variable temperature solder iron</div>
       <br /><br />
       <div class="blogPageSubHeading">Solder</div>
-      <br /><img src="./images/Instruments/image18.png" class="img-responsive floating-image right">
+      <br /><img src="./img/images/Instruments/image18.png" class="img-responsive floating-image right">
       Solder is a conductive alloy substance with a low melting point, used in the electronics industry to electrically
       connect components together. It is frequently used to join wires to leads of components such as switches or to
       join components of all kinds to a circuit board or two pieces of metals etc.
@@ -60,7 +60,7 @@
       harmful.
       <br /> <br><br><br>
       <div class="blogPageSubHeading">Flux</div>
-      <img src="./images/Instruments/image7.jpg" class="img-responsive floating-image center" width="400px" height="400px">
+      <img src="./img/images/Instruments/image7.jpg" class="img-responsive floating-image center" width="400px" height="400px">
       <br />
       Sometimes, the metal contacts which we wanted to solder don't get soldered properly even if we follow all steps
       correctly. The reason behind it is the oxides formed on the metal surface due to the reaction with compounds in
@@ -71,13 +71,13 @@
       soluble . To get a clean site of metal whose surface is oxidized, flux paste is applied and little heat with the
       solder iron is provided for flux to work on the site.
 
-      <img src="./images/Instruments/image16.gif" class="img-responsive floating-image center">
-      <img src="./images/Instruments/image2.gif" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image16.gif" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image2.gif" class="img-responsive floating-image center">
 
       <br />
       <br />Above is the gif showing soldering on an oxidized metal surface (top) and soldering on the same surface
       after applying flux (bottom).
-      <img src="./images/Instruments/image12.png" class="img-responsive floating-image right"><br /><br />
+      <img src="./img/images/Instruments/image12.png" class="img-responsive floating-image right"><br /><br />
       Solder wires available these days already have flux at their core to ease the work of soldering. Flux
       automatically cleans the area while using such solder wire making sites prepared for soldering.
       <br />External flux paste of rosin and liquid flux is also available in the market.
@@ -88,14 +88,14 @@
       If you’re wondering how to solder components like professionals, <a
          href="https://www.youtube.com/watch?v=6rmErwU5E-k">this video will help you.</a>
       <br />
-      <img src="./images/Instruments/image13.png" class="img-responsive floating-image center"><br />
+      <img src="./img/images/Instruments/image13.png" class="img-responsive floating-image center"><br />
       <br />
       <div class="blogPageHeading">Circuit Boards</div>
       <br />
       To make our circuits more robust, portable and convenient, with ease of making. We require a base. Circuit boards
       are the base for circuits, a board on which we design our circuits. They are categorized in three types are as
       follows:
-      </br> <img src="./images/Instruments/image19.png" class="img-responsive floating-image left">
+      </br> <img src="./img/images/Instruments/image19.png" class="img-responsive floating-image left">
       </br></br>
       <div class="blogPageSubHeading">Breadboard</div><br />
 
@@ -109,18 +109,18 @@
       and connects the holes on the top of the board. The metal strips are laid out as shown below. Note that the top
       and bottom rows of holes are connected horizontally and split in the middle while the remaining holes are
       connected vertically.
-      </br> <img src="./images/Instruments/image3.png" class="img-responsive floating-image left">
-      <img src="./images/Instruments/image11.png" class="img-responsive floating-image right">
+      </br> <img src="./img/images/Instruments/image3.png" class="img-responsive floating-image left">
+      <img src="./img/images/Instruments/image11.png" class="img-responsive floating-image right">
       </br></br></br>
       <div></div>
-      <img src="./images/Instruments/image17.png" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image17.png" class="img-responsive floating-image center">
       <br /> This is how an IC is used on a breadboard. And above mentioned are the internal connections of a
       breadboard. The colored lines show the connected pins of the breadboard. As a convention, pins on the right of the
       red line are used for positive terminals and pins at the left of blue line are used for negative terminals.
       Vertical lines are called power rails due to this reason and horizontal lines are called component rails as
       electrical and electronic components are used on thes rails/lines.
       <br />But can you figure out why there is a channel in the middle of the breadboard. Think!<br /><br />
-      <img src="./images/Instruments/image20.jpg" class="img-responsive floating-image right"
+      <img src="./img/images/Instruments/image20.jpg" class="img-responsive floating-image right"
          style="height:300px; width:300px;">
       <div class="blogPageSubHeading">Stripboard</div>
       <br />Stripboard is one of the commonly-used types of prototyping boards. These boards are intended for
@@ -130,7 +130,7 @@
       with their wires bent to pass through the holes. The wires are soldered to the copper strips, the projecting ends
       being cut off to make the assembly neater. Only the shiny part with copper plated strips can get soldered, the
       other side with no copper plating cannot be soldered so components must be inserted and soldered with care.
-      <img src="./images/Instruments/image21.png" class="img-responsive floating-image left"><br />The strips correspond
+      <img src="./img/images/Instruments/image21.png" class="img-responsive floating-image left"><br />The strips correspond
       to the rows of sockets on breadboards, allowing several components to be joined together, but a strip has many
       more than five holes so numerous connections are possible. Using a special tool, strips can be cut into shorter
       lengths where it is necessary to use one strip for making several different connections. A circuit built on a
@@ -138,7 +138,7 @@
       of a different value, or even to completely modify part of the circuit. A prototype circuit may be built and
       tested stage by stage.
       <br /><br /><br />
-      <img src="./images/Instruments/image8.png" class="img-responsive floating-image right"
+      <img src="./img/images/Instruments/image8.png" class="img-responsive floating-image right"
          style="height:200px; width:300px;">
 
       <div class="blogPageSubHeading">PCB</div><br />
@@ -147,7 +147,7 @@
       boards.
       It is a board that has lines and pads that connect various points together. In the picture, there are traces that
       electrically connect the various connectors and components to each other.
-      <img src="./images/Instruments/image23.png" class="img-responsive floating-image left"> It allows signals and
+      <img src="./img/images/Instruments/image23.png" class="img-responsive floating-image left"> It allows signals and
       power to be routed between physical devices. Solder makes the electrical connections between the surface of the
       PCB and the electronic components. Being metal, solder also serves as a strong mechanical adhesive. A PCB is
       printed with the help of a printing machine but the PCBs are first designed in CAD softwares like EAGLE, KiCAD,
@@ -171,13 +171,13 @@
       <div class="blogPageHeading">Multimeter</div>
       <br />A multimeter is an electronic measuring device. It typically measures Voltage, Current, and Resistance. Two
       types of multimeters available in the market are- Analog and Digital.
-      <br /> <img src="./images/Instruments/image14.jpg" class="img-responsive floating-image left"
+      <br /> <img src="./img/images/Instruments/image14.jpg" class="img-responsive floating-image left"
          style="height:400px; width:440px;">
-      <img src="./images/Instruments/image6.gif" class="img-responsive floating-image left"
+      <img src="./img/images/Instruments/image6.gif" class="img-responsive floating-image left"
          style="height:400px; width:440px;">
       </br><br />
       <br />The most common and cheap multimeter you can get is the Haoyue DT830D. It can measure -
-      <img src="./images/Instruments/image15.png" class="img-responsive floating-image right"
+      <img src="./img/images/Instruments/image15.png" class="img-responsive floating-image right"
          style="height:300px; width:340px;"> </br>
       <br /># AC/DC voltage
       <br /># DC current
@@ -188,7 +188,7 @@
       <br /># Temperature (some other version of it can measure)
       <br /><br /> What are the components of a multimeter?
       <br /><br /> Here they are-
-      <img src="./images/Instruments/image1.png" class="img-responsive floating-image center">
+      <img src="./img/images/Instruments/image1.png" class="img-responsive floating-image center">
       <br /><br /> >> Two wire probes with different colors are provided to aid in work, they can be inserted easily in
       jacks provided shown above.<br />
       <br /># 10A jack is internally connected to a 10A max fuse and only measures utmost 10A for max 10 seconds. From

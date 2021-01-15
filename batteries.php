@@ -1,16 +1,15 @@
 <?php include('header.php') ?>
 <div class="headImage">
-
-    <div class="heading">
+</div>
+<div class="heading">
         Batteries
     </div>
-</div>
 
     <div class="page">
         <div class="blog-page">
-            <img src="./images/batteries/image4.gif" class="img-responsive floating-image center">
+            <img src="./img/images/batteries/image4.gif" class="img-responsive floating-image center">
             <br><br>
-            <img src="./images/batteries/image3.gif" class="img-responsive floating-image right">
+            <img src="./img/images/batteries/image3.gif" class="img-responsive floating-image right">
             If you are getting interested in robotics, you are going to need a lot of different types of batteries for
             different uses, you'll need to know how to use them and understand the various ratings and specs. There are
             primary, secondary batteries, there are Li-ion and Li-Po batteries and much more. Why do we need batteries?
@@ -21,7 +20,7 @@
             <br>
             <br>
 
-            <img src="./images/batteries/image10.gif" class="img-responsive floating-image left"
+            <img src="./img/images/batteries/image10.gif" class="img-responsive floating-image left"
                 style="width: 245 px; height: 200px;">
             And why so different types of batteries?
             <br>
@@ -37,7 +36,7 @@
             <div class="blogHeading" style="font-size: 27px;">
                 Working
             </div>
-            <img src="./images/batteries/image1.gif" class="img-responsive floating-image right"
+            <img src="./img/images/batteries/image1.gif" class="img-responsive floating-image right"
                 style=" width: 245px; height: 245px;">
             We know that you have studied it all during your jee. Let's quickly revise it. A battery is a device that
             stores chemical energy, and converts it to electricity. All this is termed as electrochemistry and the
@@ -62,7 +61,7 @@
             Primary cells are the ones that cannot be recharged and have to be discarded after the expiration of the
             lifetime. There are no fluids in the cells hence it is also called dry cells.
             Alkaline batteries and dry cells are examples of primary cells.
-            <img src="./images/batteries/image9.png" class="img-responsive floating-image center">
+            <img src="./img/images/batteries/image9.png" class="img-responsive floating-image center">
             Do you remember the redox reaction for this cell? It is a Zinc-Carbon dry cell.
             <div class="blogHeading" style="font-size: 20px;">
                 Secondary batteries
@@ -108,7 +107,7 @@
             <div class="blogHeading" style="font-size: 20px;">
                 Nickel Cadmium Batteries
             </div>
-            <img src="./images/batteries/image2.png" class="img-responsive floating-image right"
+            <img src="./img/images/batteries/image2.png" class="img-responsive floating-image right"
                 style=" width: 245px; height: 245px;">
             -Specific energy: 40-60 W-h/kg
             -Energy density: 50-150 W-h/L <br>
@@ -126,7 +125,7 @@
             <div class="blogHeading" style="font-size: 20px;">
                 Nickel Metal Hydride Batteries
             </div>
-            <img src="./images/batteries/image7.png" class="img-responsive floating-image left"
+            <img src="./img/images/batteries/image7.png" class="img-responsive floating-image left"
                 style=" width: 245px; height: 240px;">
             -Specific energy: 60-120 W-h/kg <br>
             -Energy density: 140-300 W-h/L <br>
@@ -141,7 +140,7 @@
             <div class="blogHeading" style="font-size: 20px;">
                 Lithium Ion Batteries
             </div>
-            <img src="./images/batteries/image8.png" class="img-responsive floating-image right"
+            <img src="./img/images/batteries/image8.png" class="img-responsive floating-image right"
                 style=" width: 245px;height: 240px;">
             -Specific energy: 100-265 W-h/kg
             -Energy density: 250-693 W-h/L <br>
@@ -156,7 +155,7 @@
             <div class="blogHeading" style="font-size: 20px;text-align: center;">
                 Lipo Batteries
             </div>
-            <img src="./images/batteries/image5.jpg" class="img-responsive floating-image center">
+            <img src="./img/images/batteries/image5.jpg" class="img-responsive floating-image center">
             They are lightweight and have improved safety. However, their cost is high (30% average) as compared to
             lithium ions. Also, the energy density of Li-Polymer batteries compared to Li-Ion Batteries is quite less.
             They have an extremely low profile and have a lower chance of suffering from leaking electrolyte. But they
@@ -180,7 +179,7 @@
                 How to read lipo battery specifications?
 
             </div>
-            <img src="./images/batteries/image6.png" class="img-responsive floating-image center">
+            <img src="./img/images/batteries/image6.png" class="img-responsive floating-image center">
             - 3S=3 cells in series 1P= 1cell in parallel. So a 3s1p has a total of 3 cells in it. 3s2p would be 3 cells
             in series but each of those cells in series is made up of 2 cells connected in parallel. So a 3s2p pack
             would actually have 6 cells in it if you tore it apart.

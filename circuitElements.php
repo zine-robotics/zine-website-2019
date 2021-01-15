@@ -2,11 +2,10 @@
 
 
 <div class="headImage">
-
-   <div class="heading">
+</div>
+<div class="heading">
       Circuit Elements
    </div>
-</div>
 <div class="page">
    <div class="blog-page">
 
@@ -20,12 +19,12 @@
       <ol>
          <li>
             Required elements: <br>
-            <img src="images/elements/image12.png" class="img-responsive floating-image center"><br>
+            <img src="img/images/elements/image12.png" class="img-responsive floating-image center"><br>
             In case you have your real-world LED, switch, battery, and wires, they will work better, but if you don’t
             have them, you can take these hypothetical ones. Assume them to be similar to the real-world ones.
          </li>
          <li>
-            <img src="images/elements/image16.png" class="img-responsive floating-image right"><br>
+            <img src="img/images/elements/image16.png" class="img-responsive floating-image right"><br>
             Now, you need to connect a piece of wire to each terminal of LED and analyze whether it is a circuit
             according to the definition. <br>
             Is it a circuit? No, it’s not because it does not make a closed path. (The one in red is the positive
@@ -33,7 +32,7 @@
             <br>
          </li>
          <li>
-            <img src="images/elements/image11.png" class="img-responsive floating-image left"><br>
+            <img src="img/images/elements/image11.png" class="img-responsive floating-image left"><br>
             Now, connect the end terminals of wire extending from the terminals of LED and connect them.
             <br>
             Is it a circuit now? Even though you have closed the loop, it cannot be called an electric circuit because
@@ -42,7 +41,7 @@
 
          </li>
          <li>
-            <img src="images/elements/image3.png" class="img-responsive floating-image right"><br>
+            <img src="img/images/elements/image3.png" class="img-responsive floating-image right"><br>
             Disconnect the wire ends from each other and connect them to the battery in a way that the wire from the
             longer terminal of the LED connects to the positive terminal of the battery and that from the shorter
             terminal of the LED must connect to the negative terminal of the battery.
@@ -57,7 +56,7 @@
       Suppose you connect a switch in series with your circuit, but the simple on/off switch can only have two states,
       on or off, and takes only one of them at once.
       <br><br>
-      <img src="images/elements/image25.png" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image25.png" class="img-responsive floating-image center"><br>
       <table style="border: 2px solid black;">
          <tr>
             <td>
@@ -71,7 +70,7 @@
       <br> <br>
       Now that you know what exactly is a circuit, let’s study the types of circuit elements.
       <br><br>
-      <img src="images/elements/image21.jpg" class="img-responsive floating-image left"><br>
+      <img src="img/images/elements/image21.jpg" class="img-responsive floating-image left"><br>
 
       <h1>Active Circuit Elements</h1>
       The elements that supply energy to the circuit are called active elements.
@@ -82,7 +81,7 @@
       passive circuit elements that we use? Yeah! Resistors, Capacitors, Inductors, Transformers, Diodes🙄 all are
       passive components.
       <br><br><br>
-      <img src="images/elements/image9.png" class="img-responsive floating-image right"><br>
+      <img src="img/images/elements/image9.png" class="img-responsive floating-image right"><br>
       Now try to think of some active components.🤔 Battery…uh...um...battery.🤫 I’m not playing this. Wait, you're here
       to learn, so, let us tell you. Other than batteries we have...ah… it’s hard really...😒...yes...generators? Yes,
       they supply energy to the circuit...or we say generally, all voltage and current sources are active circuit
@@ -92,12 +91,12 @@
       Let’s now study these elements one by one
       <br><br><br><br><br><br><br>
       <h1>Resistors</h1><br>
-      <img src="images/elements/image26.jpg" class="img-responsive floating-image right"><br>
+      <img src="img/images/elements/image26.jpg" class="img-responsive floating-image right"><br>
       Resistors are electronic components that have specific, never-changing (given physical conditions are constant)
       electrical resistance. They play a significant role in Ohm’s law. That’s why the resistance's SI unit is
       Ohmmmmm😀…
       <br><br><br><br><br><br><br>
-      <img src="images/elements/image10.png" class="img-responsive floating-image right"><br>
+      <img src="img/images/elements/image10.png" class="img-responsive floating-image right"><br>
 
       Symbols-
       Two common resistor schematic symbols. R1 is an American-style 1kΩ resistor, and R2 is an international-style 47kΩ
@@ -114,31 +113,31 @@
       <br><br><br>
       These are resistors-
       <br><br>
-      <img src="images/elements/image17.jpg" class="img-responsive floating-image right"><br>
+      <img src="img/images/elements/image17.jpg" class="img-responsive floating-image right"><br>
       You see the different colored stripes on them. Many of you might know why they are for it. Yes! They are for
       determining their resistances. <br><br>
       <strong>Fun Fact:</strong> But do you know that resistors may contain 3 to 6 colored strips. The table given below
       might come in handy.
       <br><br><br>
-      <img src="images/elements/image24.png" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image24.png" class="img-responsive floating-image center"><br>
       <br><br><br>
       Let’s discuss different types of resistors.
       <br><br>
       <br>
       <h2>Carbon Film Resistors</h2><br>
-      <img src="images/elements/image19.jpg" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image19.jpg" class="img-responsive floating-image center"><br>
       They are constructed out of a ceramic carrier with a thin pure carbon film around it, that functions as resistive
       material. These resistors provide the basic need of adding resistance to circuits but they generate thermal noise
       which interferes with high-frequency signals in circuits. To overcome this, Metal Film Resistors were invented.
       <br><br><br>
       <h2>Metal Film Resistors</h2><br>
-      <img src="images/elements/image6.png" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image6.png" class="img-responsive floating-image center"><br>
       Construction and working are similar to that of carbon film resistors except they use the metal strips to give the
       desired resistance. Generate less thermal noise but expensive than carbon film resistors. These resistors are
       pretty much accurate but some circuits require highly accurate resistors with low noise so Wire Wound resistors
       come to the rescue!
       <h2>Wire Wound Resistors</h2><br>
-      <img src="images/elements/image2.png" class="img-responsive floating-image right">
+      <img src="img/images/elements/image2.png" class="img-responsive floating-image right">
       A Wirewound Resistor is made by winding a thin metal alloy wire (generally Nichrome or Manganin) or similar wire
       onto an insulating ceramic former in the form of a spiral helix similar to the film resistors above.
       These types of the resistor are generally only available in very low ohmic high precision values (from 0.01Ω to
@@ -151,7 +150,7 @@
       these through-hole resistors make life miserable to be used on a surface mounting scheme circuit so a surface
       mount resistor saves the day.
       <h2>Surface Mount Resistors</h2><br>
-      <img src="images/elements/image22.jpg" class="img-responsive floating-image left"><br>
+      <img src="img/images/elements/image22.jpg" class="img-responsive floating-image left"><br>
       A surface mount resistor is a tiny rectangular ceramic body with silver conductive edges on either end. It offers
       advantages in saving space on printed circuit boards (PCBs). You notice a number written on the resistor.
       Yes, this code is used to calculate the resistance value for the resistors.
@@ -162,9 +161,9 @@
          href="https://www.hobby-hour.com/electronics/smdcalc.php#smd_resistor_code">to this</a> for more info on the
       resistor code.
       <br><br>
-      <img src="images/elements/image5.png" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image5.png" class="img-responsive floating-image center"><br>
       <br><br><br><br><br>
-      <img src="images/elements/image5.png" class="img-responsive floating-image right"><br>
+      <img src="img/images/elements/image5.png" class="img-responsive floating-image right"><br>
       Now as it’s the end of resistors, but these are not all types. There are LDRs, Photodiodes, and Thermistors also
       but you will study them in sensors. <br><br><br>
       <table style="border: 2px solid black;">
@@ -177,38 +176,38 @@
       <br><br><br>
       <strong>Fun Fact-
       </strong>This is what happens when you pass a large amount of current through a resistor. <br>
-      <img src="images/elements/image28.gif" class="img-responsive floating-image center"><br>
+      <img src="img/images/elements/image28.gif" class="img-responsive floating-image center"><br>
       <br><br><br>
 
       <h1>Capacitors</h1><br>
-      <img src="images/elements/image14.gif" class="img-responsive floating-image center"><br><br>
-      <img src="images/elements/image7.png" class="img-responsive floating-image center"><br><br><br><br>
+      <img src="img/images/elements/image14.gif" class="img-responsive floating-image center"><br><br>
+      <img src="img/images/elements/image7.png" class="img-responsive floating-image center"><br><br><br><br>
 
       The capacitor is a device that stores charge for a short period of time, that consists of two metallic plates
       separated by a dielectric. <br><br>
       Let’s now discuss the types of capacitors.
       <br><br>
       <h2>Film Capacitors</h2><br>
-      <img src="images/elements/image1.png" class="img-responsive floating-image right"><br><br><br><br>
+      <img src="img/images/elements/image1.png" class="img-responsive floating-image right"><br><br><br><br>
       Film capacitors are made of a thin dielectric film that may or may not be metalized on one side. The film is
       extremely thin, with the thickness being under 1 µm.
-      <img src="images/elements/image13.png" class="img-responsive floating-image left"><br><br><br><br>
+      <img src="img/images/elements/image13.png" class="img-responsive floating-image left"><br><br><br><br>
 
       After the film is drawn to the desired thickness, the film is cut into ribbons. The width of the ribbons depends
       on the capacity of the capacitor being produced.
       <br><br><br><br>
       <h2>Axial Lead type capacitors</h2><br>
-      <img src="images/elements/image15.gif" class="img-responsive floating-image left"><br><br><br><br>
+      <img src="img/images/elements/image15.gif" class="img-responsive floating-image left"><br><br><br><br>
       As the above figure shows they are made from long thin strips of thin metal foil with the dielectric material
       sandwiched together which are wound into a tight roll and then sealed in paper or metal tubes.
-      <img src="images/elements/image4.jpg" class="img-responsive floating-image right"><br><br><br><br>
+      <img src="img/images/elements/image4.jpg" class="img-responsive floating-image right"><br><br><br><br>
 
       These film types require a much thicker dielectric film to reduce the risk of tears or punctures in the film and
       are, therefore, more suited to lower capacitance values and larger case sizes.
       <br><br><br>
       <h2>Ceramic Capacitors</h2>
       <br>
-      <img src="images/elements/image27.png" class="img-responsive floating-image right"><br><br><br><br>
+      <img src="img/images/elements/image27.png" class="img-responsive floating-image right"><br><br><br><br>
       A ceramic capacitor uses a ceramic material as the dielectric.
       <br><br>
       Ceramic dielectrics do not give as high a level of capacitance per unit volume as some types of capacitors and as
@@ -219,13 +218,13 @@
       <h2>MLCC - Multi-Layer Ceramic Capacitors
       </h2><br>
       <br>
-      <img src="images/elements/image20.png" class="img-responsive floating-image center"><br><br><br><br>
+      <img src="img/images/elements/image20.png" class="img-responsive floating-image center"><br><br><br><br>
       <br>
       MLCCs consist of 500 layers and more, with a minimum layer thickness of approximately 0.5 microns. As technology
       progresses, the layer thickness decreases, and higher capacitances are achievable for the same volume.
       <br><br><br>
       <h2>Electrolytic Capacitors</h2>
-      <img src="images/elements/image18.jpg" class="img-responsive floating-image left">
+      <img src="img/images/elements/image18.jpg" class="img-responsive floating-image left">
       Electrolytic capacitors are made of two aluminum foils and a paper spacer soaked in electrolyte. One of the two
       aluminum foils is covered with an oxide layer, and that foil acts as the anode, while the uncoated one acts as a
       cathode.

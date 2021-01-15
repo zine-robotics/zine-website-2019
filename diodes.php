@@ -3,15 +3,16 @@
 
 <div class="headImage">
 
-   <div class="heading">
-      DIODES
-   </div>
 </div>
+</div>
+<div class="heading">
+        Diodes
+    </div>
 <div class="page">
     <div class="blog-page">
 
         Look at the picture of a house and try to decode the basic structural unit of it.<br><br>
-        <img src="images/diodes/image1.png" width="500px" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image1.png" width="500px" class="img-responsive floating-image center"><br><br>
         Yeah, guys! we know all of you know it's a brick. But what about these? Can you tell their smallest electronic component?<br />
 
 
@@ -32,18 +33,18 @@
         In simple words, diode or di-ode or di-electrode is an electronic component that conducts current primarily in one direction; it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other.<br><br>
         A semiconductor diode, the most commonly used type today, is a crystalline piece of semiconductor material with a PN-junction connected to two electrical terminals.<br>
         You might want to know which side of the diode is anode and cathode. Think once using its picture.<br><br>
-        <img src="images/diodes/image21.png" class="img-responsive floating-image center">
+        <img src="img/images/diodes/image21.png" class="img-responsive floating-image center">
         You’ll get a better understanding with a diagram,<br>
-        <img src="images/diodes/image27.png" class="img-responsive floating-image center">
+        <img src="img/images/diodes/image27.png" class="img-responsive floating-image center">
         Now, you might be curious to know how it works.<br>
         <br>
         <div class="blogPageHeading">P type semiconductor</div>
         In this semiconductor, the majority charge carriers are holes whereas minority charge carriers are electrons.<br><br>
-        <img src="images/diodes/image18.jpg" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image18.jpg" class="img-responsive floating-image center"><br><br>
         <div class="blogPageHeading">N type semiconductor</div>
         In this semiconductor, the majority charge carriers are electrons whereas minority charge carriers are holes.<br>
         The more abundant charge carriers are called majority carriers, which are primarily responsible for current transport in a piece of semiconductor. The less abundant charge carriers are called minority carriers.<br><br>
-        <img src="images/diodes/image3.jpg" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image3.jpg" class="img-responsive floating-image center"><br><br>
 
         <div class="blogPageHeading">P-N junction</div>
         In practice, the P-N junction is formed from a single mono crystalline structure by adding carefully controlled amounts of donor(p type) and acceptor(n type) impurities.<br><br>
@@ -52,19 +53,19 @@
         The term biasing refers to the application of DC voltage to set up certain operating conditions.<br><br>
 
         <div class="blogPageHeading">Unbiased pn junction</div>
-        <img src="images/diodes/image6.png" class="img-responsive floating-image center"><br>
+        <img src="img/images/diodes/image6.png" class="img-responsive floating-image center"><br>
         When a diode is connected in a Zero Bias condition, no external potential energy is applied to the PN junction. <br><br>
         The transfer of electrons and holes back and forth across the PN junction is known as diffusion.<br>
         An Equilibrium or balance will be established when the majority carriers in p and n side are equal and both moving in opposite directions so that the net result is zero current flowing in the circuit. When this occurs the junction is said to be in a state of Dynamic Equilibrium.<br><br>
 
-        <img src="images/diodes/image2.gif" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image2.gif" class="img-responsive floating-image center"><br><br>
         <div class="blogPageHeading">Forward-Biased pn junction</div>
         When a diode is connected in a Forward Bias condition, a negative voltage is applied to the N-type material and a positive voltage is applied to the P-type material.<br><br>
 
         <div class="blogPageHeading">Reverse-Biased pn junction</div>
         This condition represents a high resistance value to the PN junction and practically zero current(very small reverse current in μA) flows through the junction diode with an increase in bias voltage.<br><br>
 
-        <img src="images/diodes/image25.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image25.png" class="img-responsive floating-image center"><br><br>
         <div class="blogPageHeading">LED</div>
         Such a common name that all of you have heard and many of you even use led tube lights or led screens in tv or computers.<br><br>
         Fun Fact- Nobel Prize for Physics in 2014 was awarded to Shuji Nakamura for the invention of energy-efficient LEDs. <br><br>
@@ -73,26 +74,26 @@
             <img src="images/diodes/image15.png" class="img-responsive floating-image right"><br><br>
 
         So what is a led? It's also a type of PN junction diode.<br>
-        <img src="images/diodes/image5.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image5.png" class="img-responsive floating-image center"><br><br>
         A light-emitting diode (LED) is a semiconductor light source that emits light when a current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. <br><br>
         See the image below. This is also an led. We have an assignment for you: <br>
         Find out the name of this led and its working principle.<br><br>
-        <img src="images/diodes/image22.jpg" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image22.jpg" class="img-responsive floating-image center"><br><br>
         <div class="blogPageSubHeading">What is the flat spot in the led diagram below?</div>
-        <img src="images/diodes/image4.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image4.png" class="img-responsive floating-image center"><br><br>
         You may be knowing that a longer leg of led represents anode and a shorter leg cathode.<br>
-        <img src="images/diodes/image42.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image42.png" class="img-responsive floating-image center"><br><br>
         What if legs get damaged and become the equal size or you don’t know which one was originally longer?<br><br>
         Then this flat spot comes into the picture. A flat spot determines the cathode of the led.<br>
         <br>
         <div class="blogPageHeading">Photodiode</div>
         A special type of PN junction device that generates current when exposed to light is known as Photodiode. It is also known as a photodetector or photosensor. It operates in reverse biased mode and converts light energy into electrical energy.<br><br>
-        <img src="images/diodes/image29.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image29.png" class="img-responsive floating-image center"><br><br>
         <div class="blogPageSubHeading">Principle of Photodiode</div>
         It works on the principle of the Photoelectric effect.<br>
         The operating principle of the photodiode is such that when the junction of this two-terminal semiconductor device is illuminated then the electric current starts flowing through it. <br>
         Only minority current flows through the device when a certain reverse potential is applied to it.<br>
-        <img src="images/diodes/image9.png" class="img-responsive floating-image center"><br><br>
+        <img src="img/images/diodes/image9.png" class="img-responsive floating-image center"><br><br>
         Why does photodiode have a greater depletion region than other diodes? Think about it.<br>
         This photodiode is used to make ir sensors which are used in many line following bots.<br>
         The ir sensors are made of an ir led and a photodiode. The ir led emits signal which is received by the photodiode.<br>
@@ -196,9 +197,9 @@ Here’s an interesting question for you<br><br>
 <div class="blogPageSubHeading">Why is the shape of the solar cell octagonal?</div>
 Its shape is octagonal in order to save the material at the time of manufacture. But to explain it we will have to take you to the manufacturing of solar cell.<br><br>
 High purity silicon crystals are grown in electric furnaces in a cylindrical log shape which is then shaped to wafers and then to solar cells.<br><br>
-<img src="images/diodes/image40.png" class="img-responsive floating-image center"><br><br>
-<img src="images/diodes/image35.png" class="img-responsive floating-image center"><br><br>
-<img src="images/diodes/image13.png" class="img-responsive floating-image center"><br><br>
+<img src="img/images/diodes/image40.png" class="img-responsive floating-image center"><br><br>
+<img src="img/images/diodes/image35.png" class="img-responsive floating-image center"><br><br>
+<img src="img/images/diodes/image13.png" class="img-responsive floating-image center"><br><br>
 The concept is to find the perfect balance between making most area of silicon available thereby reducing the cost of manufacturing and octagonal shape serves this purpose. So, to reduce material wastage octagonal wafers are cut which gives octagonal shape to solar cells.<br><br>
 <strong>Now you will say why a solar cell is not cut out circular. Think yourself and tell us.</strong><br><br>
 
