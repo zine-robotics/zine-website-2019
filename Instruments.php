@@ -97,29 +97,43 @@ It is a board that has lines and pads that connect various points together.  In 
 <br /><br />So, these are the basics regarding PCBs. You’ll again encounter PCBs in near future but till then, let’s just measure the components we soldered on our board are of correct values or not coz one of the resistors lost its color code. How to measure? No worries! Just go further in the blog.
 <br /><br /><div class="blogPageHeading">Multimeter</div>
 <br />A multimeter is an electronic measuring device. It typically measures Voltage, Current, and Resistance. Two types of multimeters available in the market are- Analog and Digital.
-<br />     
+<br /> <img src="./images/Instruments/image14.jpg" class="img-responsive floating-image left"style="height:400px; width:440px;" >  
+<img src="./images/Instruments/image6.gif" class="img-responsive floating-image left"style="height:400px; width:440px;" >  
+</br><br />
  <br />The most common and cheap multimeter you can get is the Haoyue DT830D. It can measure -
- <br />AC/DC voltage
- <br />DC current
+ <img src="./images/Instruments/image15.png" class="img-responsive floating-image right"style="height:300px; width:340px;" >  </br>
+ <br /># AC/DC voltage
+ <br /># DC current
  <br /># Resistance value
  <br /># Frequency of square wave
  <br /># hFE or forward current gain of transistor
  <br /># Continuity of a circuit
  <br /># Temperature (some other version of it can measure)
- <br /># What are the components of a multimeter?
- <br /># Here they are-
-
-<br />>> Two wire probes with different colors are provided to aid in work, they can be inserted easily in jacks provided shown above.
+ <br /><br />  What are the components of a multimeter?
+ <br /><br />  Here they are-
+ <img src="./images/Instruments/image1.png" class="img-responsive floating-image center" >
+<br /><br /> >> Two wire probes with different colors are provided to aid in work, they can be inserted easily in jacks provided shown above.<br />
 <br /># 10A jack is internally connected to a 10A max fuse and only measures utmost 10A for max 10 seconds. From convention, the red probe is connected to this jack as it signifies high potential.
 <br /># VΩmA jack has a fuse that allows max 200mA max, 600V AC/DC max. From convention, a red probe is used with this jack.
 <br /># COM is the ground jack and black probe is used with it from convention.
-<br /># hFE measuring jack is used to measure forward current gain of transistor. How? Follow this link.
-<br />>> Function switch is a knob which is used to set the mode for the component whose measurement or testing we need. The arrow indicates the mode on which the multimeter is at.
+<br /># hFE measuring jack is used to measure forward current gain of transistor. How? Follow <a href="https://www.petervis.com/electronics%20guides/DT830B/DT830B%20Transistor%20Test.html">this</a> link.
+<br /><br />>> Function switch is a knob which is used to set the mode for the component whose measurement or testing we need. The arrow indicates the mode on which the multimeter is at.
 <br />>> LCD is used to display the info about the component.
 <br />>> These multimeters use batteries for their functioning but some versions support charging of these batteries.
-<br />How and where to use a multimeter?
-<br />Follow this tutorial here and get an insight of how to use it. But-
-<br />What will happen if I set my multimeter to check continuity and connect the probes to each end of a resistor of 6.3Ω and a resistor of 29Ω? Will it beep for both resistors or not? And why? Do some research.
+<br /><br />How and where to use a multimeter?
+<br />Follow this tutorial<a href="https://www.youtube.com/watch?v=SLkPtmnglOI"> here</a> and get an insight of how to use it. But-
+
+
+<br />
+<table style="border: 2px solid black; padding:5px;">
+         <tr>
+            <td style="padding:10px;">
+            What will happen if I set my multimeter to check continuity and connect the probes to each end of a resistor of 6.3Ω and a resistor of 29Ω? Will it beep for both resistors or not? And why? Do some research.
+            </td>
+         </tr>
+        
+      </table>
+
 <br />Time to wrap this up now guys.
 <br />I think we have our first stone of robotics “BEE Stone”...or not?🤔 Now it’s time to get “BME stone”. In the next few blogs, we will study the body of robotics, so be with us on the journey to collect all stones of robotics.
 
