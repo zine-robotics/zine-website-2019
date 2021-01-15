@@ -1,12 +1,61 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<section class="hero-slider lazy-section">
+				<ul class="slides">
+					<li class="hero-slide">
+						<div class="background-image-holder parallax-background">
+							<img class="background-image" alt="Background Image" data-src="images/diodes/main1.jpg">
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-6 col-sm-6">
+									<h1 class="large-h1 text-white">BASIC ELECTRICAL AND ELECTRONICS</h1>
+								</div>
+							</div>
+						</div>
+					</li>
 
-	<div class="heading">
-		Basic Electrical and Electronics
-	</div>
-</div>
+					<li class="hero-slide">
+						<div class="background-image-holder parallax-background">
+							<img class="background-image" alt="Background Image" data-src="images/diodes/main2.jpg">
+						</div>
+
+						<div class="container">   
+							<div class="row">
+								<div class="col-md-6 col-sm-6">
+									<h1 class="large-h1 text-white">BASIC ELECTRICAL AND ELECTRONICS</h1>
+								</div>
+
+							</div>
+						</div>
+					</li>
+
+					<li class="hero-slide">
+						<div class="background-image-holder parallax-background">
+							<img class="background-image" alt="Background Image" data-src="images/diodes/main3.jpg">
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-6 col-sm-6">
+									<h1 class="large-h1 text-white">BASIC ELECTRICAL AND ELECTRONICS</h1>
+								</div>
+							</div>
+						</div>
+					</li><li class="hero-slide">
+						<div class="background-image-holder parallax-background">
+							<img class="background-image" alt="Background Image" data-src="images/Intro/1.gif">
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-6 col-md-7">
+									<h1 class="large-h1 text-white">BASIC ELECTRICAL AND ELECTRONICS</h1>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</section>
 <div class="page">
 
 	<section class="duplicatable-content visitor-info lazy-section">
