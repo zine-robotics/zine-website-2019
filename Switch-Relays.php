@@ -223,7 +223,7 @@ Working of relays:
             But where do we use them?🤔 Try to think about what they do fundamentally. They control a high current circuit with a low current signal. Now try to think about different applications where we can use them. They can be used in Motor Drive Control, 
             Traffic Control, Home Appliances, and much more. Relays are one of the key components for Home automation? But how?🤔 
             </br></br> 
-Yes, this is your assignment for this blog. Try to figure out by yourself how can you make use of relays to build a smart device that is controlled by your mobile phone. Take your time and submit your answer in this Google form given below.
+Yes, this is your assignment for this blog. Try to figure out by yourself how can you make use of relays to build a smart device that is controlled by your mobile phone. Take your time and mail your answer to this email given below.
  
             </td>
          </tr>
@@ -234,8 +234,19 @@ Yes, this is your assignment for this blog. Try to figure out by yourself how ca
  
 </br>For more info about Switches and relays check out <a href="https://www.electronicshub.org/switches/">this</a>, <a href="https://www.electronicshub.org/what-is-relay-and-how-it-works/">this</a>, or <a href="https://circuitdigest.com/article/relay-working-types-operation-applications">this</a>.😄
 </br>See You in the next blog.
-
-
+<br><br><br>
+<table style="border: 2px solid black;">
+         <tr>
+            <td>
+               Mail your assignment answers to <a href="mailto:puneet@zine.co.in">puneet@zine.co.in</a> and contact us in communication channel with doubts.
+            </td>
+         </tr>
+      </table>
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./diodes.php">Previous</a></li>
+  <li class="next"><a href="./transistor.php">Next</a></li>
+</ul>
 
 
 </div>

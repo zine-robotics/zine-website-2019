@@ -203,8 +203,16 @@ The concept is to find the perfect balance between making most area of silicon a
 <strong>Now you will say why a solar cell is not cut out circular. Think yourself and tell us.</strong><br><br>
 
 <br><br><br>
+<table style="border: 2px solid black;">
+         <tr>
+            <td>
+               Mail your assignment answers to <a href="mailto:puneet@zine.co.in">puneet@zine.co.in</a> and contact us in communication channel with doubts.
+            </td>
+         </tr>
+      </table>
+<br><br><br>
 <ul class="pager">
-  <li class="previous"><a href="./diodes.php">Previous</a></li>
+  <li class="previous"><a href="./circuitElements.php">Previous</a></li>
   <li class="next"><a href="./Switch-Relays.php">Next</a></li>
 </ul>
     </div>

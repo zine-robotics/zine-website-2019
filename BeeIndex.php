@@ -148,7 +148,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./batteries.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -163,7 +163,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./Instruments.php">Go to blog</a>
 						</div>
 					</div>
 				</div>

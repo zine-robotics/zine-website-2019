@@ -1,17 +1,19 @@
 <!doctype html>
 <html lang="en">
-    <head>
-    <meta charset="utf-8">
-    <title>ZINE | Robotics and Research Group - Where imagination leads to creation</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Zine - The only active robtics and research group MNIT for the last 7 years,since its foundation. We have participated in various nationals and internationals events related to a multitude of fields and have gained expertise in various concerned technologies areas. We have also been equally active in inter disciplinary research, at par with state of the art work going in diversified domains. Consistent team work coupled with perseverance, proper guidance, stimulating challenges have gained us numerous significant achievements.">
-    <meta name="keywords" content="Robotics and Research">
-    <meta name="author" content="ZINE">
-    <meta property="og:title" content="ZINE" />
-    <meta property="og:type" content="website" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+	<meta charset="utf-8">
+	<title>ZINE | Robotics and Research Group - Where imagination leads to creation</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description"
+		content="Zine - The only active robtics and research group MNIT for the last 7 years,since its foundation. We have participated in various nationals and internationals events related to a multitude of fields and have gained expertise in various concerned technologies areas. We have also been equally active in inter disciplinary research, at par with state of the art work going in diversified domains. Consistent team work coupled with perseverance, proper guidance, stimulating challenges have gained us numerous significant achievements.">
+	<meta name="keywords" content="Robotics and Research">
+	<meta name="author" content="ZINE">
+	<meta property="og:title" content="ZINE" />
+	<meta property="og:type" content="website" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="fossasia.ico" type="image/x-icon" />
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
@@ -21,82 +23,89 @@
 	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/custom-blog.css" rel="stylesheet" type="text/css" media="all" />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<link rel="icon" href="images/zine.png">
 	<link rel="stylesheet" href="css/reset_bscktotop.css"> <!-- CSS reset -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-        <script src="js/slider.js"></script>
+	<script src="js/slider.js"></script>
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="css/style_backtotop.css"> <!-- Gem style -->
-    <link rel="stylesheet" href="timeline/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="timeline/css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="timeline/css/style_timeline.css"> <!-- Resource style -->
-        <link rel="stylesheet" href="css/slider.css">
-        <link href="css/blogs.css" rel="stylesheet"/>
-        
+	<link rel="stylesheet" href="css/slider.css">
+	<link href="css/blogs.css" rel="stylesheet" />
+
 	<script src="timeline/js/modernizr.js"></script> <!-- Modernizr -->
-    </head>
+</head>
 
-    
-	<body class="no-loader">
-        <div class="loader">
-    		<div class="strip-holder">
-				<div class="strip-1"></div>
-				<div class="strip-2"></div>
-				<div class="strip-3"></div>
-    		</div>
-    	</div>
 
-    	<a id="top"></a>
+<body class="no-loader">
+	<div class="loader">
+		<div class="strip-holder">
+			<div class="strip-1"></div>
+			<div class="strip-2"></div>
+			<div class="strip-3"></div>
+		</div>
+	</div>
 
-		<div class="nav-container">
+	<a id="top"></a>
 
-				<nav class="overlay-nav">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-2">
-								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
-							</div>
+	<div class="nav-container">
 
-							<div class="col-md-10 text-right">
-								<ul class="menu">
-                                    <li><a target="_self" href="index.php">Home</a></li>
-									<li><a target="_self" href="team.php">Team</a></li>
-									<li><a target="_self" href="project/Projects.php">Projects</a></li>
-									<li><a target="_self" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_self" href="about.php">About</a></li>	
-                                    <li><a target="_self" href="blog.php">Blogs</a></li>	
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
-      								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-                                    		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
-								    
-								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
-								</ul>
-							</div>
-						</div>
+		<nav class="overlay-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2">
+						<a target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light"
+								src="img/ZINE/zine1.png">
+							<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 					</div>
-					
-					<div class="bottom-border"></div>
-				</nav>
-        </div>
-    
 
-<section class="hero-slider lazy-section">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="img/blog.jpg">
-						</div>
+					<div class="col-md-10 text-right">
+						<ul class="menu">
+							<li><a target="_self" href="index.php">Home</a></li>
+							<li><a target="_self" href="team.php">Team</a></li>
+							<li><a target="_self" href="project/Projects.php">Projects</a></li>
+							<li><a target="_self" href="achievements.php">Achievements</a></li>
+							<li><a target="_self" href="about.php">About</a></li>
+							<li><a target="_self" href="blog.php">Blogs</a></li>
+							<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank"
+									href="https://www.facebook.com/ROBOTICS.ZINE"><i
+										class="icon social_facebook"></i></a></li>
+							<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank"
+									href="https://www.instagram.com/zine.robotics"><i
+										class="icon social_instagram"></i></a></li>
+							<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank"
+									href="https://www.linkedin.com/company/de-zine-limited"><i
+										class="icon social_linkedin"></i></a></li>
 
-				
-			</section>
-                  
-     
-           
+							<div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
+						</ul>
+					</div>
+				</div>
+			</div>
 
-    <section id="cd-timeline" class="cd-container">
+			<div class="bottom-border"></div>
+		</nav>
+	</div>
 
-    <div class="cd-timeline-block">
+
+	<section class="hero-slider lazy-section">
+		<div class="background-image-holder parallax-background">
+			<img class="background-image" alt="Background Image" data-src="img/blog.jpg">
+		</div>
+
+
+	</section>
+
+
+
+
+	<section id="cd-timeline" class="cd-container">
+
+		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-picture">
-            <img src="img/cd-icon-research.svg" alt="Movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
 			</div> <!-- cd-timeline-img -->
 			<div class="cd-timeline-content">
 				<h2>Basic Electrical and Electronics</h2>
@@ -110,9 +119,9 @@
 			</div> <!-- cd-timeline-content -->
 		</div> <!-- cd-timeline-block -->
 
-<div class="cd-timeline-block">
+		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-movie">
-            <img src="img/cd-icon-research.svg" alt="Movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
 			</div> <!-- cd-timeline-img -->
 			<div class="cd-timeline-content">
 				<h2>Algo Pseudo</h2>
@@ -124,11 +133,11 @@
 				</p> -->
 				<span class="cd-date">18th Jan</span>
 			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->		
+		</div> <!-- cd-timeline-block -->
 
-<div class="cd-timeline-block">
+		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-location">
-            <img src="img/cd-icon-research.svg" alt="Movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
 			</div> <!-- cd-timeline-img -->
 			<div class="cd-timeline-content">
 				<h2>Basic Mechanical Engineering</h2>
@@ -140,11 +149,11 @@
 				</p> -->
 				<span class="cd-date">21st Jan</span>
 			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->		
+		</div> <!-- cd-timeline-block -->
 
-<div class="cd-timeline-block">
+		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-purpul">
-            <img src="img/cd-icon-research.svg" alt="Movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
 			</div> <!-- cd-timeline-img -->
 			<div class="cd-timeline-content">
 				<h2>IC-MCU and Sensors</h2>
@@ -158,9 +167,9 @@
 			</div> <!-- cd-timeline-content -->
 		</div> <!-- cd-timeline-block -->
 
-<div class="cd-timeline-block">
+		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-orange">
-            <img src="img/cd-icon-research.svg" alt="Movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
 			</div> <!-- cd-timeline-img -->
 			<div class="cd-timeline-content">
 				<h2>Aeromodelling</h2>
@@ -172,41 +181,47 @@
 			</div> <!-- cd-timeline-content -->
 		</div> <!-- cd-timeline-block -->
 
-		
-	
 
-            
+
+
+
 	</section> <!-- cd-timeline -->
-        </div>
+	</div>
 
-       
-        <section class="duplicatable-content visitor-info lazy-section">
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-12 text-center">
-								<h1  class="blogHeading">BLOGS</h1>
-								<br>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-4 col-sm-6" class="card1">
-								<div class="info-box">
-									<img alt="Venue" data-src="img/ee.jpg">
-									<h3 style="color:black; font-size:22px;">Basic Electrical And Electronics</h3>
-									<p style="font-family:Arial; color:black; line-height:24px;">Our team has participated and emerged victorious in various national and international robotics events for the past decade owing to the skills and commitment of our members. We firmly believe that having participated in various national and international level events has lended us valuable experience and a knack for victory competing alongside the most premiere robotics teams of India.</p>
-                                    <div><br></div><div><br></div>
-                                    <div class="text-link">
-									<a href="./BeeIndex.php">Go to blog</a>
-									</div>
-								</div>
-							</div>
+
+	<section class="duplicatable-content visitor-info lazy-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1 class="blogHeading">BLOGS</h1>
+					<br>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-sm-6" class="card1">
+					<div class="info-box">
+						<img alt="Venue" data-src="img/ee.jpg">
+						<h3 style="color:black; font-size:22px;">Basic Electrical And Electronics</h3>
+						<p style="font-family:Arial; color:black; line-height:24px;">Do you know the difference between
+							electrical and electronics? Why do we need two separate fields in which both of them have to
+							deal with electricity? Ever wondered why do we have electrical engineering and electronics
+							engineering as separate branches in college? Think! Try a little harder! Still not getting
+							it? No problemo.
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./BeeIndex.php">Go to blog</a>
 						</div>
 					</div>
-                </div>
-				</section>
-	
-  
- <!--<div class="modal fade" id="contact_submit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				</div>
+			</div>
+		</div>
+		</div>
+	</section>
+
+
+	<!--<div class="modal fade" id="contact_submit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   	<div class="modal-dialog">
     	<div class="modal-content">
     		<div class="modal-header">
@@ -219,6 +234,7 @@
 	</div>
   </div>   
 </div>    
---> 
-<?php include('footer-1.php') ?>
+-->
+	<?php include('footer-1.php') ?>
+
 </html>

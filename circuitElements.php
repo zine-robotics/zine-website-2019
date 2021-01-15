@@ -239,8 +239,16 @@
       Huh!🤕 A lot of components for one blog. Ok...ok...let’s end this blog here and see you in the next blog with some
       more parts of “heart”.
 <br><br>
+<table style="border: 2px solid black;">
+         <tr>
+            <td>
+               Mail your assignment answers to <a href="mailto:puneet@zine.co.in">puneet@zine.co.in</a> and contact us in communication channel with doubts.
+            </td>
+         </tr>
+      </table>
+<br><br><br>
 <ul class="pager">
-  <li class="previous"><a href="./circuitElements.php">Previous</a></li>
+  <li class="previous"><a href="./Intro.php">Previous</a></li>
   <li class="next"><a href="./diodes.php">Next</a></li>
 </ul>
 
