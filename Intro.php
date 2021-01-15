@@ -76,11 +76,12 @@ Now that you know about the importance of electrical and electronics, it's time 
 <br /><br />
 
 
+<br><br><br><br><br><br>
 
 
-
-
-
+<ul class="pager">
+  <li class="next"><a href="./circuitElements.php">Next</a></li>
+</ul>
 
 
 

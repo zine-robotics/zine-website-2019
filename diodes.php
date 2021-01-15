@@ -202,7 +202,11 @@ High purity silicon crystals are grown in electric furnaces in a cylindrical log
 The concept is to find the perfect balance between making most area of silicon available thereby reducing the cost of manufacturing and octagonal shape serves this purpose. So, to reduce material wastage octagonal wafers are cut which gives octagonal shape to solar cells.<br><br>
 <strong>Now you will say why a solar cell is not cut out circular. Think yourself and tell us.</strong><br><br>
 
-
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./diodes.php">Previous</a></li>
+  <li class="next"><a href="./Switch-Relays.php">Next</a></li>
+</ul>
     </div>
 </div>
 

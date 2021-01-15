@@ -79,7 +79,11 @@
         useful for turning the µA of current produced by a photodiode into a current of much higher magnitude.
         <br><br> If you’re interested in taking a deeper look at the working of transistors as amplifiers, take a look
         <a href="https://www.youtube.com/watch?v=XT0M6e1PGcg">here</a>.
-
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./Switch-Relays.php">Previous</a></li>
+  <li class="next"><a href="./transformer.php">Next</a></li>
+</ul>
     </div>
 </div>
 

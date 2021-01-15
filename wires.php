@@ -148,7 +148,11 @@
         Their applications will get more apparent in the upcoming blogs. <br><br>
         With this, we come to the end of this section. Hope that now you wouldn’t tangle up and fall facing various
         kinds of wires.
-
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./transformer.php">Previous</a></li>
+  <li class="next"><a href="./batteries.php">Next</a></li>
+</ul>
 
     </div>
 </div>
