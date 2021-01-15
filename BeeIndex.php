@@ -30,7 +30,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./Index.php">Go to blog</a>
+							<a href="./Intro.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -67,7 +67,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./diodes.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -86,7 +86,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./Switch-Relays.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -104,7 +104,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./transistor.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./transformer.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -134,7 +134,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./circuitElements.php">Go to blog</a>
+							<a href="./wires.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
