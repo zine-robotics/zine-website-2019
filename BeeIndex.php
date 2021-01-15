@@ -5,7 +5,7 @@
 				<ul class="slides">
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="images/diodes/main1.jpg">
+							<img class="background-image" alt="Background Image" data-src="img/main1.jpg">
 						</div>
 						<div class="container">
 							<div class="row">
@@ -18,7 +18,7 @@
 
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="images/diodes/main2.jpg">
+							<img class="background-image" alt="Background Image" data-src="img/main2.jpg">
 						</div>
 
 						<div class="container">   
@@ -33,7 +33,7 @@
 
 					<li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="images/diodes/main3.jpg">
+							<img class="background-image" alt="Background Image" data-src="img/main3.jpg">
 						</div>
 						<div class="container">
 							<div class="row">
@@ -44,7 +44,7 @@
 						</div>
 					</li><li class="hero-slide">
 						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" data-src="images/Intro/1.gif">
+							<img class="background-image" alt="Background Image" data-src="img/images/Intro/1.gif">
 						</div>
 						<div class="container">
 							<div class="row">
