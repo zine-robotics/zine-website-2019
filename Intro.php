@@ -66,7 +66,7 @@ Ohm’s Law provides a mathematical relationship between <strong>Voltage, Curren
 <img src="./images/Intro/9.png" class="img-responsive floating-image center" style="width: 150px; height:50px;" >
 But we hope you know about another form of Ohm’s law too. It tells the relation between <strong>Current Density, Electric Field,</strong> and <strong>Conductivity</strong> of the material. We call that microscopic Ohm’s Law.
 <br /><br />
-<div class="blogPageSubHeading">Microscopic Ohm’s Law-</div>
+<div class="blogPageHeading">Microscopic Ohm’s Law-</div>
 
 <img src="./images/Intro/10.jpg" class="img-responsive floating-image center" style="width: 160px; height:70px;" ><br />
 But do you know that Ohm’s Law is not always valid? 🤔 Yes, there are non-Ohmic devices too, and they are pretty important in robotics too. How? You’ll find about them during your journey into robotics.
