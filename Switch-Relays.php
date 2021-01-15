@@ -65,10 +65,10 @@ They can be further classified on basis of the number of contacts they make:
 <br /><br />
 <div class="blogPageSubHeading">Single Pole Single Throw(SPST):</div>
 These switches contain only one input and one output contact. It performs basic ON or OFF operations. And yes, the switch in your power board is SPST only.
-<div style="display:flex;">
-<img src="./images/Switch and Relays/image3.jpg" class="img-responsive floating-image center" style="width: 200px; height: 200px;">
-<img src="./images/Switch and Relays/image16.jpg" class="img-responsive floating-image center" style="width: 520px; height: 180px;">
-</div>
+<!-- <div style="display:flex;"> -->
+<img src="./images/Switch and Relays/image3.jpg" class="img-responsive floating-image left" style="width: 200px; height: 200px;">
+<img src="./images/Switch and Relays/image16.jpg" class="img-responsive floating-image right" style="width: 520px; height: 180px;">
+<!-- </div> -->
 <br />
 <img src="./images/Switch and Relays/image24.png" class="img-responsive floating-image center" style="width: 450px; height: 300px;"><br />
 <br />
@@ -84,11 +84,11 @@ These switches contain only one input and one output contact. It performs basic 
 It has one input contact and two output contacts. It has two ON states and one OFF state.
 <img src="./images/Switch and Relays/image27.jpg" class="img-responsive floating-image center" style="width: 700px; height: 300px;">
 <br />
-<div style="display:flex; display-flex:column;">
-<img src="./images/Switch and Relays/image10.gif" class="img-responsive floating-image center" style="width: 150px; height: 200px;" >
-<img src="./images/Switch and Relays/image15.jpg" class="img-responsive floating-image center" style="width: 200px; height: 200px;">
+<!-- <div style="display:flex; display-flex:column;"> -->
+<img src="./images/Switch and Relays/image10.gif" class="img-responsive floating-image left" style="width: 150px; height: 200px;" >
+<img src="./images/Switch and Relays/image15.jpg" class="img-responsive floating-image right" style="width: 200px; height: 200px;">
 <img src="./images/Switch and Relays/image9.png" class="img-responsive floating-image center" >
-</div>
+<!-- </div> -->
 <br />
 
 
