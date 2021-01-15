@@ -84,7 +84,7 @@ These switches contain only one input and one output contact. It performs basic 
 It has one input contact and two output contacts. It has two ON states and one OFF state.
 <img src="./images/Switch and Relays/image27.jpg" class="img-responsive floating-image center" style="width: 700px; height: 300px;">
 <br />
-<div style="display:flex;">
+<div style="display:flex; display-flex:column;">
 <img src="./images/Switch and Relays/image10.gif" class="img-responsive floating-image center" style="width: 150px; height: 200px;" >
 <img src="./images/Switch and Relays/image15.jpg" class="img-responsive floating-image center" style="width: 200px; height: 200px;">
 <img src="./images/Switch and Relays/image9.png" class="img-responsive floating-image center" >
