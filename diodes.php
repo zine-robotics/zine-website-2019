@@ -187,26 +187,34 @@
             <li>The free electrons in the depletion region can quickly come to the n-type side of the junction. Similarly, the holes in the depletion can quickly come to the p-type side of the junction. This happens due to the electric field in the depletion region.<br><br></li>
             <li>As the concentration of electrons becomes higher in one side, i.e. n-type side of the junction, and the concentration of holes becomes more in another side, i.e. the p-type side of the junction, you will be able to observe a potential difference which is called photovoltage.<br><br></li>
             <br><br>
-        </ol>
+</ol>
 
-        See the figure and guess why the n side is thinner than the p side of a solar cell?<br><br>
-        It is because the light photons can easily pass through n side to reach the depletion region where the electric field will separate electrons and holes to the respective sides for the generation of voltage.<br><br>
-        Fun fact: Silver is used for connect the solar cells in a solar panel as its best conductor of electricity.<br><br>
-        Here’s an interesting question for you<br><br>
-        <div class="blogPageSubHeading">Why is the shape of the solar cell octagonal?</div>
-        Its shape is octagonal in order to save the material at the time of manufacture. But to explain it we will have to take you to the manufacturing of solar cell.<br><br>
-        High purity silicon crystals are grown in electric furnaces in a cylindrical log shape which is then shaped to wafers and then to solar cells.<br><br>
-        <img src="images/diodes/image40.png" class="img-responsive floating-image center"><br><br>
-        <img src="images/diodes/image35.png" class="img-responsive floating-image center"><br><br>
-        <img src="images/diodes/image13.png" class="img-responsive floating-image center"><br><br>
-        The concept is to find the perfect balance between making most area of silicon available thereby reducing the cost of manufacturing and octagonal shape serves this purpose. So, to reduce material wastage octagonal wafers are cut which gives octagonal shape to solar cells.<br><br>
-        <strong>Now you will say why a solar cell is not cut out circular. Think yourself and tell us.</strong><br><br>
+See the figure and guess why the n side is thinner than the p side of a solar cell?<br><br>
+It is because the light photons can easily pass through n side to reach the depletion region where the electric field will separate electrons and holes to the respective sides for the generation of voltage.<br><br>
+Fun fact: Silver is used for connect the solar cells in a solar panel as its best conductor of electricity.<br><br>
+Here’s an interesting question for you<br><br>
+<div class="blogPageSubHeading">Why is the shape of the solar cell octagonal?</div>
+Its shape is octagonal in order to save the material at the time of manufacture. But to explain it we will have to take you to the manufacturing of solar cell.<br><br>
+High purity silicon crystals are grown in electric furnaces in a cylindrical log shape which is then shaped to wafers and then to solar cells.<br><br>
+<img src="images/diodes/image40.png" class="img-responsive floating-image center"><br><br>
+<img src="images/diodes/image35.png" class="img-responsive floating-image center"><br><br>
+<img src="images/diodes/image13.png" class="img-responsive floating-image center"><br><br>
+The concept is to find the perfect balance between making most area of silicon available thereby reducing the cost of manufacturing and octagonal shape serves this purpose. So, to reduce material wastage octagonal wafers are cut which gives octagonal shape to solar cells.<br><br>
+<strong>Now you will say why a solar cell is not cut out circular. Think yourself and tell us.</strong><br><br>
 
-        <br><br><br>
-        <ul class="pager">
-            <li class="previous"><a href="./diodes.php">Previous</a></li>
-            <li class="next"><a href="./Switch-Relays.php">Next</a></li>
-        </ul>
+<br><br><br>
+<table style="border: 2px solid black;">
+         <tr>
+            <td>
+               Mail your assignment answers to <a href="mailto:puneet@zine.co.in">puneet@zine.co.in</a> and contact us in communication channel with doubts.
+            </td>
+         </tr>
+      </table>
+<br><br><br>
+<ul class="pager">
+  <li class="previous"><a href="./circuitElements.php">Previous</a></li>
+  <li class="next"><a href="./Switch-Relays.php">Next</a></li>
+</ul>
     </div>
 </div>
 

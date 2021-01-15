@@ -28,8 +28,8 @@
         transformers form a crucial part of most circuits from the smallest ones to even power grids. They range in size
         from transformers used in mobiles being less than a cubic centimetre in volume, to units weighing hundreds of
         tons. They are even found in mobile chargers!
-        <br>    
-        <img src="images/transformer/image9.jpg" class="img-responsive floating-image center">  
+        <br>
+        <img src="images/transformer/image9.jpg" class="img-responsive floating-image center">
         <h1>Introduction</h1><br>
         Transformers are devices used to transfer electrical energy in the form of magnetic energy, between two or more
         coils of wire. During this transfer, we can regulate the levels of current and voltage, according to our needs.
@@ -95,9 +95,7 @@
         varies with time as our voltage. Now recall Faradays’ law. This varying magnetic field will induce a current in
         the secondary coil. This is the functioning of the transformer. To summarize, there is the transfer of
         electrical energy between two coils in the form of magnetic energy.
-        <br><br> Have a look at the gif below. The A.C generator supplies A.C current to the primary coil.
-
-        <img src="images/transformer/image14.gif" class="img-responsive floating-image center"><br><br>
+        <br><br>
         Now, we mentioned that a transformer can “regulate the levels of voltage and current”. How does that happen?
         This is done by varying the number of turns in the primary and secondary windings. The magnetic flux created in
         the core is linked to both coils, hence if one coil has a different number of turns than the other, its voltage
@@ -160,11 +158,20 @@
                 <br></li> <br><br>
         </ul>
         With this we have reached the end of this section. See you in the next one!
-<br><br><br>
-<ul class="pager">
-  <li class="previous"><a href="./transistor.php">Previous</a></li>
-  <li class="next"><a href="./wires.php">Next</a></li>
-</ul>
+        <br><br><br>
+        <table style="border: 2px solid black;">
+            <tr>
+                <td>
+                    Mail your assignment answers to <a href="mailto:puneet@zine.co.in">puneet@zine.co.in</a> and contact
+                    us in communication channel with doubts.
+                </td>
+            </tr>
+        </table>
+        <br><br><br>
+        <ul class="pager">
+            <li class="previous"><a href="./transistor.php">Previous</a></li>
+            <li class="next"><a href="./wires.php">Next</a></li>
+        </ul>
     </div>
 </div>
 
