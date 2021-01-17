@@ -98,6 +98,8 @@
         <br><br><br>
 
         <ul class="pager">
+        <li class="previous"><a href="./algo-intro.php">Previous</a></li>
+
             <li class="next"><a href="./algorithms.php">Next</a></li>
         </ul>
 
