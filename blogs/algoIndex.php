@@ -81,7 +81,7 @@
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./algoIntro.php">Go to blog</a>
+							<a href="./algo-intro.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -156,7 +156,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="../img/images/algoIndex/image1.jpg">
+						<img alt="Venue" data-src="../img/images/algoIndex/image9.jpg">
 						<h3>Conditional Statements</h3>
 						<p>Conditional statements are used for decision making. The process is similar to what we do in
 							real life. If a specified condition is true then a particular block of statements is

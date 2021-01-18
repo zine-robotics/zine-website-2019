@@ -217,18 +217,18 @@
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="info-box">
-						<img alt="Venue" data-src="img/ee.jpg">
+						<img alt="Venue" data-src="img/algo.png">
 						<h3 style="color:black; font-size:22px;">Algo Pseudo</h3>
-						<p style="font-family:Arial; color:black; line-height:24px;">Do you know the difference between
-							electrical and electronics? Why do we need two separate fields in which both of them have to
-							deal with electricity? Ever wondered why do we have electrical engineering and electronics
-							engineering as separate branches in college? Think! Try a little harder! Still not getting
-							it? No problemo.
+						<p style="font-family:Arial; color:black; line-height:24px;">Are you one of those who feel
+							programming languages and algorithms are extremely hard to
+							understand and you have no clue where to even start? Or you have a bit of an idea about them
+							and want to expand your
+							knowledge? Then you are in the right place.
 						</p>
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./AlgoIndex.php">Go to blog</a>
+							<a href="./blogs/algoIndex.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
