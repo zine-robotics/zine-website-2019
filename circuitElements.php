@@ -162,8 +162,7 @@
       resistor code.
       <br><br>
       <img src="img/images/elements/image5.png" class="img-responsive floating-image center"><br>
-      <br><br><br><br><br>
-      <img src="img/images/elements/image5.png" class="img-responsive floating-image right"><br>
+      <br><br>
       Now as it’s the end of resistors, but these are not all types. There are LDRs, Photodiodes, and Thermistors also
       but you will study them in sensors. <br><br><br>
       <table style="border: 2px solid black;">

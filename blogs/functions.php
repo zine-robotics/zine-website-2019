@@ -183,9 +183,9 @@ We have some more algorithms for sorting such as  <a href="https://www.geeksforg
         <br><br><br>
 
         <ul class="pager">
-            <li class="previous"><a href="./pseudo.php">Previous</a></li>
+            <li class="previous"><a href="./conditional.php">Previous</a></li>
 
-            <li class="next"><a href="./conditional.php">Next</a></li>
+            <li class="next"><a href="./arduino.php">Next</a></li>
         </ul>
 
 

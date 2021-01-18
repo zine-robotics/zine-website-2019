@@ -2,11 +2,10 @@
 
 
 <div class="headImage">
-
-   <div class="heading">
+</div>
+<div class="heading">
       Instruments
    </div>
-</div>
 <div class="page">
    <div class="blog-page">
 
