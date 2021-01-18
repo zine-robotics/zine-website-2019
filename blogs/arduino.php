@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<div class="headAlgoImage">
 </div>
 <div class="heading">
     Arduino and PS

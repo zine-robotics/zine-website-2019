@@ -160,7 +160,7 @@
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
 						<img alt="Venue" data-src="./img/Algo-index/if.jpg" style="height:240px; width:380px;">
-						<h3>Conditional Statements</h3>
+						<h3>Conditional Statements and Loops</h3>
 						<p>Remember those huge brown boxes with lots of wiring, that you were always warned not to go
 							near. That was a transformer! These transformers form a crucial part of most circuits from
 							the smallest ones to even power grids. They range in size from RF transformers being less
