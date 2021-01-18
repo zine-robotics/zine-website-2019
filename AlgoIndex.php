@@ -69,7 +69,7 @@
 			<div class="row">
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/beeintro.jpg">
+						<img alt="Venue" data-src="./img/Algo-index/algo.png">
 						<h3>Introduction</h3>
 						<p>Robotics is the intersection of science, engineering, and technology that produces machines,
 							called robots, that substitute for (or replicate) human actions. Simple isn't it. Earlier,
@@ -85,7 +85,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/circuitelements.jpg">
+						<img alt="Venue" data-src="./img/images/memory/image6.png" style="height:250px; width:380px;">
 						<h3>Concept of Memory and Binary</h3>
 						<p>And the journey starts😀. Let’s start with some conceptual things. So in this blog, we will
 							study circuit elements. What are these and where do we see them in daily life and
@@ -105,7 +105,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/diode.png">
+						<img alt="Venue" data-src="./img/Algo-index/algorithm.jpeg" style="height:240px; width:380px;">
 						<h3>Algorithms</h3>
 						<p>In simple words, diode or di-ode or di-electrode is an electronic component that conducts
 							current primarily in one direction; it has low (ideally zero) resistance in one direction,
@@ -122,7 +122,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/switch.jpg">
+						<img alt="Venue" data-src="./img/Algo-index/flowchart.jpg">
 						<h3>Flowcharts and Pseudocode</h3>
 						<p>Yes! Switches! It seems such a normal thing. We use a switch to turn on or off any electrical
 							device. Look at that power board in front of you. Yes, It is a switch. But is this
@@ -141,7 +141,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/transistor.jpg">
+						<img alt="Venue" data-src="./img/Algo-index/variable.jpg" style="height:240px;">
 						<h3>Variables, Data Types and Operators</h3>
 						<p>Imagine a machine that is as big as MNIT’s VLTC and all you could use it for is to send a
 							text message to your friend , sounds absurd, right?
@@ -159,7 +159,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/transformer.jpg">
+						<img alt="Venue" data-src="./img/Algo-index/if.jpg" style="height:240px; width:380px;">
 						<h3>Conditional Statements</h3>
 						<p>Remember those huge brown boxes with lots of wiring, that you were always warned not to go
 							near. That was a transformer! These transformers form a crucial part of most circuits from
@@ -174,22 +174,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/wires.jpg">
-						<h3>Wires</h3>
-						<p>The very first thing you would notice if you were to enter the zine lab for the first time is
-							that there are several reels of different types of wires all around. Wires and wiring are at
-							the very centre of BEE and robotics. They can very well be the difference between winning
-							and losing in competitions.</p>
-						<div><br></div>
-						<div><br></div>
-						<div class="text-link">
-							<a href="./blogs/wires.php">Go to blog</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6" class="card1">
-					<div class="info-box">
-						<img alt="Venue" data-src="./img/battery.jpg">
+						<img alt="Venue" data-src="./img/images/functions/image26.gif" style="height:240px; width:380px;">
 						<h3>Functions and Arrays</h3>
 						<p>If you are getting interested in robotics, you are going to need a lot of different types of
 							batteries for different uses, you'll need to know how to use them and understand the various
@@ -203,7 +188,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="./img/instruments.jpg">
+						<img alt="Venue" data-src="./img/images/arduino-ps/image2.gif" style="height:240px; width:380px;">
 						<h3>Arduino and PS</h3>
 						<p>Now we are towards the end of our blogs on the heart of robotics. In this blog you are going
 							to learn about various instruments which you are going to use to make your little robots
