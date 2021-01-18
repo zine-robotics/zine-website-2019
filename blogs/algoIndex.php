@@ -4,9 +4,10 @@
 
 <section class="hero-slider lazy-section">
 	<ul class="slides">
-		<li class="hero-slide">
+
+	<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/main1.jpg">
+				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider3.jpg">
 			</div>
 			<div class="container">
 				<div class="row">
@@ -19,7 +20,20 @@
 
 		<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/main2.jpg">
+				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider.png">
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<h1 class="large-h1 text-white">ALGORITHM AND PSEUDOCODE</h1>
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li class="hero-slide">
+			<div class="background-image-holder parallax-background">
+				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider2.jpg">
 			</div>
 
 			<div class="container">
@@ -32,30 +46,7 @@
 			</div>
 		</li>
 
-		<li class="hero-slide">
-			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/main3.jpg">
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-sm-6">
-						<h1 class="large-h1 text-white">ALGORITHM AND PSEUDOCODE</h1>
-					</div>
-				</div>
-			</div>
-		</li>
-		<li class="hero-slide">
-			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/images/Intro/1.gif">
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-6 col-md-7">
-						<h1 class="large-h1 text-white">ALGORITHM AND PSEUDOCODE</h1>
-					</div>
-				</div>
-			</div>
-		</li>
+		
 	</ul>
 </section>
 <div class="page">
@@ -87,7 +78,7 @@
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
-						<img alt="Venue" data-src="../img/images/algoIndex/image6.png">
+						<img alt="Venue" data-src="../img/images/algoIndex/image6.png" style="height:240px; width:380px;">
 						<h3>Concept of Memory and Binary</h3>
 						<p>Imagine yourself in a dark room having only one light bulb off. You will just have two
 							options then, either to
