@@ -198,7 +198,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4 col-sm-6" class="card1">
+				<div class="col-md-4 col-sm-6">
 					<div class="info-box">
 						<img alt="Venue" data-src="img/ee.jpg">
 						<h3 style="color:black; font-size:22px;">Basic Electrical And Electronics</h3>
@@ -212,6 +212,23 @@
 						<div><br></div>
 						<div class="text-link">
 							<a href="./BeeIndex.php">Go to blog</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="info-box">
+						<img alt="Venue" data-src="img/ee.jpg">
+						<h3 style="color:black; font-size:22px;">Algo Pseudo</h3>
+						<p style="font-family:Arial; color:black; line-height:24px;">Do you know the difference between
+							electrical and electronics? Why do we need two separate fields in which both of them have to
+							deal with electricity? Ever wondered why do we have electrical engineering and electronics
+							engineering as separate branches in college? Think! Try a little harder! Still not getting
+							it? No problemo.
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./AlgoIndex.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
