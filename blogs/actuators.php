@@ -4,7 +4,7 @@
 <div class="headAlgoImage">
 </div>
 <div class="heading">
-  Locomotion and Drive Systems
+  Actuators
 </div>
 
 <div class="page">
