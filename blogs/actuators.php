@@ -11,7 +11,7 @@
   <div class="blog-page">
     <br><br>
 
-    <div class="blogPageHeading">ACTUATORS</div>
+    <div class="blogPageHeading">Actuators</div>
     <img src="../img/images/BME-blog/image2.png" class="img-responsive floating-image center">
     <br /><br />
     What is an actuator?<br />
@@ -174,8 +174,13 @@
     operation of mechanical actuators is based on combinations of structural components, such as gears and rails, or
     pulleys and chains. More on this later in the blog.
 
+<br><br><br><br>
 
+<ul class="pager">
+        <li class="previous"><a href="./bmeIntro.php">Previous</a></li>
 
+            <li class="next"><a href="./locomotion.php">Next</a></li>
+        </ul>
 
 
   </div>

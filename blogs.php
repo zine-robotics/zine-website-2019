@@ -232,6 +232,19 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="info-box">
+						<img alt="Venue" data-src="img/images/BME-blog/image30.jpg">
+						<h3 style="color:black; font-size:22px;">BME</h3>
+						<p style="font-family:Arial; color:black; line-height:24px;">But, before robots are capable of doing tasks, they have to be created!  Engineers get to take the credit for designing the robots to do what they are programmed for. As all types of engineers work together, they build a complete robot.
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./blogs/bmeIndex.php">Go to blog</a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		</div>
