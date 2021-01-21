@@ -4,7 +4,7 @@
 <div class="headAlgoImage">
 </div>
 <div class="heading">
-    Variables Data types and Operators
+    Variables, Data types and Operators
 </div>
 
 <div class="page">
@@ -254,6 +254,15 @@ float                   %f
         <br>
         What should be the output for this code snippet if the user inputs 1 and “a”? <br>
         <br>
+        <div class="blogHeading">Comments</div>
+        <img src="../img/images/variables/comment.jfif" class="img-responsive floating-image center">
+        <br />
+        A lot of times when programmers revisit complex code this is their situation. To avoid this, we use comments ! Comments are text notes added to the program to provide information about  the code and to remind programmers of the logic they used while writing the code.These are ignored while running the program. Let's have a look at how to add comments in our code.
+        <br />
+        <img src="../img/images/variables/comment.png" class="img-responsive floating-image center">
+        <br />
+        The first one is a single line comment. To write a multiple line comment we enclose it in /*, */ 
+        <br /><br />
         <strong>It is now time to move to the first major programming construct of this blog - Conditional
             Statements.</strong>
         <br><br><br>

@@ -18,7 +18,10 @@
 Similar to printf() we can also define our own functions that do some specific tasks and can be used simply by calling them as we call print. This is an integral part of programming.  Let us start with a definition.
 <br><br> A function is a <strong>block of statements</strong> that performs a specific task. Let’s say you are writing a program and you need to perform the same task in that program more than once. In such a case you have two options:
 <br><br>
-a) Use the same set of statements every time you want to perform the task. <br>
+a) Use the same set of statements every time you want to perform the task.A lot of Ctrl + C - Ctrl + V !
+ <br><br>
+ <img src="../img/images/functions/copy.jfif" class="img-responsive floating-image center">
+ <br>
 b) Or, create a function to perform that task and just call it every time you need to perform that task. <br>
 Using option (b) is easier and concise, and a good programmer always uses functions while writing code. In other words,<br><br>
 Functions are used because of the following reasons – <br>
@@ -56,7 +59,7 @@ Taking the reference from the variables part of the blog, recall that different 
 <br>
 <img src="../img/images/functions/image25.png" class="img-responsive floating-image center">
 <br>
-<img src="../img/images/functions/image18.png" class="img-responsive floating-image center">
+<img src="../img/images/functions/image18.gif" class="img-responsive floating-image center" style="width:450px;">
 <br>
 <strong>An array is a contiguous memory location that contains a group of elements, such as an integer or string. Arrays are commonly used in computer programs to organize data so that a related set of values can be easily sorted or searched.
 </strong>  <br><br>
