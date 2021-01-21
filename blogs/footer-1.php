@@ -17,7 +17,7 @@
 								</div>
 								<div class="col-sm-3">
 									<ul id="contact" class="contact-methods">
-										<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="" target="_blank" style="color:#777777"><span class="__cf_email__" data-cfemail="92f4fde1e1f3e1fbf3d2f5fdfdf5fef7f5e0fde7e2e1bcf1fdff">zine@zine.co.in</span></a></span></li>
+										<li><i class="icon pe-7s-mail"></i><span><a id="mailAdd" href="" target="_blank" style="color:#777777"><span class="__cf_email__" data-cfemail="92f4fde1e1f3e1fbf3d2f5fdfdf5fef7f5e0fde7e2e1bcf1fdff">admin@zine.co.in</span></a></span></li>
 										<li><i class="icon pe-7s-phone"></i><span>+91 123456789</span></li>
 										<li><i class="icon pe-7s-map-marker"></i><span>ZINE</span></li>
 										<li><span><a href="" style="color:#777777" id="mailAdd">Raman Lab</a></span></li>
