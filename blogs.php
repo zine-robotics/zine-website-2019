@@ -217,7 +217,11 @@
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="info-box">
+<<<<<<< Updated upstream
 						<img alt="Venue" data-src="img/algo.png">
+=======
+						<img alt="Venue" data-src="./img/Algo-index/algorithm.jpeg" style="height:240px; width:380px;">
+>>>>>>> Stashed changes
 						<h3 style="color:black; font-size:22px;">Algo Pseudo</h3>
 						<p style="font-family:Arial; color:black; line-height:24px;">Are you one of those who feel
 							programming languages and algorithms are extremely hard to

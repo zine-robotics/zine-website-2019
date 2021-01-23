@@ -8,7 +8,11 @@
 .headAlgoImage{
     /* background-color: black; */
     background-image: url("../img/5.webp");
+<<<<<<< Updated upstream
     filter: blur(2px);
+=======
+    filter: blur(1px);
+>>>>>>> Stashed changes
     width: 100%;
     height: 500px;
 }
