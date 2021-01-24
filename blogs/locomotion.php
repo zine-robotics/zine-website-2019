@@ -20,7 +20,7 @@
         Simple/Fixed wheel :<br><br>
         <img src="../img/images/BME-blog/image4.jpg" class="img-responsive floating-image center">
 
-        This wheel has two degrees of freedom and can traverse Front or Reverse. The center of the wheel is fixed to the
+        This wheel has one degree of freedom and can traverse Front or Reverse. The center of the wheel is fixed to the
         robot chassis. The angle between the robot chassis and wheel plane is constant.<br><br>
         Castor wheels:<br><br>
         <img src="../img/images/BME-blog/image74.jpg" class="img-responsive floating-image left">
@@ -43,9 +43,8 @@
         direction but exhibit high resistance when they move in any direction. The small wheels are attached in such a
         way that the axis of the small wheels is perpendicular to the axis of the bigger center wheel which makes the
         wheel rotate even parallel to its own axis. Omni wheels are sometimes known as Swedish wheels and can be used to
-        both drive and steer a robot.<br><br>
-        Assignment: Look carefully at the 2 pictures of Omni wheels above and figure out which one is better to use and
-        why?<br><br>
+        both drive and steer a robot.
+        <br><br>
         <strong>Assignment: Look carefully at the 2 pictures of Omni wheels above and figure out which one is better to
             use and why?</strong><br><br>
 
