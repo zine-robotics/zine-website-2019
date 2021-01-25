@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headAlgoImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     Development Boards
@@ -169,12 +169,18 @@
 
 
         <ul class="pager">
+<<<<<<< HEAD
+        <li class="previous"><a href="./micro.php">Previous</a></li>
+=======
             <li class="previous"><a href="./microcontroller.php">Previous</a></li>
             <li class="next"><a href="./arduino2.php">Next</a></li>
 
         </ul>
 
+>>>>>>> 04be375ab3ee5537ad3f0543fe9d292745e611ba
 
+            <li class="next"><a href="./arduino2.php">Next</a></li>
+        </ul>
 
     </div>
 </div>

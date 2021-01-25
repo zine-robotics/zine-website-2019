@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     Programming Arduino Uno
@@ -113,6 +113,10 @@ void loop()
     </div>
 </div>
 
+<ul class="pager">
+        <li class="previous"><a href="./arduino1.php">Previous</a></li>
+
+        </ul>
 
 </div>
 </div>

@@ -13,6 +13,14 @@
     height: 500px;
 }
 
+.headIcImage{
+    /* background-color: black; */
+    background-image: url("../img/images/more-ic/head.jpg");
+    width: 100%;
+    filter: blur(2px);
+    height: 500px;
+}
+
 .page{
     align-items: center;
 }
@@ -57,7 +65,7 @@ a{
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    top: 200px;
+    top: 170px;
     width: 50%;
     text-align: center;
     font-size: 35px;
