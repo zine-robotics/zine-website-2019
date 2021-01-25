@@ -215,13 +215,10 @@
 						</div>
 					</div>
 				</div>
+				<br /><br />	
 				<div class="col-md-4 col-sm-6">
 					<div class="info-box">
-<<<<<<< Updated upstream
 						<img alt="Venue" data-src="img/algo.png">
-=======
-						<img alt="Venue" data-src="./img/Algo-index/algorithm.jpeg" style="height:240px; width:380px;">
->>>>>>> Stashed changes
 						<h3 style="color:black; font-size:22px;">Algo Pseudo</h3>
 						<p style="font-family:Arial; color:black; line-height:24px;">Are you one of those who feel
 							programming languages and algorithms are extremely hard to
@@ -246,6 +243,23 @@
 						<div><br></div>
 						<div class="text-link">
 							<a href="./blogs/bmeIndex.php">Go to blog</a>
+						</div>
+					</div>
+				</div>	
+				<div class="col-md-4 col-sm-6">
+					<div class="info-box" class="card1">
+						<img alt="Venue" data-src="img/images/more-ic/mc.jpg">
+						<h3 style="color:black; font-size:22px;">IC-MCU</h3>
+						<p style="font-family:Arial; color:black; line-height:24px;">
+						How is this journey of yours with robotics going? Awesome? Good! Shall we proceed? Ok!
+						We’ll first learn about the ICs and then 
+                        we shall continue with the processing unit in which you’ll get along with microcontrollers and the genius saints sitting inside the core of computers.  
+
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./blogs/ic-mcu-index.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
