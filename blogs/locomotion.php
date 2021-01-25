@@ -237,5 +237,3 @@
 </div>
 
 <?php include('footer-1.php') ?>
-
-</html>
