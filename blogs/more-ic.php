@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headAlgoImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
   More About IC's
@@ -88,13 +88,11 @@ For manufacturing ICs, all the components, like transistors and wiring, are all 
 But this in not the only basis for classification of ICs, for reference ICs can also be <b>classified based the arrangement of pins :</b>
 <br>
 <br><div class="blogPageSubHeading">Single-in-line package:</div> A single row of pins protruding from the bottom of the body of the IC, numbering is done by holding the IC upwards and reading from left to right.
-       
-<img src="../img/images/more-ic/image7.gif" class="img-responsive floating-image center"> 
+<img src="../img/images/more-ic/image17.jpg" class="img-responsive floating-image center">       
 <br>
 <br><div class="blogPageSubHeading">Dual-in-line package:</div> Two rows of pins protruding from the bottom of the IC’s body. Their numbering is done just like we saw earlier, it starts anticlockwise from notch. There is an exclusive space in the breadboard for DIL Packaging:
-             
-<img src="../img/images/more-ic/image13.jpg" class="img-responsive floating-image center"> 
-<br>
+  <img src="../img/images/more-ic/image7.gif" class="img-responsive floating-image center">             
+  <br>
 <br><div class="blogPageSubHeading">Quad-flat package (mounted on the surface):</div> The pins splay on from all four directions. QFP ICs might have anywhere from eight pins per side (32 total) to upwards of seventy (300+ total). How is their naming done? They do have a notch too, and thus, we pick the first pin and move anticlockwise.
 <br>                             
 <br><div class="blogPageSubHeading">Ball Grid-array package:</div> (e.g microprocessors)
@@ -104,9 +102,12 @@ For really advanced ICs, there are Ball Grid Array (BGA) packages. These are ama
 So how do we use these ICs? We mount them to our circuit boards. Do you know how these are mounted? IC’s are mounted mainly using two techniques:
 <br> 
 <br><div class="blogPageSubHeading">Through Hole Mounting:</div> There are holes in the boards, and in these holes, the pins of ICs are stuck in, and then soldered on the other side. Through hole mounting is more robust and is used in military equipment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-<br>  
+<br> 
+<img src="../img/images/more-ic/image7.gif" class="img-responsive floating-image center"> 
+<br> 
 <br><div class="blogPageSubHeading">Surface Mounting:</div> They are a bit difficult to mount, as they have to be soldered “on” the surface, and thus require some equipment.
-  
+<img src="../img/images/more-ic/image13.jpg" class="img-responsive floating-image center"> 
+<br> 
                                     
  Above IC’s are permanently mounted, they can’t be replaced easily. What if we need different ICs 
   

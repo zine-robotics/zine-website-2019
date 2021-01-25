@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
 Microprocessor and MCU
@@ -115,6 +115,11 @@ The general microcontroller consists of the <a href="https://whatis.techtarget.c
 
     </div>
 </div>
+<ul class="pager">
+        <li class="previous"><a href="./diff-ic.php">Previous</a></li>
+
+            <li class="next"><a href="./arduino1.php">Next</a></li>
+        </ul>
 
 
     </div>

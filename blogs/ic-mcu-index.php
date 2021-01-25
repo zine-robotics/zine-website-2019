@@ -7,7 +7,7 @@
 
 	<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider3.jpg">
+				<img class="background-image" alt="Background Image" data-src="../img/ic-sl1.jpg">
 			</div>
 			<div class="container">
 				<div class="row">
@@ -20,7 +20,7 @@
 
 		<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider.png">
+				<img class="background-image" alt="Background Image" data-src="../img/ic-sl3.jpg">
 			</div>
 			<div class="container">
 				<div class="row">
@@ -33,7 +33,7 @@
 
 		<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider2.jpg">
+				<img class="background-image" alt="Background Image" data-src="../img/ic-sl4.jpg">
 			</div>
 
 			<div class="container">
@@ -72,7 +72,7 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./algo-intro.php">Go to blog</a>
+							<a href="./icmcuIntro.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -86,7 +86,7 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./memory.php">Go to blog</a>
+							<a href="./more-ic.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -105,7 +105,7 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./algorithms.php">Go to blog</a>
+							<a href="./diff-ic.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
@@ -121,14 +121,14 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./pseudo.php">Go to blog</a>
+							<a href="./micro.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
 						<img alt="Venue" data-src="../img/images/more-ic/ard.jpeg" style="height:240px; width:280px;">
-						<h3>Arduino Blog 1</h3>
+						<h3>Development Boards</h3>
 						<p>Here we are with another fascinating topic for you to learn - Development Boards, more specifically, Arduino Uno. 
                         Arduino boards are the pivotal components for thousands of ongoing projects in the field of robotics. With Arduino boards, you can convert input,
                          like light, temperature, etc., 
@@ -136,21 +136,21 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./variables.php">Go to blog</a>
+							<a href="./arduino1.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
 					<div class="info-box">
 						<img alt="Venue" data-src="../img/images/more-ic/ard2.png" style="height:240px; width:400px;">
-						<h3>Arduino Blog 2</h3>
+						<h3>Programming Arduino Uno</h3>
 						<p>Now let’s start programming our Arduino board. Generally, we code in Arduino IDE, compile it and upload it to the Arduino. And the Arduino mostly behaves as expected. Simple?
                          The programming language we use for programming the Arduino devices is Arduino Programming Language.
 						</p>
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./conditional.php">Go to blog</a>
+							<a href="./arduino2.php">Go to blog</a>
 						</div>
 					</div>
 				</div>

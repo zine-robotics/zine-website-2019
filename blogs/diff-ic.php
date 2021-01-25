@@ -12,7 +12,7 @@
     }
 </style>
 
-<div class="headAlgoImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     Different IC's and their usage.
@@ -346,7 +346,7 @@
             <ul class="pager">
                 <li class="previous"><a href="./more-ic.php">Previous</a></li>
 
-                <li class="next"><a href="./microcontroller.php">Next</a></li>
+                <li class="next"><a href="./micro.php">Next</a></li>
             </ul>
 
 

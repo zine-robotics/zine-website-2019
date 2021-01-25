@@ -12,7 +12,7 @@
         margin-right: auto;
     }
 </style>
-<div class="headAlgoImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     Introduction
@@ -190,7 +190,7 @@
         <br><br><br>
 
         <ul class="pager">
-            <li class="next"><a href="./ic.php">Next</a></li>
+            <li class="next"><a href="./more-ic.php">Next</a></li>
         </ul>
 
 
