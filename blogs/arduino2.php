@@ -27,15 +27,15 @@
             <li>Go to <a href="https://www.tinkercad.com/join">tinkercad</a> and create a new personal account. You can
                 sign in with google for your ease.</li><br>
             <li>You will see a screen like this after completing the signup process.</li><br>
-            <img src=".../img/images/arduino2/image1.png" class="img-responsive floating-image center"><br>
+            <img src="../img/images/arduino2/image1.png" class="img-responsive floating-image center"><br>
 
             Select Circuits from the left panel and then create new circuit.<br><br>
-            <img src=".../img/images/arduino2/image3.png" class="img-responsive floating-image center"><br>
+            <img src="../img/images/arduino2/image3.png" class="img-responsive floating-image center"><br>
             <li>Next, you should see a blank screen with some components listed on the right side. Search for Arduino
                 Uno R3, LED, and a resistor and drag them on the blank screen one by one.</li><br>
             <li>Make connections like the ones shown below and click on the Start Simulation button on the top right.
             </li><br>
-            <img src=".../img/images/arduino2/image4.png" class="img-responsive floating-image center"><br>
+            <img src="../img/images/arduino2/image4.png" class="img-responsive floating-image center"><br>
             <li>Wow! The led is blinking. Note that not only the LED which we connected to the Arduino but the LED on
                 the board is also blinking.</li><br>
         </ol><br><br>
@@ -104,6 +104,12 @@ void loop()
         </ol>
         <br><br>
 
+<br><br><br><br>
+<ul class="pager">
+            <li class="previous"><a href="./arduino1.php">Previous</a></li>
+            <li class="next"><a href="./SensorIntro.php">Next</a></li>
+
+        </ul>
     </div>
 </div>
 

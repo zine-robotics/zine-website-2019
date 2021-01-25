@@ -32,7 +32,7 @@ There exists a need to convert light intensity into signals to feed them into ou
     <li>Nose for the sense of smell</li>
 </ol><br><br>
 
-<img src="./img/sensorintro/image1.jpg" class="img-responsive floating-image center"><br><br>
+<img src="../img/images/sensorintro/image1.jpg" class="img-responsive floating-image center"><br><br>
 Similarly, fields of electronics also have several sensors so that the ICs and microcontrollers can interact with their surroundings. Although most of the sensors provide output in the form of electrical signals, some sensors provide data in some other form too. <br><br>
 
 For example, a thermometer is a sensor or a temperature sensor that senses the temperature and provides data in the form of visual information. In our case, we are going to use an LDR(sensor) to detect the intensity of light which in return feeds that data into our device to process further.<br><br>
@@ -41,7 +41,7 @@ In a nutshell, sensors are the devices that detect the alteration in electrical 
 
 Now, we’ve mentioned some sensors. We need you to think which electronic sensors are associated directly with our sense organs and how. This is an assignment to help you understand the relation between sensors in humans and machines.<br><br>
 
-<img src="./img/sensorintro/image2.png" class="img-responsive floating-image center"><br><br>
+<img src="../img/images/sensorintro/image2.png" class="img-responsive floating-image center"><br><br>
 
 In the next blog, we’ll learn about how to choose sensors. We’ll also classify a wide range of sensors on different bases, and how they work.<br><br>
 
