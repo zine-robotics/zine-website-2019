@@ -145,9 +145,9 @@ So how do we use these ICs? We mount them to our circuit boards. Do you know how
     <br><br><br><br>
 
 <ul class="pager">
-        <li class="previous"><a href="./bmeIntro.php">Previous</a></li>
+        <li class="previous"><a href="./icmcuIntro.php">Previous</a></li>
 
-            <li class="next"><a href="./locomotion.php">Next</a></li>
+            <li class="next"><a href="./diff-ic.php">Next</a></li>
         </ul>
 
 

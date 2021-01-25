@@ -149,7 +149,10 @@ Feel free to reach out to us on mail:
 <div class="blogPageHeading">May the bots be with you!</div></center>
 
 
-
+<br><br><br><br>
+<ul class="pager">
+        <li class="previous"><a href="./locomotion.php">Previous</a></li>
+        </ul>
 
     </div>
 </div>
