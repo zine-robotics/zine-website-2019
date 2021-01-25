@@ -169,7 +169,7 @@
 
 
         <ul class="pager">
-            <li class="previous"><a href="./functions.php">Previous</a></li>
+            <li class="previous"><a href="./microcontroller.php">Previous</a></li>
         </ul>
 
 
