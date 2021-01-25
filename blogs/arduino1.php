@@ -164,12 +164,14 @@
         </table>
 
 
-
+<br><br><br><br>
 
 
 
         <ul class="pager">
             <li class="previous"><a href="./microcontroller.php">Previous</a></li>
+            <li class="next"><a href="./arduino2.php">Next</a></li>
+
         </ul>
 
 
