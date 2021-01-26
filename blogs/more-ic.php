@@ -91,14 +91,20 @@ But this in not the only basis for classification of ICs, for reference ICs can 
 <img src="../img/images/more-ic/image17.jpg" class="img-responsive floating-image center">       
 <br>
 <br><div class="blogPageSubHeading">Dual-in-line package:</div> Two rows of pins protruding from the bottom of the IC’s body. Their numbering is done just like we saw earlier, it starts anticlockwise from notch. There is an exclusive space in the breadboard for DIL Packaging:
-  <img src="../img/images/more-ic/image7.gif" class="img-responsive floating-image center">             
+  <img src="../img/images/more-ic/image2.jpg" class="img-responsive floating-image center">    
+  <img src="../img/images/more-ic/image20.png" class="img-responsive floating-image center">          
   <br>
 <br><div class="blogPageSubHeading">Quad-flat package (mounted on the surface):</div> The pins splay on from all four directions. QFP ICs might have anywhere from eight pins per side (32 total) to upwards of seventy (300+ total). How is their naming done? They do have a notch too, and thus, we pick the first pin and move anticlockwise.
+ <img src="../img/images/more-ic/image18.png" class="img-responsive floating-image center">    
+  <img src="../img/images/more-ic/image23.png" class="img-responsive floating-image center">          
+  
 <br>                             
 <br><div class="blogPageSubHeading">Ball Grid-array package:</div> (e.g microprocessors)
-      
+<img src="../img/images/more-ic/image22.jpg" class="img-responsive floating-image center">    
+  <img src="../img/images/more-ic/image21.gif" class="img-responsive floating-image center">          
+  <br>      
 For really advanced ICs, there are Ball Grid Array (BGA) packages. These are amazingly intricate little packages where little solder balls are positioned in a 2-D grid on the bottom of the IC. Sometimes the solder balls are attached directly to the die! The numbering is done just like how positions are assigned in a cartesian coordinate system, along the horizontal axis, alphabetically, and numbers on the vertical axis. If the row is 1 and B column, then the pin is labelled as B1. These packages are generally used for advanced microprocessors, like the raspberry pi.
-
+<br><br>
 So how do we use these ICs? We mount them to our circuit boards. Do you know how these are mounted? IC’s are mounted mainly using two techniques:
 <br> 
 <br><div class="blogPageSubHeading">Through Hole Mounting:</div> There are holes in the boards, and in these holes, the pins of ICs are stuck in, and then soldered on the other side. Through hole mounting is more robust and is used in military equipment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
@@ -123,19 +129,19 @@ So how do we use these ICs? We mount them to our circuit boards. Do you know how
  <br><div class="blogPageHeading">Naming and numbering of an IC:</div><br>
  
  Before jumping further, you should know a bit of IC Logic Families. A logic family refers to digital integrated circuit devices which are constructed with a combination of electronic gates. A family has its own power supply voltage and distinct logic levels.
- All IC chips have a two-part serial number. The first part of the serial number delineates the information of the manufacturer. The second part of the serial number indicates the technical specifications. 
- Many IC manufacturers produce identical chips with the same technical specifications. In the case of the serial number “MC74HC00", the “MC” field indicates the manufacturer Motorola and the “74HC00” field indicates that the chip is a Quad 2-input NAND gate IC. 
- 
+ <br>All IC chips have a two-part serial number. The first part of the serial number delineates the information of the manufacturer. The second part of the serial number indicates the technical specifications. 
+ <br>Many IC manufacturers produce identical chips with the same technical specifications. In the case of the serial number “MC74HC00", the “MC” field indicates the manufacturer Motorola and the “74HC00” field indicates that the chip is a Quad 2-input NAND gate IC. 
+ <br><br>
  Another naming convention for the 7400 Series ICs: 
-   
+  <br>
     <img src="../img/images/more-ic/image8.png" class="img-responsive floating-image center">                      
-                        
+    <br>                  
         
- SN - Manufacturer (Texas Electronics)
- 74 Series - Shows the series the corresponding temperature range belongs to.
- HCT - The sub-family
- 04 - Shows the device type. 
- 
+    <br>SN - Manufacturer (Texas Electronics)
+    <br>74 Series - Shows the series the corresponding temperature range belongs to.
+    <br>HCT - The sub-family
+    <br>04 - Shows the device type. 
+    <br><br>
  But it should be noted that there is no global naming standard for naming ICs. The part or manufacturer details are provided so that they can be used for reference purposes. Not to mention, you can always google a series number to find its datasheet.
                  
  <img src="../img/images/more-ic/image6.png" class="img-responsive floating-image center" style="height:220px;width:500px;">  
