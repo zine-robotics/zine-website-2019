@@ -154,6 +154,19 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						</div>
 					</div>
 				</div>
+				<div class="col-md-4 col-sm-6" class="card1">
+					<div class="info-box">
+						<img alt="Venue" data-src="../img/images/sensors/image39.gif" style="height:240px; width:400px;">
+						<h3>Sensors and their Applications</h3>
+						<p>The sensors are great. Aren’t they? We can’t coordinate, communicate, or even interact with the surrounding
+        environment without senses. Just like the human body, we have added the “ability to sense” to our robots!</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./sensors.php">Go to blog</a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 </div>
