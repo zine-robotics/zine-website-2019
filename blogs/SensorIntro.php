@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     SENSORS
@@ -47,14 +47,17 @@ In the next blog, we’ll learn about how to choose sensors. We’ll also classi
 
 Till then, try to think about more sensors that provide the data but not in the form of electric signals.<br><br>
 
+<ul class="pager">
+        <li class="previous"><a href="./arduino2.php">Previous</a></li>
+
+            <li class="next"><a href="./sensors.php">Next</a></li>
+        </ul>
 
     </div>
 </div>
 
 
-    </div>
-</div>
-
+    
 <?php include('footer-1.php') ?>
 
 </html>

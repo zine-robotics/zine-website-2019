@@ -458,14 +458,14 @@
             <br>
             <img src="../img/images/sensors/image59.gif" class="img-responsive floating-image center">
             <br><br>
-            <div class="blogPageSubHeading">c. Sharp Sensor</div><br><br>
-            <img src="../img/images/sensors/image3.png" class="img-responsive floating-image right">
+            <div class="blogPageSubHeading">c. Sharp Sensor</div>
+            <img src="../img/images/sensors/image3.png" class="img-responsive floating-image right" style="width:300px; height:300px;">
             <br>
             A sharp Distance sensor is used to detect the presence of nearby objects with the help of an IR transmitter
             and receiver. This sensor takes a continuous distance reading and reports the distance as an analog voltage
             that can be used to determine how close the nearest object is. These sensors are good for short-range
             detection i.e, from 10cm to 80cm.
-            <img src="../img/images/sensors/image82" class="img-responsive floating-image center">
+            <img src="../img/images/sensors/image82.png" class="img-responsive floating-image center">
             <br><br>
 
 
@@ -615,7 +615,7 @@ The most important property of the thermocouple is nonlinearity – the output v
 <br>IR sensor is an electronic instrument that is used to sense certain characteristics of its surroundings by either emitting or detecting IR radiation. These sensors are non-contacting. For example, if you hold an IR sensor in front of your desk without establishing any contact, the sensor detects the temperature of the desk based on the merit of its radiation.
 <br>
 <div class="blogPageSubHeading">Optical Pyrometer</div>
-<br><img src="../img/images/sensors/image46.png" class="img-responsive floating-image center">
+<br><img src="../img/images/sensors/image46.png" class="img-responsive floating-image center" style="height:400px; width:400px;">
 <br>We can see example of optical pyrometers which are used to detect temperature of furnaces, molten metals, and other overheated material or liquids is a non-contact temperature sensor which compares brightness of object to brightness of filament placed inside it.
 <br><br>
         <div class="blogPageHeading">
@@ -693,7 +693,7 @@ The most important property of the thermocouple is nonlinearity – the output v
             <div class="blogPageSubHeading">
         a. Optical Fingerprint Sensors
       </div> <br><br>
-         <img src="../img/images/sensors/image84.png" class="img-responsive floating-image left"><br>
+         <img src="../img/images/sensors/image84.png" class="img-responsive floating-image left" style="width:250px; height:300px;"><br>
          You must have come across these types of sensors while getting your Aadhar card. They have a machine where you have to press your fingers with all your strength on the panel just to find one of your fingers is not scanned correctly and you have to do it again. The way an optical scanner works is by shining a bright light over your fingerprint and taking a digital photo. The light-sensitive microchip makes the digital image by looking at the ridges and valleys of the fingerprint, turning them into 1’s and 0’s, and creates the user’s own personal code. The figure below shows how the light source reads the fingerprint and where that information goes. The disadvantage to this, while highly unlikely, is that a digital photo can be replicated.
          <br><br>
          <img src="../img/images/sensors/image28.png" class="img-responsive floating-image center"><br>
@@ -839,6 +839,10 @@ The most important property of the thermocouple is nonlinearity – the output v
             Till then, keep learning kudos!
 
 
+            <ul class="pager">
+        <li class="previous"><a href="./SensorIntro.php">Previous</a></li>
+
+        </ul>
 
 
 

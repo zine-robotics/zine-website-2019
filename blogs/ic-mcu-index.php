@@ -151,7 +151,30 @@ And then, we’ll descend into the sensors, their types, classification, etc.
 						<div><br></div>
 						<div class="text-link">
 							<a href="./arduino2.php">Go to blog</a>
-						</div>
+                        </div>
+                    <div class="info-box">
+						<img alt="Venue" data-src="../img/images/more-ic/ard2.png" style="height:240px; width:400px;">
+						<h3>Programming Arduino Uno</h3>
+						<p>Now let’s start programming our Arduino board. Generally, we code in Arduino IDE, compile it and upload it to the Arduino. And the Arduino mostly behaves as expected. Simple?
+                         The programming language we use for programming the Arduino devices is Arduino Programming Language.
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./arduino2.php">Go to blog</a>
+                        </div>    
+                    <div class="info-box">
+						<img alt="Venue" data-src="../img/images/sensorintro/image1.jpg" style="height:240px; width:400px;">
+						<h3>Sensors Intro</h3>
+						<p>Aight! It is time to learn about sensors now. Let’s cut to the chase!
+What is a sensor?Just like you have your senses to interact with the surroundings,
+fields of electronics also have several sensors so that the ICs and microcontrollers can interact with their surroundings.
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./arduino2.php">Go to blog</a>
+						</div>        
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6" class="card1">
