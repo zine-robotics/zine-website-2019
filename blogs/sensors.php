@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
 
-<div class="headImage">
+<div class="headIcImage">
 </div>
 <div class="heading">
     Sensors and their applications
@@ -271,7 +271,7 @@
         <br>- <a href="https://www.circuitstoday.com/light-activated-switch-circuit">Light Activated Switch Circuit</a>
         <br>- <a href="https://www.circuitstoday.com/automatic-led-emergency-light">Automatic LED Emergency Light</a>
         <br>- <a href="https://www.circuitstoday.com/night-security-light">Night Security Light</a>
-
+        <br><br>
         <b>Structure and Working</b><br><br>
 
         The basic structure of an LDR is shown below.
@@ -491,6 +491,355 @@
             <br><br>
             But why name a sharp sensor? Try to figure it out. Also, figure out why we require a sharp sensor if we
             already have an ultrasonic sensor for distance measurement.
+            <br><br>
+
+            <div class="blogPageHeading"> Passive IR sensor </div>
+    <br>
+    <img src="../img/images/sensors/image61.gif" class="img-responsive floating-image center">
+    <br>
+Ever happened that when you walk through the door of a mall or office or theatres or hotels and the door automatically opens as you reach near to it and closes as you go far from it? Or do we all have superpowers?
+<br><br>
+How does the door know we are near and we are far from it? 
+<br><br>
+<img src="../img/images/sensors/image12.gif" class="img-responsive floating-image center">
+<br>
+Is ‘someone’ watching us from a camera the whole time (other than the FBI or Mark Zuckerberg) and then opening and closing the door?
+<br><br>
+The answer is no if ‘someone’ above refers to a human but yes if ‘someone’ refers to a microcontroller and sensor. The sensor responsible for this is PIR or Passive Infrared Sensor. This sensor uses infrared light emitted by objects and then detects objects in its field of view.
+<br> 
+<img src="../img/images/sensors/image70.png" class="img-responsive floating-image center">
+<br>
+The PIR sensors are more complicated than the other sensors as they consist of two slots. <br>
+The <a href="https://science.howstuffworks.com/question244.htm">Fresnel lens</a> is used to see that the two slots of the PIR can see out past some distance. When the sensor is inactive, then the two slots sense the same amount of IR. The ambient amount radiates from the outdoors, walls or room, etc.
+<br>
+<img src="../img/images/sensors/image2.gif" class="img-responsive floating-image center"> 
+<br>
+When a human body or any animal passes by, then it intercepts the first slot of the PIR sensor. This causes a positive differential change between the two bisects. When a human body leaves the sensing area, the sensor generates a negative differential change between the two bisects. The infrared sensor itself is housed in a hermetically (airtight) sealed metal to improve humidity/temperature/ noise/ immunity. There is a window that is made of 
+<br><br>
+An application of a PIR sensor to sense the presence of a person to switch the lights on and off automatically.
+<img src="../img/images/sensors/image25.gif" class="img-responsive floating-image center"> 
+<br>
+<div class="blogPageSubHeading"> Applications </div>
+<br>* Used in automatic opening doors
+<br>* Used as a security alarm systems
+<br>* Robots that can detect humans
+<br><br>
+
+<div class="blogPageHeading">Rotary Encoders</div>
+
+<br>Before jumping to Rotary Encoders, let’s talk through encoders first, and then follow up the rotary encoders.
+<br>To understand what encoders are, let’s use a real-life scenario. You went to a mall for let’s say, dominos, and the mall main door automatically opens for you and now you know why. You want to go to the third floor but you already are exhausted as you were collecting components from different shops for building a robot for a competition . So, you reach for the elevator and enter it. Currently, the elevator is on the ground floor and you pressed the button for the third floor, simple and easy. But as you reached the third floor, you started to wonder how this elevator or the very powerful motors pulling the elevator knew that elevator reached the third floor?
+<br>Here the encoder does his job to tell the system (which is responsible for the functioning of the elevator) where the elevator is.
+<br>
+<br>Simply put, an encoder is a sensing device that provides <a href="https://www.analogictips.com/faq-what-is-feedback/#:~:text=In%20electronics%2C%20feedback%20is%20defined,and%20in%20many%20other%20areas.">feedback.</a> Encoders convert the motion to an electrical signal that can be read by some type of control device in a motion control system, such as a counter. Yes, the counter we created with the help of an IR sensor is also an encoder.
+<br><br>The encoder sends a feedback signal that can be used to determine position, count, speed, or direction. A control device can use this information to send a command for a particular function. Most of the functions of getting feedback from moving devices can be accomplished by linear and rotary encoders.
+<br><br>In our scenario, let’s assume our motors pulling the elevator are embedded with encoders so the system uses the data from encoders and generates a signal for the elevator to stop. The encoder provides the speed, position, and direction of the elevator in which it is moving.
+<br><br>Linear encoders provide feedback from linear motion and rotary encoders provide feedback from rotary motion.<br>
+<img src="../img/images/sensors/image10.png" class="img-responsive floating-image center"> 
+<br>Rotary Encoders can be fixed with the motor shaft to provide feedback of motor motion to the control system.
+<br>To understand how rotary encoders work, follow this <a href="https://www.youtube.com/watch?v=oLBYHbLO8W0">video</a> by Sparkfun.<br>
+<img src="../img/images/sensors/image68.png" class="img-responsive floating-image right"> 
+<br><br>In the above scenario, the encoder used is a rotary encoder embedded in motors but what if we need to create an elevator with a linear encoder also what is the need of encoders if motors work on the voltage provided? We can simply provide enough voltage according to the revolutions needed and rotation speed of the motor and determine the position after providing voltage for a fixed amount of time.
+<br><br>Try to think whether  the elevator you were on can be created with the help of linear encoders or not and the need of encoders with motors? Why is feedback needed?
+<br><br>
+<div class="blogPageSubHeading"> Applications</div>
+<br>
+<img src="../img/images/sensors/image64.jpg" class="img-responsive floating-image center"> 
+<br>* Trackball mouses use this rotary encoder to determine the position of the pointer according to the input fed by the trackball motion.
+<br>* Mouses with scroll wheels use rotary encoders for determining the number of revolutions or scrolls done by the user.
+<br>
+<img src="../img/images/sensors/image75.jpg" class="img-responsive floating-image center"> 
+<br>* Rotary encoders are used in the <a href="https://en.wikipedia.org/wiki/Tachometer#:~:text=A%20tachometer%20(revolution%2Dcounter%2C,digital%20displays%20are%20increasingly%20common.">tachometer</a> to determine the revolutions. Timer ICs are used for the calculation of time and then it outputs the rotary speed of the shaft it is attached to, in revolutions per unit time.
+<br>
+<br>
+<div class="blogPageHeading">Image sensors</div>
+<br>
+We talked a lot about optical sensors but still, a sensor is left in optical sensors which revolutionized the way of sharing information.
+<br>From the tedious task of drawing images to capturing high-resolution images in one-click? Yes, we’re talking about cameras. 
+<br>What made the tedious task of drawing images as simple as capturing high-resolution images in one-click? Yes, we’re talking about cameras. The camera has some similarities to the human eye, your iris controls how much light enters your eye, the lens helps focus the light and the retina is a light-sensitive surface at the back of your eye. It captures an image of what you’re looking at. Then, the retina sends impulses to your brain along the optic nerve. Finally, the brain interprets what you’re seeing. When a camera captures an image, First, light hits the surface of the camera’s lens. The aperture controls how much light enters the camera. Then, the light makes its way to a light-sensitive surface. For a long time, this surface was the camera’s film. In today’s digital cameras, this surface is an imaging sensor chip, converting information from photons into digital signals.
+<br>An image sensor is a sensor that detects and conveys information used to make an image. It does so by converting the variable attenuation of light waves (as they pass through or reflect off objects) into signals, small bursts of current that convey the information.
+<br>A simplified way to think about these sensors is to think of a 2-D array of thousands or millions of tiny solar cells. Once the sensor converts the light into electrons, it reads the value (accumulated charge) of each cell in the image. But reading the value from each cell is done in two different ways which divides the image sensors in two types:
+    <br><br>
+    <div class="blogPageSubHeading">  CCD image sensors (Charged-coupled device sensors)</div>
+    <br><img src="../img/images/sensors/image37.gif" class="img-responsive floating-image center"> 
+    <br>A CCD transports the charge across the chip to the adjacent vertical shift register. Then the charge is transferred by vertical shift register to a horizontal shift register which is then amplified and passed to an analog- to- digital converter (ADC) then turns each pixel's value into a digital value by measuring the amount of charge at each photosite and converting that measurement to binary form.
+    <br>It creates high-quality, low-noise images. CCD sensors have been mass-produced for a longer period of time, so they are more mature. They tend to have higher quality pixels, and more of them.
+    <br><br>
+    <div class="blogPageSubHeading"> CMOS image sensors (Complementary Metal-Oxide Semiconductor sensors)</div>
+    <br>
+    <br><img src="../img/images/sensors/image93.gif" class="img-responsive floating-image center"> 
+    <br>CMOS devices use several transistors at each pixel to amplify and move the charge using more traditional wires.
+    <br>Because each pixel on this sensor has several transistors located next to it, the light sensitivity of a CMOS chip is lower. Many of the photons hit the transistors instead of the photodiode.
+    <br>CMOS sensors traditionally consume little power. CCDs, on the other hand, use a process that consumes lots of power. CCDs consume as much as 100 times more power than an equivalent CMOS sensor.
+    <br> <br>To understand the concepts and differences better, follow this <a href="https://www.youtube.com/watch?v=MytCfECfqWc">video link</a> by Filmmaker.
+<br>
+<br><img src="../img/images/sensors/image89.jpg" class="img-responsive floating-image center"> 
+        Now you know how both image sensors work. It’s time to implement your knowledge. Determine which image sensor is used for capturing the image on the top. Also, determine the name of the effect responsible and explain the effect.
+        <br><br>
+
+        <div class="blogPageHeading"> Temperature sensor</div>
+        <br>
+There are various sensors available to detect temperature and provide the output in electric signals. A temperature sensor is defined as a device that collects the data about temperature from a particular source and converts the data into an understandable form for a device or an observer.
+<br><br>
+<div class="blogPageSubHeading">Types of Temperature Sensors</div>
+<br>
+There are different types of temperature sensors that have sensing capacity depending upon their range of application. They are as follows:
+
+
+    <br><br>
+    <div class="blogPageSubHeading">Thermocouples</div>
+    <br>
+    <br><img src="../img/images/sensors/image88.png" class="img-responsive floating-image center"> 
+The thermocouple sensor is the most commonly used temperature sensor. This sensor follows the following principle-
+<br>When a closed circuit is formed by joining two dissimilar metals (chromel and alumel as shown below) at two junctions, and junctions are maintained at different temperatures then an electromotive force (e.m.f.) is induced in this closed circuit. The amount of induced e.m.f. is different for different metal combinations and is proportional to the temperature difference of the junctions. The change in temperature is thus perceived as change in e.m.f using this sensor. It is extremely rugged, low-cost, self-powered, and can be used for longer periods.
+<br><img src="../img/images/sensors/gum.png" class="img-responsive floating-image center">
+<br> 
+The most important property of the thermocouple is nonlinearity – the output voltage of the thermocouple is not linear with respect to temperature. Thus, converting an output voltage to a temperature requires mathematical linearization.
+<br>
+<div class="blogPageSubHeading">Resistor temperature detectors</div>
+<br>RTD sensor is one of the most accurate sensors. In a resistor temperature detector, the resistance is proportional to the temperature. This sensor is made from platinum, nickel, and copper metals. It has a wide range of temperature measurement capabilities as it can be used to measure temperature in the range between -270°C to +850°C. RTD requires an external current source to function properly. However, the current produces heat in a resistive element causing an error in the temperature measurements.
+<br><img src="../img/images/sensors/image52.png" class="img-responsive floating-image center">
+<br>
+<div class="blogPageSubHeading">Thermistors</div>
+<br><img src="../img/images/sensors/image4.png" class="img-responsive floating-image center">
+<br>Another type of sensor is a thermistor temperature sensor, which is relatively inexpensive, adaptable, and easy to use. It changes its resistance when the temperature changes like an RTD sensor. Thermistors are made from manganese and oxides of nickel, which make them susceptible to damages. These materials are called ceramic materials. Thermistor offers higher sensitivity than the resistor temperature detectors. Most of the thermistors have a negative temperature coefficient. It means when the temperature increases the resistance decreases.
+<br>
+<div class="blogPageSubHeading">Semiconductor based sensors</div>
+<br><img src="../img/images/sensors/image80.png" class="img-responsive floating-image center">
+<br>Semiconductor sensors are the devices that come in the form of ICs. Popularly, these sensors are known as an IC temperature sensor. They are classified into different types: Current output temperature sensor, Voltage output temperature sensor, Resistance output silicon temperature sensor, Diode temperature sensors, and Digital output temperature sensor. Present semiconductor temperature sensors offer high linearity and high accuracy over an operating range of about 55°C to +150°C. 
+<br>LM35 is widely used in projects to detect temperature.
+<br><img src="../img/images/sensors/image57.png" class="img-responsive floating-image center">
+<br>Follow this <a href="https://create.arduino.cc/projecthub/infoelectorials/project-003-arduino-lm35-temperature-sensor-project-0a43ba">link</a> to know how LM35 can be used with an Arduino board and try to simulate the same in tinkercad.
+<br><div class="blogPageSubHeading">IR based</div>
+<br><img src="../img/images/sensors/image92.png" class="img-responsive floating-image center">
+<br>IR sensor is an electronic instrument that is used to sense certain characteristics of its surroundings by either emitting or detecting IR radiation. These sensors are non-contacting. For example, if you hold an IR sensor in front of your desk without establishing any contact, the sensor detects the temperature of the desk based on the merit of its radiation.
+<br>
+<div class="blogPageSubHeading">Optical Pyrometer</div>
+<br><img src="../img/images/sensors/image46.png" class="img-responsive floating-image center">
+<br>We can see example of optical pyrometers which are used to detect temperature of furnaces, molten metals, and other overheated material or liquids is a non-contact temperature sensor which compares brightness of object to brightness of filament placed inside it.
+<br><br>
+        <div class="blogPageHeading">
+        Flex Sensors
+      </div> <br><br>
+      Some sensors have a straightforward working principle but challenging tasks can be achieved by them. Flex sensors are one of them. A flex sensor or bend sensor is a sensor that measures the amount of deflection or bending. Usually, the sensor is stuck to the surface, and the resistance of the sensor element is varied by bending the surface.
+        <br><br>
+        <b>Working</b><br><br>
+        This sensor works on the bending strip principle which means whenever the strip is twisted then its resistance will be changed. This change can be measured. The sensor is composed of flexible long plastic sheets as shown below on which the conduction ink is printed.
+        <br><br>
+        <img src="../img/images/sensors/image16.png" class="img-responsive floating-image center"><br><br>
+        This sensor works similarly to a variable resistance because when twisted the resistance will change. If the sensor is bent in such a way that the surface on which conduction ink is printed is reduced, then the total resistance decreases according to the above-mentioned formula. Both length and area are reduced and resistance also decreases.
+        <br><br>
+        If the sensor is bent so that the surface with conduction ink expands, its length increase causing an increase in resistance. Two terminals are provided with the sensor and the change in resistance due to bending can be observed between those terminals and thus a flex sensor detects the amount of deflection in terms of resistance.
+        <br><br>
+        <img src="../img/images/sensors/image87.gif" class="img-responsive floating-image right"><br>
+        Suppose you have to create a glove to simulate hand gestures taking input from the glove. Now, if you use a rotary encoder to observe the changes done in real life, you need 12 rotary encoders just for fingers (excluding the thumb) and there will be a mesh of wires which makes motion and maintenance of your project difficult. Also, your glove will be fragile. So, flex sensors can be used instead to measure the degree of bend and the goal for our project can be achieved with less space being occupied and a more robust robot.
+        <br><br>
+        <div class="blogPageHeading">
+        Touch Screen Technology
+      </div> <br><br>
+      <img src="../img/images/sensors/image24.png" class="img-responsive floating-image right"><br>
+      Most of the devices with which we interact now have this touch screen sensor. Be it smartwatches, or your touch screen laptop There are many different touch sensor technologies on the market today, each using a different method to detect touch input. Fundamentally, these technologies all use an electrical current running through the panel that, when touched, causes a voltage or signal change. This voltage change is sensed by the touch controller to determine the location of the touch on the screen. And remember, the display and touch sensor are two different things. One is an output device and the other is an input device. You can alternatively try a key and a match stick to see which one works and why? Now, you know.<br><br>
+      Now, different types of touch sensor available are as follows:
+      <br><br>
+      <div class="blogPageSubHeading">
+        a. Capacity Touch Sensors
+      </div> <br><br>
+      <img src="../img/images/sensors/image53.png" class="img-responsive floating-image left"><br>
+      It’s called capacitive because the technology is based on the capacitive coupling that detects anything that is conductive or has a dielectric different from air. In this case, the human body (your fingers) is being used as an electrical charge conductor.
+      <br><br>
+      <img src="../img/images/sensors/image69.jpg" class="img-responsive floating-image left"><br>
+      The way it locates where your finger is on the screen is the change of the local electrostatic field when your finger touches the glass of the capacitive surface. An image processing controller continuously monitors the electrostatic field (or the movement of each tiny capacitor) to find where exactly the finger touched the screen. The figure below shows a helpful diagram on how it tracks the electrostatic field.
+         <br><br>
+         <img src="../img/images/sensors/image40.png" class="img-responsive floating-image center"><br>
+      The advantages of using capacitive touchscreens include a brighter and sharper image due to the glass layer, highly touch-sensitive, and supportive of multi-touch functions. This makes it great for smartphones and why you see it on iPhones, Samsung Galaxy, and HTC phones. Some disadvantages of using this touchscreen over a resistive one are that it is dependent on the conductivity of the human body, so a person can’t wear gloves (unless it has a conductive material on it). It’s also more expensive, and glass is prone to breaking more often.<br><br>
+      There is also a capacitive touch sensor available to work with Arduino. Follow this <a href="https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-a-touch-sensor-81b7f4">link</a> to know more about the touch sensor.
+      <br><br>
+      <div class="blogPageSubHeading">
+        b. Resistive Touch Sensors
+      </div> <br><br>
+      <img src="../img/images/sensors/image67.png" class="img-responsive floating-image left"><br>
+      The other type of touch screen/sensor is resistive. Unlike capacitive touch sensors which have a glass layer only, resistive touch sensors have several layers, where the two main layers are the flexible plastic (top circuit) and glass layer (bottom layer). The front surface has a flexible scratch-resistant plastic with a coating of conductive material (usually Indium Tin Oxide) on the underside.
+      <br><br>
+      <img src="../img/images/sensors/image11.png" class="img-responsive floating-image center"><br>
+      The second layer is also coated with ITO and is made of either glass or hard plastic. When a finger (or a stylus) presses down on the flexible plastic, it contacts the second layer (as shown in the figure on left) and measures the resistance of both the layers at wherever the point of contact was. The figure below shows a diagram of how it works.
+      But what does spacer dots do? Think about it!
+      <br><br>
+      Resistive touch sensors can be used with fingers, gloves, and stylus, and are resistive to dust and water, with low production costs but they are not as sensitive as capacitive ones. They require more pressure on the screen, have poor contrast due to additional reflection from the extra layer of material placed over the screen, and do not support multi-touch.
+      <br><br>
+      A <a href="https://www.pcmag.com/encyclopedia/term/membrane-keyboard">membrane keyboard</a> uses the same concept as a resistive touchscreen. You can try it on your keyboard if you want.
+      <br><br>
+      <div class="blogPageSubHeading">
+        b. IR Touch Sensors
+      </div> <br><br>
+      You might remember that we used IR sensors to detect obstacles and we also used sharp sensors which work on IR sensors to measure the distance of an obstacle from the sensor with high accuracy and precision within a given range. What if we use two linear arrays of sharp sensors and place them on the edge of a rectangular frame, one array in horizontal and another array in vertical as shown below. Now let’s connect each sensor with a microcontroller. 
+      <br><br>
+      <img src="../img/images/sensors/image83.png" class="img-responsive floating-image right"><br>
+      Your configuration might look like this - 
+      Ok, now try to put an obstacle, say your finger in the rectangle as shown above. You’ll see you can now detect the x-coordinate of your finger with the help of a horizontally placed array of sharp sensors and y-coordinate with the help of a vertically placed array of sharp sensors.<br>
+      The same principle can be applied to create a touch sensor with the help of IR sensors for regular use and there are multiple IR-based touch sensors available in the market. But IR touch screens too don’t support the multi-touch feature. Why don’t you try to figure that out by yourself! Would be fun!
+         <br><br>
+         <img src="../img/images/sensors/image27.gif" class="img-responsive floating-image right"><br>
+         A virtual keyboard using a camera and IR sensor for determining the x,y coordinate of touch to provide input to the controller circuit of the keyboard.
+         <br><br><br><br>
+         <div class="blogPageHeading">
+        Fingerprint Sensor
+      </div> <br><br>
+      We now know about the touch screen of our mobile device, but most of these mobile phones also come with a sensor for added security, and they are (drum rolls) - Fingerprint sensors!
+         <br><br>
+         <img src="../img/images/sensors/image13.png" class="img-responsive floating-image right"><br>
+         These advanced sensors are widely used in mobiles, modern IoT applications, and smart home appliances for user identification and better data security. They record the data of your fingerprint which is basically valleys and ridges.<br><br>
+         There are different types of fingerprint sensors such as:
+            <br><br>
+            <div class="blogPageSubHeading">
+        a. Optical Fingerprint Sensors
+      </div> <br><br>
+         <img src="../img/images/sensors/image84.png" class="img-responsive floating-image left"><br>
+         You must have come across these types of sensors while getting your Aadhar card. They have a machine where you have to press your fingers with all your strength on the panel just to find one of your fingers is not scanned correctly and you have to do it again. The way an optical scanner works is by shining a bright light over your fingerprint and taking a digital photo. The light-sensitive microchip makes the digital image by looking at the ridges and valleys of the fingerprint, turning them into 1’s and 0’s, and creates the user’s own personal code. The figure below shows how the light source reads the fingerprint and where that information goes. The disadvantage to this, while highly unlikely, is that a digital photo can be replicated.
+         <br><br>
+         <img src="../img/images/sensors/image28.png" class="img-responsive floating-image center"><br>
+         <div class="blogPageSubHeading">
+        b. Capacitive Fingerprint Sensors
+      </div> <br><br>
+      In today’s world, capacitive fingerprint scanners are more common and used in most smartphones. Similar to the capacitive touchscreen, it measures your finger by using human conductivity, creating an electrostatic field, and creating a digital image based on the electrostatic field.
+      <br>
+      <img src="../img/images/sensors/image62.jpg" class="img-responsive floating-image center"><br>
+      To go into more detail, the capacitive fingerprint scanner uses tiny capacitor array circuits that track the detail of a fingerprint. The charge of the capacitor changes where ridges of our fingers make contact with conductive plates while it remains unchanged in air gaps. An operational amplifier integrator circuit tracks these changes that can then be recorded by an analog-to-digital converter, where this digital data can be analyzed. The figure below shows the physics behind this.
+      <img src="../img/images/sensors/image72.png" class="img-responsive floating-image center"><br><br>
+
+      This technology is a lot harder to bypass since an image cannot get past the capacitive fingerprint sensor and other materials will record different changes in charge on the capacitor. But more security needs more money so it is more expensive, it’s also more complex.
+      <br><br>
+
+      <div class="blogPageSubHeading">
+        c. Ultrasonic Fingerprint Sensors
+      </div> <br><br>
+      Ok, so we used ultrasonic sound waves for distance measurement. We also used ultrasonic sound waves for the touchscreen sensor (which is indirectly distance determination in x,y - coordinates). But can we use ultrasonic sound for a fingerprint sensor?
+      <br><br>
+      <img src="../img/images/sensors/image78.jpg" class="img-responsive floating-image center"><br><br>
+      Yes, to determine the fingerprint, ultrasonic waves are emitted from the sensors, and the ones reaching first after reflection register as a ridge, and another one that takes more time registers as a valley as shown in the figure above.
+         <br><br>
+         <div class="blogPageSubHeading">
+        d. Thermal Fingerprint Sensors
+      </div> <br><br>
+      The sensing principle of this sensor works by measuring heat conductivity. A low-power heat pulse is applied to each sensor pixel over a short period and a response is measured. This response is different for pixels in proximity to a finger’s ridge or valley – to more effectively record fingerprint data.
+      <br><br>
+      <img src="../img/images/sensors/image90.jpg" class="img-responsive floating-image center"><br><br>
+      This type of fingerprint sensor is still new and not so popular but who knows what place they will take in near future. <a href="https://www.nextbiometrics.com/technology/">NEXT</a> Biometrics is one of the manufacturers of Thermal fingerprint sensor. Take a look at what they have created!
+      <br>
+      So you know a lot about fingerprint sensors and their types. Why don’t you explore some phones which use different types of fingerprint scanning technology? You might learn something new about them.
+      <br><br>     
+      
+      <div class="blogPageHeading">MEMS</div> <br><br>
+            What do you mean I am missing an ‘e’ in MEMS? Although they might sound similar but MEMS refer to
+            <b><u>M</u>icro<u>E</u>lectro<u>M</u>echanical <u>S</u>ystems</b> . It is a miniature machine that has both mechanical and electronic components.
+            A system comprising Electronic and mechanical components with size as small as possible. Can you believe that
+            the physical dimension of a MEMS can range from less than a few micrometers to several millimeters, a dimension
+            many times smaller than the width of a human hair?
+            <img src="../img/images/sensors/image35.png" class="img-responsive floating-image center"> <br> <br>
+            We’ll see some <strike>memes</strike> MEMS working in successive sensors.<br> <br>
+
+            <div class="blogPageHeading">Balance, acceleration, and position sensors</div> <br><br>
+
+            <div class="blogPageSubHeading">a. Accelerometer</div><br>
+
+            Whenever you lie down on the bed with one side and use your phone and suddenly boom! Your phone rotates horizontally from vertical. Yeah,
+            this sensor is the culprit for all that. But this is the very sensor that helps your phone to rotate to landscape when needed.
+            <br>
+            <img src="../img/images/sensors/image58.png" class="img-responsive floating-image left" width="250px">
+            An accelerometer is an electronic sensor that measures the acceleration forces acting on an object, to determine the object’s position in
+            space and monitor the object’s movement. An accelerometer measures the linear acceleration of movement and acceleration, which is a vector
+            quantity, the rate of change of an object’s velocity. It is used in various devices to determine orientation.
+            <img src="../img/images/sensors/image33.png" class="img-responsive floating-image right" width="250px"> <br> <br>
+            &nbsp &nbsp &nbsp There are two types of acceleration forces: static forces and dynamic forces. Static forces are forces that are constantly
+            being applied to the object (such as friction or gravity). Dynamic forces are “moving” forces applied to the object at
+            various rates (such as vibration, or the force exerted on a cue ball in a game of pool). This is why accelerometers are
+            used in automobile collision safety systems, for example. When a powerful dynamic force acts on a car, the accelerometer
+            (sensing a rapid deceleration) sends an electronic signal to an embedded computer, which in turn deploys the airbags
+            which is an excellent application of this sensor.<br><br>
+
+
+            There are two common types of accelerometer:
+            <br><br>
+            <b>1. Piezoelectric accelerometer</b> <br>
+            <img src="../img/images/sensors/image7.gif" class="img-responsive floating-image right"> <br>
+            A piezoelectric accelerometer consists of a mass attached to a piezoelectric crystal which is mounted on a case. When the
+            accelerometer body is subjected to vibration, the mass on the crystal remains undisturbed in space due to inertia. As a
+            result, the mass compresses and stretches the piezoelectric crystal. This force is proportional to acceleration following
+            Newton’s second law, F = ma, and generates a charge. The charge output is then converted into low impedance voltage output
+            with the help of electronics.
+            <br><br>
+            <b>2. MEMS Accelerometer</b> <br><br>
+            An accelerometer that uses MEMS to determine acceleration in given directions.The most common type of MEMS accelerometer is
+            a capacitive type.<br><br>
+            <b>Working</b><br><br>
+            It measures acceleration by measuring the change in capacitance.It has a mass attached to a spring which is confined to
+            move along one direction and fixed outer plates. So when an acceleration in a particular direction is applied the mass
+            will move, and the capacitance between the plates and the mass will change. This change in capacitance will be measured,
+            processed and it will correspond to a particular acceleration value.<br><br>
+            <img src="../img/images/sensors/image71.gif" class="img-responsive floating-image center"> <br>
+            MEMS accelerometers are widely used in portable electronic devices such as mobile phones (as we mentioned) and game
+            controllers to determine the orientation of devices.<br>
+            It is also used in UAVs (<b><u>U</b></u>nmanned <b><u>A</b></u>erial <b><u>V</b></u>ehicles) and drones to provide stabilization to drones in real-time which
+            in turn aids in their flight.<br><br>
+            <b>Analog vs Digital accelerometers</b><br><br>
+            Analog accelerometers have an output that is a continuous voltage proportional to the acceleration. Digital accelerometers typically use pulse width modulation so that there is a square wave at a certain frequency. In this case, the period of high voltage is proportional to the amount of acceleration.
+            On the digital accelerometer, measurement is done in the accelerometer itself. On the analog one, it is done at the MCU.
+            For simple arrangements where the accelerometer is near the MCU that makes more susceptible to noise. With longer wires/traces between the accelerometer and the MCU, you can get less accurate results with an analog one since it picks up noise which you are then sampling and including in your results.
+            One other main difference is that you are limited to the ADC that is in the digital accelerometer. If you want a different resolution you have to use a different accelerometer. With analog, since it has no inherent resolution, you sample at the resolution of your MCU's ADC.
+            <img src="../img/images/sensors/image48.png" class="img-responsive floating-image left" width="450px"> <br><br><br><br>
+            <img src="../img/images/sensors/image31.png" class="img-responsive floating-image right" width="450px"><br><br><br><br>
+
+            <br><br><br><br><br><br><br><br><br><br>
+            <div class="blogPageSubHeading">b. Gyroscopes</div><br>
+            So, you see that an accelerometer is used to determine the orientation. We change the orientation once, our accelerometer will pick that change but what if I want to know that with what angular velocity, the orientation of my device is being changed.
+            Accelerometer only provides me the data of changes in linear acceleration, how do I determine the angular position, velocity (the units of angular velocity are measured in degrees per second (°/s) or revolutions per second (RPS). Angular velocity is simply a measurement of the speed of rotation) and acceleration of my device? Gyroscopes are invented to serve this purpose.
+            <br><br>
+            Gyroscopes, or gyros, are devices that measure or maintain rotational motion.
+            <br><br>
+            <b>1. Mechanical Gyroscope</b>
+            <img src="../img/images/sensors/image18.gif" class="img-responsive floating-image right" width="250px"> <br><br>
+            The principle of a mechanical gyroscope is based on the gyroscopic effect.To understand what this effect is, we need a coin.
+            No, credit cards won’t work, it’s not about capital guys.Now, take a coin to a plane surface and try to hit the coin with
+            fingers to make it rotate on the surface like this, just like you did in your childhood.<br><br>
+            You’ll observe that when the coin starts to rotate, it rotates on a steady axis perpendicular to the surface. The coin might change its position while rotating but it won’t fall flat until the speed of rotation isn’t enough to fight the friction of the surface.
+            You’ll observe that coin was balancing itself. This tendency of our coin or any other rotating body to maintain a steady direction of its axis of rotation is known as a gyroscopic effect.
+            <br><br><img src="../img/images/sensors/image5.png" class="img-responsive floating-image left">
+            &nbsp &nbsp &nbsp Now, back to the mechanical gyros, it essentially consists of a spinning mass i.e rotor that rotates around its axis. In particular, when the mass is rotating on its axis, it tends to remain parallel to itself and to oppose any attempt to change its orientation. This mechanism was invented in 1852 by physicist Léon Foucault during his studies of the Earth’s rotation. If a gyroscope is installed on gimbals that allows the mass to navigate freely in the three directions of space, its spinning axis will remain oriented in the same direction, even if it changes direction.
+            <br><br><br><br>
+            <b>2. Vibration-based MEMS gyros</b><br><br>
+
+            <br><img src="../img/images/sensors/image20.png" class="img-responsive floating-image left" width="400px">
+            MEMS (microelectromechanical system) gyros are small, inexpensive sensors that measure angular velocity. It is the smaller electromechanical equivalent to a mechanical gyroscope. But how does a MEMS gyro detect angular velocity?
+            The gyroscope measures angular rate using the Coriolis Effect. When a mass is moving in a particular direction with a particular velocity and when an external angular rate will be applied as shown with the green arrow a force will occur, as shown with the blue-red arrow, which will cause perpendicular displacement of the mass. So similar to the accelerometer, this displacement will cause a change in capacitance which will be measured, processed, and will correspond to a particular angular rate.
+            <br><img src="../img/images/sensors/image51.gif" class="img-responsive floating-image right"><br>
+            The microstructure of the gyroscope looks something like this. A mass that is constantly moving, or oscillating, and when the external angular rate will be applied a flexible part of the mass would move and make the perpendicular displacement.
+            <br><br><img src="../img/images/sensors/image21.gif" class="img-responsive floating-image center"><br>
+            <br><br><img src="../img/images/sensors/image49.png" class="img-responsive floating-image center"><br>
+            <b>Applications</b><br><br>
+            <br><br><img src="../img/images/sensors/image74.jpg" class="img-responsive floating-image center"><br>
+            <div class="blogPageSubHeading">c. GPS</div><br>
+            <img src="../img/images/sensors/image34.png" class="img-responsive floating-image right"><br>
+            Earlier, travelers used stars to figure out their position on Earth. Now, you just need to enable the location services, open the map application on your
+            smartphone, and within seconds, you have your location accurate within a few meters. But we still need objects high in the sky to figure out where we are
+            and how we get to other places. Instead of stars, we use satellites. Over 30 navigation satellites are zipping around high above Earth. These satellites
+            can tell us exactly where we are. This system of 30 satellites circling Earth is a crucial part of a GPS or Global Positioning System. GPS is a system
+            of three parts: satellites, ground stations, and receivers.<br>
+            <br><br><img src="../img/images/sensors/image23.png" class="img-responsive floating-image left"><br>
+            &nbsp &nbsp &nbsp &nbsp Satellites equipped with high precision atomic clocks act like the stars in constellations—we know where satellites are supposed to be at any given time. These satellites broadcast signals constantly at the speed of light.
+            The ground stations use radar to make sure satellites are actually where we think they are.
+            And receivers in your mobile devices, trackers, cars receive the signal from those satellites.
+            To determine the position on Earth, receivers receive the signals broadcasted by those satellites and records the signal arrival time, and calculate the distance between satellites and receiver using simple formula i.e.
+            Distance = speed X time
+            <br><img src="../img/images/sensors/image14.png" class="img-responsive floating-image right"><br>
+            GPS works on the principle of trilateration. In trilateration, the position of an entity is determined with the help geometry of circles, spheres, or
+            triangles. In GPS we use spheres to determine the real-time position.
+            <br><br> &nbsp &nbsp &nbsp &nbsp After determining the distance of the device from the satellite, it is sure that a device must lie on the sphere of radius the same as the distance of the device from the satellite. Increase the number of spheres to at-least five (one being the Earth itself) and you have the location of your device.
+            <br><br>As the number of satellites increases, the accuracy of your location increases that determines the longitude and latitude of your position. At each point in time, at least four such satellites cover every place on Earth that is sufficient enough to provide locations accurate within a few meters. With the help of the internet and map application, your location is presented in user-friendly UI rather than coordinates.
+            <br><br>So, it ends with GPS and you know now where you are ¬‿¬
+            We will soon come with our next and final blog which helps you to reach sky-high.
+            Till then, keep learning kudos!
+
+
+
 
 
     </div>
