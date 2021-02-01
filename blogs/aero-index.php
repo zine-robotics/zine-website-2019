@@ -7,7 +7,7 @@
 
 	<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider3.jpg">
+				<img class="background-image" alt="Background Image" data-src="../img/images/aero/aero.jpg">
 			</div>
 			<div class="container">
 				<div class="row">
@@ -20,28 +20,13 @@
 
 		<li class="hero-slide">
 			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider.png">
+				<img class="background-image" alt="Background Image" data-src="../img/images/aero/drone.jpg">
 			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-6">
 						<h1 class="large-h1 text-white">AEROMODELLING</h1>
 					</div>
-				</div>
-			</div>
-		</li>
-
-		<li class="hero-slide">
-			<div class="background-image-holder parallax-background">
-				<img class="background-image" alt="Background Image" data-src="../img/Algo-index/algoSlider2.jpg">
-			</div>
-
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-sm-6">
-						<h1 class="large-h1 text-white">AEROMODELLING</h1>
-					</div>
-
 				</div>
 			</div>
 		</li>
