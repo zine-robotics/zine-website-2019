@@ -173,7 +173,7 @@ fields of electronics also have several sensors so that the ICs and microcontrol
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./arduino2.php">Go to blog</a>
+							<a href="./SensorsIntro.php">Go to blog</a>
 						</div>        
 					</div>
 				</div>

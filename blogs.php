@@ -263,6 +263,22 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="info-box" class="card1">
+						<img alt="Venue" data-src="img/images/aero/image19.png">
+						<h3 style="color:black; font-size:22px;">Aeromodelling</h3>
+						<p style="font-family:Arial; color:black; line-height:24px;">
+						If you have ever wondered how someone could fly, what would you think of? Wings? Propellers? 
+						 But how does it work? We are here to answer that question for you. That’s what we do in aeromodelling, we design, construct and fly our airplanes.
+
+						</p>
+						<div><br></div>
+						<div><br></div>
+						<div class="text-link">
+							<a href="./blogs/aero-index.php">Go to blog</a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		</div>
