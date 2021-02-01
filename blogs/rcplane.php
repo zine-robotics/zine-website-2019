@@ -112,9 +112,6 @@
         <br><br>
         <b>1.Tractor</b> : Such propulsion systems have propellers in front
         <img src="../img/images/aero/image42.png" class="img-responsive floating-image center">
-
-        <br>
-
         <center> It has propeller at front</center>
         <br><br>
         <b>2. Pusher</b> : Such propulsion systems have propellers at their back.
