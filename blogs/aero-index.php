@@ -61,7 +61,7 @@ Aero-modeling is a hobby as well as a profession.
 						<div><br></div>
 						<div><br></div>
 						<div class="text-link">
-							<a href="./algo-intro.php">Go to blog</a>
+							<a href="./aero-intro.php">Go to blog</a>
 						</div>
 					</div>
 				</div>
