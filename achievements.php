@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>ZINE | Robotics and Research Group - Where imagination leads to creation</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Zine - The only active robtics and research group MNIT for the last 7 years,since its foundation. We have participated in various nationals and internationals events related to a multitude of fields and have gained expertise in various concerned technologies areas. We have also been equally active in inter disciplinary research, at par with state of the art work going in diversified domains. Consistent team work coupled with perseverance, proper guidance, stimulating challenges have gained us numerous significant achievements.">
+    <meta name="description" content="Zine - The only active robtics and research group MNIT for the last 13 years,since its foundation. We have participated in various nationals and internationals events related to a multitude of fields and have gained expertise in various concerned technologies areas. We have also been equally active in inter disciplinary research, at par with state of the art work going in diversified domains. Consistent team work coupled with perseverance, proper guidance, stimulating challenges have gained us numerous significant achievements.">
     <meta name="keywords" content="Robotics and Research">
     <meta name="author" content="ZINE">
     <meta property="og:title" content="ZINE" />
@@ -31,6 +31,9 @@
     <link rel="stylesheet" href="timeline/css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="timeline/css/style_timeline.css"> <!-- Resource style -->
         <link rel="stylesheet" href="css/slider.css">
+                <link href="https://fonts.googleapis.com/css?family=Raleway:800&display=swap" rel="stylesheet">
+       
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
         
 	<script src="timeline/js/modernizr.js"></script> <!-- Modernizr -->
     </head>
@@ -63,11 +66,11 @@
 									<li><a target="_self" href="team.php">Team</a></li>
 									<li><a target="_self" href="project/Projects.php">Projects</a></li>
 									<li><a target="_self" href="achievements.php">Achievements</a></li>
-									<li><a target="_self" href="about.php">About</a></li>
-									<li><a target="_self" href="blogs.php">Blogs</a></li>	
+                                    <li><a target="_self" href="about.php">About</a></li>	
+									<li><a target="_self" href="blogs.php">BLOGS</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
-                                    		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+                                    		<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.youtube.com/channel/UCZgVlbeqVheaTYZP3eSRdMQ"><i class="icon social_youtube"></i></a></li>
 								    
 								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
 								</ul>
@@ -108,6 +111,262 @@
                   
             
     <section id="cd-timeline" class="cd-container">
+
+ 
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>IEEE Research Paper</h2>
+				<p>
+					A research paper on "Shortest Path Evaluation with Enhanced Linear Graph and Dijkstra Algorithm" was presented at 59th Annual Conference of SICE 
+
+					<br>Author : Tanishk Dudi
+				</p>
+				<span class="cd-date">November 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-cyan">
+				<img src="img/cd-icon-poster.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>CSAW Hack3D Hackathon 2020</h2>
+				<p>
+					2nd Place in a global virtual hackathon event 
+
+
+					<br>Team Members : Devansh Garg, Chirayu Rankawat
+				</p>
+				<span class="cd-date">November 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League StayAtHome Season 2</h2>
+				<p>
+					1st Place in Virtual Drone Race conducted on Velocidrone simulator
+
+
+					<br>Team Members : Devnath Nair, Vishal Kothari
+				</p>
+				<span class="cd-date">October 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-cyan">
+				<img src="img/cd-icon-poster.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>HackJaipur Virtual Hackathon 2020</h2>
+				<p>
+					1st Place among 2200+ participants and 360+ teams
+
+
+					<br>Team Members : Kshitiz Kamal, Muskan Garg, Saransh Tayal
+				</p>
+				<span class="cd-date">August 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 28, NIT Goa</h2>
+				<p>
+					2nd Place in Pro Class Race
+
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">March 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>India Drone Festival 2.0, ITDA, Dehradun</h2>
+				<p>
+					2nd Place in Tie the Knot
+
+
+					<br>Team Members : Vishal Kothari
+				</p>
+				<span class="cd-date">March 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 27, ITDA, Dehradun</h2>
+				<p>
+					1st Place in Pro Class Race
+
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">March 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 26, BITS PIlani Goa</h2>
+				<p>
+					2nd Place in Pro Class Race
+
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">February 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-location">
+				<img src="img/cd-icon-ktj.svg" alt="Location">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Kshitij 2020, IIT Kharagpur</h2>
+				<p>
+					2nd Place in Tesseract (autonomous event)
+
+
+					<br>Team Members : Devansh Garg, Puneet Singh, Apoorva Raj, Rahul Raj
+				</p>
+				<span class="cd-date">January 2020</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 24, VJTI, Mumbai</h2>
+				<p>
+					1st Place in Pro Class Race
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">December 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+			<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+				<img src="img/cd-icon-research.svg" alt="Movie">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Research Paper</h2>
+				<p>
+					A research paper on "A novel mobile based hybrid skin tone Classification algorithm for Cancer detection" was presented at REDSET 19 Conference held at GD Goenka
+
+					<br>Author : Paarth Bir
+				</p>
+				<span class="cd-date">December 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 23, PDPU, Gandhinagar</h2>
+				<p>
+					1st Place in Pro Class Race <br>
+					3rd Place in Pro Class Race
+
+					<br>Team Members : Devnath Nair, Vishal Kothari
+				</p>
+				<span class="cd-date">November 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+				<img src="img/cd-icon-movie.svg" alt="Movie">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Sphinx 2019, MNIT Jaipur</h2>
+				<p>
+					1st Place in Robotryst <br>
+					Team Members : Harsh Chaudhary, Brijraj, Akash Sharma
+					<br><br>
+					1st Place in Drone Rush <br>
+					3rd Place in Drone Rush	
+					<br>Team Members : Devnath Nair, Nimesh Khandelwal
+				</p>
+				<span class="cd-date">November 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Asia Drone League, Malaysia</h2>
+				<p>
+					Qualified into Top 32, 18th Overall amongst the top 70 pilots in Asia
+			
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">October 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 22, IIT Gandhinagar</h2>
+				<p>
+					1st Place in Pro Class Race
+			
+
+					<br>Team Members : Vishal Kothari
+				</p>
+				<span class="cd-date">October 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+	    <div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<img src="img/cd-icon-trophy.svg" alt="Picture">
+			</div> <!-- cd-timeline-img -->
+			<div class="cd-timeline-content">
+				<h2>Indian Drone Racing League 21, VIT Vellore</h2>
+				<p>
+					2nd Place in Pro Class Race
+			
+
+					<br>Team Members : Devnath Nair
+				</p>
+				<span class="cd-date">October 2019</span>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
 
     <div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-picture">
@@ -223,10 +482,10 @@
 			<div class="cd-timeline-content">
 				<h2>Kshitij 2019, IIT-Kharagpur</h2>
 				<p>
-					1st Place in Zenith <br>
-					2nd Place in Zenith
-					<br>Team Members (1st Place): Navdeep Singh, Bhanu Mohindra, Saransh Tayal, Kshitij Kamal<br>
-					Team Members (2nd Place): Nikita Rautela, Pravesh Sandhu, Rajat Agarwal, Brijraj 
+					1st Place in Zenith (manual event)<br>
+					Team Members : Navdeep Singh, Bhanu Mohindra, Saransh Tayal, Kshitiz Kamal<br>
+					<br>2nd Place in Zenith (manual event)<br>
+					Team Members : Nikita Rautela, Pravesh Sandhu, Rajat Agrawal, Brijraj 
 				</p>
 				<span class="cd-date">January 2019</span>
 			</div> <!-- cd-timeline-content -->
@@ -673,7 +932,7 @@ BKIT, Kota Rajasthan.
 				</p>
 				<span class="cd-date">2011</span>
 			</div> <!-- cd-timeline-content -->
-		<!-- cd-timeline-block -->
+		</div><!-- cd-timeline-block -->
 		
 		<div class="cd-timeline-block">
 			<div class="cd-timeline-img cd-movie">
@@ -749,5 +1008,65 @@ BKIT, Kota Rajasthan.
   </div>   
 </div>    
 --> 
-<?php include('footer-1.php') ?>
+<div class="footer-container">
+					<footer class="classic">
+						<div class="container">
+							<div class="row ui-sortable">
+								<div class="col-sm-2">
+									<ul class="menu">
+										<li><a target="_self" href="index.php">Home</a></li>
+										<li><a target="_self" href="about.php">About</a></li>
+                                        <li><a target="_self" href="project/Projects.php">Projects</a></li>
+                                        <li><a target="_self" href="achievements.php">Achievements</a></li>
+										<li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
+									</ul>
+								</div>
+								<div class="col-sm-7">
+									<span class="lead color-heading">About ZINE</span>
+									<p class="info-box">Zine is a creative group of engineering undergraduates of Malaviya National Institute of Technology , Jaipur who are together to learn, improve and apply their technical skills to help foster the growth of society and India in the field of technology by utilising their engineering skills to work on real time problems. It is comprised of students from various disciplines working under guidance of Dr. Rajesh Kumar from Electrical Engineering department and various alumni working in reputed firms and doing research in Universities in India and abroad. Zine has been the only active robotics and research group of MNIT for the last 13 years, since its foundation. </p>
+								</div>
+								<div class="col-sm-3">
+									<ul id="contact" class="contact-methods">
+										<li><i class="icon pe-7s-mail"></i><span>zine.nitj@gmail.com</span></li>
+										<li><i class="icon pe-7s-phone"></i><span>+91 9680389686</span></li>
+										<li><a href="https://goo.gl/maps/B3n7xyGqTDc1y4cXA" target="_blank"></a><i class="icon pe-7s-map-marker"></i></a><span>ZINE</span></li>
+										<li><a href="https://ramanlab.wordpress.com" target="_blank" ><span>Raman Lab</span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="row ui-sortable">
+								<div class="col-sm-12 text-center">
+									<ul class="social-profiles">
+										<li><a target="_blank" href="https://facebook.com/ZINE.ROBOTICS"><i class="icon social_facebook"></i></a></li>
+                                        <li><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited/about/"><i class="icon social_linkedin icon-large"></i></a></li>                                        
+										<li><a target="_blank" href="https://www.youtube.com/channel/UCZgVlbeqVheaTYZP3eSRdMQ"><i class="icon social_youtube icon-large"></i></a></li>
+										<li><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+										<li><a target="_blank" href="https://github.com/zine-robotics"><i class="fa fa-github fa-lg"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="timeline/js/main.js"></script> <!-- Resource jQuery -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/maxheight.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="js/main_backtotop.js"></script> 
+<script src="js/feednami.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/skrollr.min.js"></script>
+<script src="js/spectragram.min.js"></script>
+<script src="js/flexslider.min.js"></script>
+<script src="js/jquery.plugin.min.js"></script>
+<script src="js/jquery.countdown.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+<script src="js/smooth-scroll.min.js"></script>
+<script src="js/placeholders.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/tweets.js"></script>
+<script src="js/blog.js"></script>
+</body>
 </html>

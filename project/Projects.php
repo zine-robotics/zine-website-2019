@@ -76,7 +76,7 @@
 								<ul class="menu">
                                     <li><a target="_self" href="../index.php">Home</a></li>
 									<li><a target="_self" href="../team.php">Team</a></li>
-									<li><a target="_self" href="project/Projects.php">Projects</a></li>
+									<li><a target="_self" href="./Projects.php">Projects</a></li>
 									<li><a target="_self" href="../achievements.php">Achievements</a></li>
 									<li><a target="_self" href="../about.php">About</a></li>
 									<li><a target="_self" href="../blogs.php">Blogs</a></li>	
